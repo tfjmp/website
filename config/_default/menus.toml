@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Working with me"
+  url = "#phd"
+  weight = 10
+
+[[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
