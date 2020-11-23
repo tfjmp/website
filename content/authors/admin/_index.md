@@ -1,36 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Thomas Pasquier
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer (Assistant Professor) in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Bristol
+  url: "http://www.bristol.ac.uk/engineering/departments/computerscience/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital Provenance
+- Operating Systems
+- Distributed Systems
+- Data Protection and Privacy
+- Internet of Things
+- Intrusion Detection
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of Cambridge
+    year: 2016
+  - course: MPhil in Advanced Computer Science
+    institution: University of Cambridge
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Diplôme d'Ingénieur (apprenticeship)
+    institution: Institut Supérieur d'Electronique de Paris
+    year: 2011
+  - course: Diplôme Universitaire de Technologie (apprenticeship)
+    institution: Conservatoire National des Arts et Métiers
     year: 2008
 
 # Social/Academic Networking
@@ -57,10 +63,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tfjmp@cs.ubc.ca"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +75,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I will be [joining the University of British Columbia](https://www.cs.ubc.ca/news/2020/05/ubc-hires-three-new-systems-researchers-privacy-and-security) in Summer 2021. If you are considering a PhD, please, check [this](#phd). I am a [Lecturer (Assistant Professor)](https://en.wikipedia.org/wiki/Lecturer#United_Kingdom) at the [University of Bristol](http://www.bristol.ac.uk/) in the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/).
+I am a member of the [Microsoft Cloud Computing Research Centre](http://www.mccrc.org/) where we explore research topics at the intersection of Computer Science and Law.
+Before joining the University of Bristol, I held fellowships at Harvard University and the University of Cambridge.
+I obtained my PhD under the supervision of [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/) in 2016 at the University of Cambridge.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My primary research focus is the development of more transparent computer systems; my research includes topics such as whole-system provenance, computational experiments reproducibility, intrusion detection, privacy and compliance.
