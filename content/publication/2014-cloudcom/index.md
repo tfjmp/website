@@ -1,64 +1,23 @@
----
-title: "An example conference paper"
-authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
++++
+abstract = "Security concerns are widely seen as an obstacle to the adoption of cloud computing solutions and although a wealth of law and regulation has emerged, the technical basis for enforcing and demonstrating compliance lags behind. Our Cloud Safety Net project aims to show that Information Flow Control (IFC) can augment existing security mechanisms and provide continuous enforcement of extended. Finer-grained application-level security policy in the cloud. We present FlowK, a loadable kernel module for Linux, as part of a proof of concept that IFC can be provided for cloud computing. Following the principle of policy-mechanism separation, IFC policy is assumed to be expressed at application level and FlowK provides mechanisms to enforce IFC policy at runtime. FlowK's design minimises the changes required to existing software when IFC is provided. To show how FlowK can be integrated with cloud software we have designed and evaluated a framework for deploying IFC-aware web applications, suitable for use in a PaaS cloud."
+authors = ["T Pasquier", "J Bacon", "D Eyers"]
+date = "2014-12-15"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "In *Cloud Computing Technology and Science*, IEEE."
+publication_short = "In *CloudCom*"
+featured = false
+title = "FlowK: Information Flow Control for the Cloud"
+url_pdf = "files/publications/2014-cloudcom.pdf"
+url_project = "project/cloudsafetynet/"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# Digital Object Identifier (DOI)
+doi = "10.1109/CloudCom.2014.11"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = "Overview"
 
-# Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: true
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
++++
