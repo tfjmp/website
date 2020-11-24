@@ -46,16 +46,32 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:tfjmp@cs.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tfjmp
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=TplQGj4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tfjmp
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Thomas_Pasquier2
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0001-6876-1306
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0001-6876-1306
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/thomaspasquier
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pid/144/4204.html
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
