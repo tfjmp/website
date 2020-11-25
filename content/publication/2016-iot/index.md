@@ -9,7 +9,7 @@ publication = "In *Internet of Things Journal*, IEEE."
 publication_short = "In *IoT Journal*"
 featured = false
 title = "Twenty security considerations for cloud-supported Internet of Things"
-url_pdf = "files/publications/2016-iot.pdf"
+url_pdf = "publications/2016-iot.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

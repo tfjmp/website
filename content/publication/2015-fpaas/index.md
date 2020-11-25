@@ -9,7 +9,7 @@ publication = "In *International Workshop on Future of PaaS*, IEEE."
 publication_short = "In *FPaaS*"
 featured = false
 title = "Information Flow Control for Strong Protection with Flexible Sharing in PaaS"
-url_pdf = "files/publications/2015-fpaas.pdf"
+url_pdf = "publications/2015-fpaas.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

@@ -10,7 +10,7 @@ publication_short = "In *CCS '18*"
 featured = true
 title = "Runtime Analysis of Whole-System Provenance"
 url_code = "http://camflow.org"
-url_pdf = "files/publications/2018-ccs.pdf"
+url_pdf = "publications/2018-ccs.pdf"
 url_project = "project/camflow/"
 
 # Digital Object Identifier (DOI)

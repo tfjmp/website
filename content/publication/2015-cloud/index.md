@@ -9,7 +9,7 @@ publication = "In *International Conference on Cloud Computing*, IEEE."
 publication_short = "In *CLOUD*"
 featured = false
 title = "Managing Big Data with Information Flow Control"
-url_pdf = "files/publications/2015-cloud.pdf"
+url_pdf = "publications/2015-cloud.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

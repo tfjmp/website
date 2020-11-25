@@ -9,7 +9,7 @@ publication = "In *Workshop on Hot Topics in Cloud Computing*, USENIX."
 publication_short = "In *HotCloud*"
 featured = false
 title = "FRAPpuccino: Fault-detection through Runtime Analysis of Provenance"
-url_pdf = "files/publications/2017-hotcloud.pdf"
+url_pdf = "publications/2017-hotcloud.pdf"
 url_project = "project/camflow/"
 
 

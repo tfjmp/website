@@ -9,7 +9,7 @@ publication = "In *Cloud Computing Technology and Science*, IEEE."
 publication_short = "In *CloudCom*"
 featured = false
 title = "Clouds of Things Need Information Flow Control with Hardware Roots of Trust"
-url_pdf = "files/publications/2015-cloudcom.pdf"
+url_pdf = "publications/2015-cloudcom.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

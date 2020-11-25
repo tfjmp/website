@@ -9,7 +9,7 @@ publication = "In *International Middleware Conference* (Middleware'19), ACM/IFI
 publication_short = "ACM/IFIP *Middleware'19*"
 featured = false
 title = "ProvMark: A Provenance Expressiveness Benchmarking System"
-url_pdf = "files/publications/2019-mw.pdf"
+url_pdf = "publications/2019-mw.pdf"
 url_project = "project/camflow/"
 
 # Digital Object Identifier (DOI)

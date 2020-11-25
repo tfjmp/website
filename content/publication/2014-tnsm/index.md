@@ -9,7 +9,7 @@ publication = "In *Transactions on Network and System Management, SI Cloud Servi
 publication_short = "In *TNSM*"
 featured = false
 title = "Information Flow Control for Secure Cloud Computing"
-url_pdf = "files/publications/2014-tnsm.pdf"
+url_pdf = "publications/2014-tnsm.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

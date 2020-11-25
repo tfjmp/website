@@ -9,7 +9,7 @@ publication = "In *International Conference on Recent Advances in Internet of Th
 publication_short = "In *RIoT*"
 featured = false
 title = "Securing Tags to Control Information Flows within the Internet of Things"
-url_pdf = "files/publications/2015-riot.pdf"
+url_pdf = "publications/2015-riot.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

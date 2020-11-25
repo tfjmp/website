@@ -9,7 +9,7 @@ publication = "In *Symposium on Access Control Models and Technologiese*, ACM."
 publication_short = "In *SACMAT*"
 featured = false
 title = "Data-Centric Access Control for Cloud Computing"
-url_pdf = "files/publications/2016-sacmat.pdf"
+url_pdf = "publications/2016-sacmat.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

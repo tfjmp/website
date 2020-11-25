@@ -9,7 +9,7 @@ publication = "In *International Conference on Cloud Engineering*, IEEE."
 publication_short = "In *IC2E*"
 featured = false
 title = "PHP2Uni: Building Unikernels using Scripting Language Transpilation"
-url_pdf = "files/publications/2017-ic2e.pdf"
+url_pdf = "publications/2017-ic2e.pdf"
 url_project = ""
 
 # Digital Object Identifier (DOI)

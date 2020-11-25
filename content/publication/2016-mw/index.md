@@ -8,8 +8,8 @@ publication_types = ["1"]
 publication = "In *International Middleware Conference*, ACM/USENIX/IFIP."
 publication_short = "In *Middleware*"
 featured = false
-title = "Big Ideas paper:Policy-driven middleware for a legally-compliant Internet of Things"
-url_pdf = "files/publications/2016-mw.pdf"
+title = "Big Ideas paper: Policy-driven middleware for a legally-compliant Internet of Things"
+url_pdf = "publications/2016-mw.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

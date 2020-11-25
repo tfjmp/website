@@ -9,7 +9,7 @@ publication = "In *International Conference on Cloud Engineering*, IEEE."
 publication_short = "In *IC2E*"
 featured = false
 title = "Information Flow Audit for PaaS clouds"
-url_pdf = "files/publications/2016-ic2e.pdf"
+url_pdf = "publications/2016-ic2e.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

@@ -10,7 +10,7 @@ publication_short = "In *SoCC '17*"
 featured = true
 title = "Practical Whole-System Provenance Capture"
 url_code = "http://camflow.org"
-url_pdf = "files/publications/2017-socc.pdf"
+url_pdf = "publications/2017-socc.pdf"
 url_project = "project/camflow/"
 
 # Digital Object Identifier (DOI)

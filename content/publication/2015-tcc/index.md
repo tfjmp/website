@@ -9,7 +9,7 @@ publication = "In *Transactions on Cloud Computing*, IEEE."
 publication_short = "In *TCC*"
 featured = false
 title = "CamFlow: Managed Data-Sharing for Cloud Services"
-url_pdf = "files/publications/2015-tcc.pdf"
+url_pdf = "publications/2015-tcc.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

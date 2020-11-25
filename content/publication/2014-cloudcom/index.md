@@ -9,7 +9,7 @@ publication = "In *Cloud Computing Technology and Science*, IEEE."
 publication_short = "In *CloudCom*"
 featured = false
 title = "FlowK: Information Flow Control for the Cloud"
-url_pdf = "files/publications/2014-cloudcom.pdf"
+url_pdf = "publications/2014-cloudcom.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

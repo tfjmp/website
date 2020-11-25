@@ -9,7 +9,7 @@ publication = "In *International Conference on Modularity*, IEEE."
 publication_short = "In *Modularity*"
 featured = false
 title = "FlowR: Aspect Oriented Programming for Information Flow Control in Ruby"
-url_pdf = "files/publications/2014-modularity.pdf"
+url_pdf = "publications/2014-modularity.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

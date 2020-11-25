@@ -9,7 +9,7 @@ publication = "In *Workshop on Legal and Technical Issues in Cloud Computing and
 publication_short = "In *CLaw*"
 featured = false
 title = "Information Flow Audit for Transparency and Compliance in the Handling of Personal Data"
-url_pdf = "files/publications/2016-claw.pdf"
+url_pdf = "publications/2016-claw.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

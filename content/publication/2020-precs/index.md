@@ -9,7 +9,7 @@ publication = "In *International Workshop on Practical Reproducible Evaluation o
 publication_short = "*P-RECS'20*"
 featured = false
 title = "Xanthus: Push-button Orchestration of Host Provenance Data Collection"
-url_pdf = "files/publications/2020-p-recs.pdf"
+url_pdf = "files/publications/2020-precs.pdf"
 url_project = "project/camflow/"
 
 # Digital Object Identifier (DOI)

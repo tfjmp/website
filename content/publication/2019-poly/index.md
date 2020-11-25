@@ -9,7 +9,7 @@ publication = "In *VLDB Workshop on Towards Polystores that manage multiple Data
 publication_short = "Springer *Poly'19*"
 featured = false
 title = "From Here to Provtopia"
-url_pdf = "files/publications/2019-poly.pdf"
+url_pdf = "publications/2019-poly.pdf"
 url_project = "project/camflow/"
 
 # Digital Object Identifier (DOI)

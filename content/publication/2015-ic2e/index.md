@@ -9,7 +9,7 @@ publication = "In *International Conference on Cloud Engineering*, IEEE."
 publication_short = "In *IC2E*"
 featured = false
 title = "Integrating Middleware with Information Flow Control"
-url_pdf = "files/publications/2015-ic2e.pdf"
+url_pdf = "publications/2015-ic2e.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

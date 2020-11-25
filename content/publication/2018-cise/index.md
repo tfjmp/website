@@ -9,7 +9,7 @@ publication = "In *Computing in Science & Engineering*, IEEE."
 publication_short = "In *Computing in Science & Engineering*"
 featured = false
 title = "Sharing and Preserving Computational Analyses for Posterity with encapsulator"
-url_pdf = "files/publications/2018-cise.pdf"
+url_pdf = "publications/2018-cise.pdf"
 url_project = "project/provtools/"
 url_code = "https://github.com/ProvTools/encapsulator"
 

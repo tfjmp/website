@@ -9,7 +9,7 @@ publication = "In *Scientific Data*, Nature."
 publication_short = "In *SciData*"
 featured = true
 title = "If these data could talk"
-url_pdf = "files/publications/2017-scidata.pdf"
+url_pdf = "publications/2017-scidata.pdf"
 url_project = "project/provtools/"
 
 # Digital Object Identifier (DOI)

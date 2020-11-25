@@ -9,7 +9,7 @@ publication = "In *Workshop on Legal and Technical Issues in Cloud Computing and
 publication_short = "In *CLaw*"
 featured = false
 title = "Expressing and Enforcing Location Requirements in the Cloud using Information Flow Control"
-url_pdf = "files/publications/2015-claw.pdf"
+url_pdf = "publications/2015-claw.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

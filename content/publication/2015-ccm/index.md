@@ -9,7 +9,7 @@ publication = "In *Cloud Computing Magazine*, IEEE."
 publication_short = "In *Cloud Computing Magazine*"
 featured = false
 title = "Data Flow Management and Compliance in Cloud Computing"
-url_pdf = "files/publications/2015-ccm.pdf"
+url_pdf = "publications/2015-ccm.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Digital Object Identifier (DOI)

@@ -9,7 +9,7 @@ publication = "In *UCAM-CL-TR-863*, University of Cambridge, Computer Laboratory
 publication_short = "In *UCAM-CL-TR-863*"
 featured = false
 title = "Regional clouds: technical considerations"
-url_pdf = "files/publications/2014-tr.pdf"
+url_pdf = "publications/2014-tr.pdf"
 url_project = "project/cloudsafetynet/"
 
 # Optional featured image (relative to `static/img/` folder).

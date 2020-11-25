@@ -9,7 +9,7 @@ publication = "In *USENIX Security Symposium* (USENIX Sec'21)."
 publication_short = "*USENIX Sec'21*"
 featured = true
 title = "SIGL: Securing Software Installations Through Deep Graph Learning"
-url_pdf = "files/publications/2021-USENIXsec.pdf"
+url_pdf = "publications/2021-usenixsec.pdf"
 url_project = ""
 
 # Digital Object Identifier (DOI)

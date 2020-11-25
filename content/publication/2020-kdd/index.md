@@ -9,7 +9,7 @@ publication = "In *Conference on Knowledge Discovery and Data Mining* (KDD'20)."
 publication_short = "*KDD'20*"
 featured = true
 title = "To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics"
-url_pdf = "files/publications/2020-kdd.pdf"
+url_pdf = "publications/2020-kdd.pdf"
 url_project = ""
 
 # Digital Object Identifier (DOI)

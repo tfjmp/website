@@ -9,7 +9,7 @@ publication = "In *Network and Distributed System Security Symposium* (NDSS'20).
 publication_short = "*NDSS'20*"
 featured = true
 title = "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats"
-url_pdf = "files/publications/2020-ndss.pdf"
+url_pdf = "publications/2020-ndss.pdf"
 url_project = "project/camflow/"
 
 # Digital Object Identifier (DOI)
