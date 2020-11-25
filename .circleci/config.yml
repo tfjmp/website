@@ -29,6 +29,9 @@ jobs:
             - run: 'git clone https://github.com/tfjmp/tfjmp.github.io'
             - run: 'ls'
             - run: 'rsync -av public tfjmp.github.io'
+            - run: 'cd tfjmp.github.io'
+            - run: 'git add .'
+            - run: 'git commit -a -m "[ci skip] automatically generated website, based on commit ${CIRCLE_SHA1}"'
 workflows:
   version: 2
   build-and-deploy:
