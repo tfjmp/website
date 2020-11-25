@@ -1,0 +1,56 @@
+version: 2.1
+jobs:
+    build:
+        machine:
+            image: ubuntu-1604:202004-01
+        working_directory: ~/build
+        steps:
+            - checkout
+            - run: 'sudo apt update'
+            - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.78.2/hugo_extended_0.78.2_Linux-64bit.deb'
+            - run: 'sudo apt -y install ./hugo_extended_0.78.2_Linux-64bit.deb'
+            - run: 'sudo apt -y install snapd'
+            - run: 'sudo snap install --classic go'
+            - run: 'hugo --verbose'
+            - persist_to_workspace:
+                root: .
+                paths:
+                    - public
+    deploy:
+        machine:
+            image: ubuntu-1604:202004-01
+        working_directory: ~/build
+        steps:
+            - checkout
+            - attach_workspace:
+                at: ~/build
+            - run: 'git config --global user.email $GH_EMAIL'
+            - run: 'git config --global user.name $GH_NAME'
+            - run: 'git clone https://github.com/tfjmp/tfjmp.github.io'
+            - run: 'ls'
+            - run: 'rsync -av public/ tfjmp.github.io'
+            - run:
+                name: 'Publish on Github.'
+                command: |
+                    cd tfjmp.github.io
+                    git add .
+                    git status
+                    if ! git diff-index --exit-code --quiet HEAD; then
+                        echo 'Committing...'
+                        git commit -a -m "[ci skip] automatically generated website, based on commit ${CIRCLE_SHA1}"
+                        git push -q https://${GH_TOKEN}@github.com/tfjmp/tfjmp.github.io.git master
+                    else
+                        echo 'Nothing to commit.'
+                    fi
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          filters:
+              branches:
+                  only:
+                      - master
+          requires:
+            - build
