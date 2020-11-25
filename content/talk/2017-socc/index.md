@@ -17,7 +17,7 @@ selected = false
 math = true
 
 url_pdf = "https://arxiv.org/pdf/1711.05296.pdf"
-url_slides = "http://tfjmp.org/files/presentations/2017-socc.pdf"
+url_slides = ""
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).

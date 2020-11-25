@@ -17,7 +17,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = "http://tfjmp.org/files/presentations/2020-ndsi.pdf"
+url_slides = "slides/2020-ndsi.pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).

@@ -17,7 +17,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = "http://tfjmp.org/files/presentations/2019-turing.pdf"
+url_slides = "slides/2019-turing.pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
