@@ -10,6 +10,7 @@ publication_short = "*BidData'20*"
 featured = false
 title = "Accelerating the Configuration Tuning of Big Data Analytics with Similarity-aware Multitask Bayesian Optimization"
 url_pdf = "files/publications/2020-bigdata.pdf"
+url_slides = "slides/2020-bigdata.pdf"
 url_project = ""
 
 # Digital Object Identifier (DOI)
