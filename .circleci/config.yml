@@ -6,12 +6,12 @@ jobs:
         working_directory: ~/build
         steps:
             - checkout
-            - sudo apt update
-            - wget https://github.com/gohugoio/hugo/releases/download/v0.78.2/hugo_extended_0.78.2_Linux-64bit.deb
-            - sudo apt -y install ./hugo_extended_0.78.2_Linux-64bit.deb
-            - sudo apt -y install snapd
-            - sudo snap install --classic go
-            - hugo --ignoreCache=true --minify
+            - run: 'sudo apt update'
+            - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.78.2/hugo_extended_0.78.2_Linux-64bit.deb'
+            - run: 'sudo apt -y install ./hugo_extended_0.78.2_Linux-64bit.deb'
+            - run: 'sudo apt -y install snapd'
+            - run: 'sudo snap install --classic go'
+            - run: 'hugo --ignoreCache=true --minify'
 workflows:
   version: 2
   build-and-deploy:
