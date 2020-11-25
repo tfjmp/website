@@ -26,12 +26,11 @@ jobs:
                 at: ~/build
             - run: 'git config --global user.email $GH_EMAIL'
             - run: 'git config --global user.name $GH_NAME'
+            - run: 'ls'
+            - run: 'cd public'
             - run: 'mkdir remote'
             - run: 'cd remote'
             - run: 'git clone https://github.com/tfjmp/tfjmp.github.io'
-            - run: 'cd tfjmp.github.io'
-            - run: 'ls'
-            - run: 'ls ../../public'
 workflows:
   version: 2
   build-and-deploy:
