@@ -6,9 +6,9 @@ jobs:
         working_directory: ~/build
         steps:
             - checkout
-            - run: 'apt update'
-            - run: 'apt -y install snapd'
-            - run: 'snap install --classic go'
+            - run: 'sudo apt update'
+            - run: 'sudo apt -y install snapd'
+            - run: 'sudo snap install --classic go'
             - run: 'hugo --ignoreCache=true --minify --verbose'
             - persist_to_workspace:
                 root: .
