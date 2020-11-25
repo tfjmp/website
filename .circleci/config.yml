@@ -28,7 +28,7 @@ jobs:
             - run: 'git config --global user.name $GH_NAME'
             - run: 'git clone https://github.com/tfjmp/tfjmp.github.io'
             - run: 'ls'
-            - run: 'rsync -av public tfjmp.github.io'
+            - run: 'rsync -av public/ tfjmp.github.io'
             - run:
                 name: 'Publish on Github.'
                 command: |
