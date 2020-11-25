@@ -61,7 +61,7 @@ I am looking to work with students from all background (first generation student
 
 ## Before contacting me
 
-* Have a look at my publications.
+* Have a look at my [publications](https://tfjmp.org/publication/).
 * Identify matching interests.
 * Understand that I will not supervise students outside of my area of expertise.
 * Find a set of papers which aligns with your interests.
