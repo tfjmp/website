@@ -17,7 +17,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = ""
+url_slides = "slides/2020-toshiba.pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
