@@ -10,7 +10,8 @@ publication_short = "*KDD'20*"
 featured = true
 title = "To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics"
 url_pdf = "publications/2020-kdd.pdf"
-url_project = ""
+url_project = "project/tuneful"
+projects = ["tuneful"]
 
 # Digital Object Identifier (DOI)
 doi = ""

@@ -10,7 +10,8 @@ publication_short = "*IC2E'20*"
 featured = false
 title = "Facilitating plausible deniability for cloud providers regarding tenants' activities using trusted execution"
 url_pdf = "publications/2020-ic2e.pdf"
-url_project = ""
+url_project = "project/mccrc/"
+projects = ["mccrc"]
 
 # Digital Object Identifier (DOI)
 doi = ""

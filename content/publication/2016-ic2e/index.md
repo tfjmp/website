@@ -11,6 +11,7 @@ featured = false
 title = "Information Flow Audit for PaaS clouds"
 url_pdf = "publications/2016-ic2e.pdf"
 url_project = "project/cloudsafetynet/"
+projects = ["cloudsafetynet"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/IC2E.2016.19"

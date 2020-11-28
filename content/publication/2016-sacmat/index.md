@@ -11,6 +11,7 @@ featured = false
 title = "Data-Centric Access Control for Cloud Computing"
 url_pdf = "publications/2016-sacmat.pdf"
 url_project = "project/cloudsafetynet/"
+projects = ["cloudsafetynet"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1145/2914642.2914662"

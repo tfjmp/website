@@ -10,7 +10,8 @@ publication_short = "*P-RECS'20*"
 featured = false
 title = "Xanthus: Push-button Orchestration of Host Provenance Data Collection"
 url_pdf = "files/publications/2020-precs.pdf"
-url_project = "project/camflow/"
+url_project = "project/camflow"
+projects = ["camflow"]
 
 # Digital Object Identifier (DOI)
 doi = ""

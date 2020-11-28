@@ -10,7 +10,8 @@ publication_short = "In *Cloud Computing Magazine*"
 featured = false
 title = "Data Flow Management and Compliance in Cloud Computing"
 url_pdf = "publications/2015-ccm.pdf"
-url_project = "project/cloudsafetynet/"
+url_project = "project/mccrc/"
+projects = ["mccrc"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/MCC.2015.69"

@@ -11,6 +11,7 @@ featured = false
 title = "Information Flow Control for Strong Protection with Flexible Sharing in PaaS"
 url_pdf = "publications/2015-fpaas.pdf"
 url_project = "project/cloudsafetynet/"
+projects = ["cloudsafetynet"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/IC2E.2015.64"

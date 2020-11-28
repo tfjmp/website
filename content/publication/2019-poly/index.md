@@ -10,7 +10,8 @@ publication_short = "Springer *Poly'19*"
 featured = false
 title = "From Here to Provtopia"
 url_pdf = "publications/2019-poly.pdf"
-url_project = "project/camflow/"
+url_project = "project/camflow"
+projects = ["camflow"]
 
 # Digital Object Identifier (DOI)
 doi = ""

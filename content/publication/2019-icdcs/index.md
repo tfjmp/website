@@ -10,7 +10,8 @@ publication_short = "IEEE *ICDCS'19*"
 featured = false
 title = "Towards Seamless Configuration Tuning of Big Data Analytics"
 url_pdf = "publications/2019-icdcs.pdf"
-url_project = ""
+url_project = "project/tuneful"
+projects = ["tuneful"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/ICDCS.2019.00188"

@@ -11,6 +11,7 @@ featured = false
 title = "FlowR: Aspect Oriented Programming for Information Flow Control in Ruby"
 url_pdf = "publications/2014-modularity.pdf"
 url_project = "project/cloudsafetynet/"
+projects = ["cloudsafetynet"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1145/2577080.2577090"

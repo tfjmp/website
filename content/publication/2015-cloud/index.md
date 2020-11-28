@@ -11,6 +11,7 @@ featured = false
 title = "Managing Big Data with Information Flow Control"
 url_pdf = "publications/2015-cloud.pdf"
 url_project = "project/cloudsafetynet/"
+projects = ["cloudsafetynet"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/CLOUD.2015.76"

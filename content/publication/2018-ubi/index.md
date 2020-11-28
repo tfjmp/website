@@ -10,7 +10,8 @@ publication_short = "In *Personal and Ubiquitous Computing*"
 featured = false
 title = "Data provenance to audit compliance with privacy policy in the Internet of Things"
 url_pdf = "publications/2018-ubi.pdf"
-url_project = "project/camflow/"
+url_project = "project/mccrc/"
+projects = ["mccrc"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1007/s00779-017-1067-4"

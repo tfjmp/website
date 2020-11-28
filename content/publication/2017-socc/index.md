@@ -11,7 +11,8 @@ featured = true
 title = "Practical Whole-System Provenance Capture"
 url_code = "http://camflow.org"
 url_pdf = "publications/2017-socc.pdf"
-url_project = "project/camflow/"
+url_project = "project/camflow"
+projects = ["camflow"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1145/3127479.3129249"

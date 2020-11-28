@@ -6,7 +6,7 @@ date = "2017-09-14"
 title = "CamFlow"
 
 # Project summary to display on homepage.
-summary = "A practical implementation of Linux Provenance Capture."
+summary = "A practical implementation of Whole-System Provenance Capture for Linux."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -26,3 +26,5 @@ caption = "CamFlow"
 focal_point = "Smart"
 
 +++
+
+CamFlow stands for Cambridge information Flow architecture, the Cam is also the river that flows through Cambridge, UK. CamFlow is a Linux Security Module (LSM) designed to capture data provenance for the purpose of system audit. The whole-system provenance capture mechanism is highly configurable, and can fit the needs of many different type of applications. CamFlow can stack with existing security modules such as SELinux.

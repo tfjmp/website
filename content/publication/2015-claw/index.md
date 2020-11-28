@@ -10,7 +10,8 @@ publication_short = "In *CLaw*"
 featured = false
 title = "Expressing and Enforcing Location Requirements in the Cloud using Information Flow Control"
 url_pdf = "publications/2015-claw.pdf"
-url_project = "project/cloudsafetynet/"
+url_project = "project/mccrc/"
+projects = ["mccrc"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/IC2E.2015.71"

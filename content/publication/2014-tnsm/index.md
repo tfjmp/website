@@ -11,6 +11,7 @@ featured = false
 title = "Information Flow Control for Secure Cloud Computing"
 url_pdf = "publications/2014-tnsm.pdf"
 url_project = "project/cloudsafetynet/"
+projects = ["cloudsafetynet"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/TNSM.2013.122313.130423"

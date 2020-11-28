@@ -11,6 +11,7 @@ featured = false
 title = "Securing Tags to Control Information Flows within the Internet of Things"
 url_pdf = "publications/2015-riot.pdf"
 url_project = "project/cloudsafetynet/"
+projects = ["cloudsafetynet"]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/RIOT.2015.7104903"
