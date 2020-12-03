@@ -99,9 +99,9 @@ Can we automatically explain an intrusion?
 - Bogdan Stelea (MEng, Bristol)
 - Josh Turner (MEng, Bristol)
 
-## Previous students
+## Past students
 
-- Chetankumar Mistry (MEng, Bristol) ARM
-- Xiaoxiao Wu (MSc, Bristol) TBC
-- [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol) Innovez
-- Ziying Shao (BSc, Bristol)
+- Chetankumar Mistry (MEng, Bristol), 2020, ARM.
+- Xiaoxiao Wu (MSc, Bristol), 2020, TBC.
+- [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Innovez.
+- Ziying Shao (BSc, Bristol), 2019.
