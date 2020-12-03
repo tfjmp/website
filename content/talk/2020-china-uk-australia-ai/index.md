@@ -3,7 +3,7 @@ publishDate = 2020-01-01T00:00:00  # Schedule page publish date.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = "2020-12-08T08:00:00"
+date = "2020-12-08T07:00:00"
 draft = false
 
 title = "Building a provenance-based intrusion detection system"
