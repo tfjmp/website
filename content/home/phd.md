@@ -50,7 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply) and at all level (undergraduate students, master’s students, and PhD students). Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective). You may also get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca), please, do read the following suggestions before doing so.
+I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply) and at all level (undergraduate students, master’s students, and PhD students).
+Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective).
+You can also find information about financial matters on [the CS website](https://www.cs.ubc.ca/students/grad/prospective/funding/financial).
+Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but, please, do read the following suggestions before doing so.
 
 ## A few facts
 
