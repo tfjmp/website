@@ -98,7 +98,7 @@ Can we automatically explain an intrusion?
 Applications are provided by third parties and may be malicious or get compromised.
 Can we design an intrusion prevention/detection system that works with the limited resources available to edge platforms?
 How can we detect external (e.g., attacker attempting to compromise vulnerable applications) and internal (e.g., malicious applications installed on an edge node) threats?
-How minimal can our monitoring systems be?
+How minimal can our monitoring system be?
 How complex the detection algorithm needs to be?
 How can nodes owned by different vendors share knowledge about threats safely?
 Alternatively can we explore unikernel solutions [[9](http://unikernel.org/files/2013-asplos-mirage.pdf),[10](https://dl.acm.org/doi/abs/10.1145/3342195.3387526)] to more strongly isolate applications and minimize risk?
