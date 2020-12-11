@@ -100,7 +100,7 @@ Can we design an intrusion prevention/detection system that works with the limit
 How can we detect external (e.g., attacker attempting to compromise vulnerable applications) and internal (e.g., malicious applications installed on an edge node) threats?
 How minimal can our monitoring system be?
 How complex the detection algorithm needs to be?
-How can nodes owned by different vendors share knowledge about threats safely?
+How can nodes owned by different parties share knowledge about threats safely?
 
 ## Students
 
