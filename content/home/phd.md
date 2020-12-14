@@ -94,7 +94,7 @@ How far can we improve such techniques?
 Can we learn from more traditional host-based intrusion detection techniques?
 Can we improve capture accuracy and trustworthiness while reducing overhead?
 Can we automatically explain an intrusion?
-- Imagine a resource limited edge environment where applications are deployed using container technology (maybe an environment such as kubedge [[8](https://kubeedge.io/en/))] and k3s [[9](https://k3s.io/)].
+- Imagine a resource limited edge environment where applications are deployed using container technology (maybe an environment such as kubedge [[8](https://kubeedge.io/en/)] and k3s [[9](https://k3s.io/)].
 Applications are provided by third parties and may be malicious or get compromised.
 Can we design an intrusion prevention/detection system that works with the limited resources available to edge platforms?
 How can we detect external (e.g., attacker attempting to compromise vulnerable applications) and internal (e.g., malicious applications installed on an edge node) threats?
