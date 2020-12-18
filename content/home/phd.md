@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+# PhDs
+
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply) and at all level (undergraduate students, master’s students, and PhD students).
 Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective).
 You can also find information about financial matters on [the CS website](https://www.cs.ubc.ca/students/grad/prospective/funding/financial).
@@ -115,3 +117,15 @@ How can nodes owned by different parties share knowledge about threats safely?
 - Xiaoxiao Wu (MSc, Bristol), 2020, TBC.
 - [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Innovez.
 - Ziying Shao (BSc, Bristol), 2019.
+
+# Postdocs
+
+## SYNERGIA project
+
+We are looking for two enthusiastic, self-motivated individuals to contribute to the Innovate UK-funded SYNERGIA project on Cyber Security for the Internet of Things.
+
+SYNERGIA will devise, develop and demonstrate a novel, secure-by-design, endpoint-to-core IoT platform for large-scale networks of low-power resource-constrained devices. The platform will provide users with distributed processing capability at the Edge as a service. Project outcomes will be showcased at two demonstration events.
+
+You will contribute to an ambitious research programme and industry R&D on scalable, secure configuration management and control of IoT systems; secure connectivity for battery-powered resource-constrained devices; edge-based AI for cyber security of IoT systems.
+
+[More Information Online](https://www.bristol.ac.uk/jobs/find/details/?jobId=205237)
