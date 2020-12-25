@@ -116,7 +116,7 @@ How can nodes owned by different parties share knowledge about threats safely?
 - Chetankumar Mistry (MEng, Bristol), 2020, ARM.
 - Xiaoxiao Wu (MSc, Bristol), 2020, TBC.
 - [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Innovez.
-- Ziying Shao (BSc, Bristol), 2019.
+- Ziying Shao (BSc, Bristol), 2019, Beijing Institute Of Big Data Research.
 
 # Postdocs
 
