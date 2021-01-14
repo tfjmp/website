@@ -1,5 +1,5 @@
 ---
-title: Efficient Large-Scale Data Provenance Tracking and Analyzing: Intrusion Detection
+title: "Efficient Large-Scale Data Provenance Tracking and Analyzing: Intrusion Detection"
 
 event: Two Sigma invited talk
 event_url:
