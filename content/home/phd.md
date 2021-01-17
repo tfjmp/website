@@ -107,7 +107,7 @@ How can nodes owned by different parties share knowledge about threats safely?
 ## Students
 
 - [Soo Yee Lim](https://research-information.bris.ac.uk/en/persons/soo-yee-lim) (PhD student, Bristol)
-- [Priyanka Badva](https://research-information.bris.ac.uk/en/persons/priyanka-k-badva) (PhD student, Bristol) co-supervised with [Ryan McConville](https://ryanmcconville.com/)
+- [Priyanka Badva](https://research-information.bris.ac.uk/en/persons/priyanka-k-badva) (PhD student, Bristol) co-supervised with [Ryan McConville](https://ryanmcconville.com/) and [Eleonora Pantano](https://research-information.bris.ac.uk/en/persons/eleonora-pantano)
 - Bogdan Stelea (MEng, Bristol)
 - Josh Turner (MEng, Bristol)
 
