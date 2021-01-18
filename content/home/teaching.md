@@ -19,7 +19,7 @@ weight = 80
 
 I teach/taught the following units at the University of Bristol:
 
-- [COMS20012: Computer Systems B (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 20-21
+- [COMS20012: Computer Systems B (Year 2)](https://cs-uob.github.io/COMS20012/) 20-21
 - [COMSM0049: Systems and Software Security (Year 4)](https://cs-uob.github.io/COMSM0049/) 20-21
 - [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMSM1500) 18-19, 19-20
 
