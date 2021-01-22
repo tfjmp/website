@@ -96,13 +96,6 @@ How far can we improve such techniques?
 Can we learn from more traditional host-based intrusion detection techniques?
 Can we improve capture accuracy and trustworthiness while reducing overhead?
 Can we automatically explain an intrusion?
-- Imagine a resource limited edge environment where applications are deployed using container technology (maybe an environment such as kubedge [[8](https://kubeedge.io/en/)] and k3s [[9](https://k3s.io/)]).
-Applications are provided by third parties and may be malicious or get compromised.
-Can we design an intrusion prevention/detection system that works with the limited resources available to edge platforms?
-How can we detect external (e.g., attacker attempting to compromise vulnerable applications) and internal (e.g., malicious applications installed on an edge node) threats?
-How minimal can our monitoring system be?
-How complex the detection algorithm needs to be?
-How can nodes owned by different parties share knowledge about threats safely?
 
 ## Students
 
@@ -117,15 +110,3 @@ How can nodes owned by different parties share knowledge about threats safely?
 - Xiaoxiao Wu (MSc, Bristol), 2020, TBC.
 - [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Innovez.
 - Ziying Shao (BSc, Bristol), 2019, Beijing Institute Of Big Data Research.
-
-# Postdocs
-
-## SYNERGIA project
-
-We are looking for two enthusiastic, self-motivated individuals to contribute to the Innovate UK-funded SYNERGIA project on Cyber Security for the Internet of Things.
-
-SYNERGIA will devise, develop and demonstrate a novel, secure-by-design, endpoint-to-core IoT platform for large-scale networks of low-power resource-constrained devices. The platform will provide users with distributed processing capability at the Edge as a service. Project outcomes will be showcased at two demonstration events.
-
-You will contribute to an ambitious research programme and industry R&D on scalable, secure configuration management and control of IoT systems; secure connectivity for battery-powered resource-constrained devices; edge-based AI for cyber security of IoT systems.
-
-[More Information Online](https://www.bristol.ac.uk/jobs/find/details/?jobId=205237)
