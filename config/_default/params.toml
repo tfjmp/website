@@ -158,7 +158,7 @@ sharing = true
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
-abstract_length = 135
+abstract_length = 200
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
