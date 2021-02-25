@@ -22,5 +22,5 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-url_slides: "slides/2021-two-sgima.pdf"
+url_slides: "slides/2021-two-sigma.pdf"
 ---
