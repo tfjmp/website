@@ -49,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:tfjmp@cs.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: "https://tjfmp.org/files/vitae.pdf"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tfjmp
