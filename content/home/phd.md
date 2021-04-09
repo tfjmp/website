@@ -83,6 +83,18 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 * Previous research experience (if any)
 * Summary of your undergraduate/master thesis (if any)
 
+## Statement of Intent
+
+* Check the guidelines on the [department website](https://www.cs.ubc.ca/statement-of-intent)
+* The relationship between a student and their advisor is an extremely important one
+* It is a collaboration that will last for years
+* The commonality of interest should be clear from your statement
+* Listing half a dozen potential advisors from very different areas is most probably detrimental to your application
+* On the other hand, co-supervision is common and can be very positive
+* Therefore link clearly potential advisors to your experience and your aspirations
+* Everything else being equal, an applicant that understands and shows **why** they should be working with a specific advisor are more likely to be successful
+* This is my personal opinion and may not be universally true
+
 ## Some ideas
 
 - By observing workload executions it is possible to optimize the configuration of a big data analytics framework
