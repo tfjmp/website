@@ -33,7 +33,7 @@ experience:
 
   - title: Research Associate
     company: University of Cambridge
-    company_url: 'https://www.cl.cam.ac.uk/'
+    company_url: 'https://www.cam.ac.uk/'
     company_logo: 'cambridge'
     location: United Kingdom
     date_start: '2017-12-01'
@@ -51,7 +51,7 @@ experience:
 
   - title: Research Assistant
     company: University of Cambridge
-    company_url: 'https://www.cl.cam.ac.uk/'
+    company_url: 'https://www.cam.ac.uk/'
     company_logo: 'cambridge'
     location: United Kingdom
     date_start: '2013-01-01'
