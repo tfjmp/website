@@ -91,23 +91,9 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 * The commonality of interest should be clear from your statement
 * Listing half a dozen potential advisors from very different areas is most probably detrimental to your application
 * On the other hand, co-supervision is common and can be very positive
-* Therefore link clearly potential advisors to your experience and your aspirations
+* Therefore, link clearly potential advisors to your experience and your aspirations
 * Everything else being equal, an applicant that understands and shows **why** they should be working with a specific advisor are more likely to be successful
 * This is my personal opinion and may not be universally true
-
-## Some ideas
-
-- By observing workload executions it is possible to optimize the configuration of a big data analytics framework
-[[1](https://tfjmp.org/files/publications/2020-kdd.pdf),[2](https://arxiv.org/pdf/2001.08002.pdf),[3](https://tfjmp.org/files/publications/2020-bigdata.pdf)].
-How far can such techniques be improved?
-Can we apply similar techniques to other domains?
-What are the obstacles to a practical deployment?
-- Provenance-based intrusion detection [[4](https://tfjmp.org/files/publications/2020-ndss.pdf),[5](https://tfjmp.org/files/publications/2021-USENIXsec.pdf)] open new opportunities in intrusion detection research.
-Further, we have demonstrated that capture and runtime processing were practical [[6](https://tfjmp.org/files/publications/2018-ccs.pdf),[7](https://tfjmp.org/files/publications/2017-socc.pdf)].
-How far can we improve such techniques?
-Can we learn from more traditional host-based intrusion detection techniques?
-Can we improve capture accuracy and trustworthiness while reducing overhead?
-Can we automatically explain an intrusion?
 
 ## Students
 
