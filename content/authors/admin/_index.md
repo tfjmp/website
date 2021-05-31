@@ -6,15 +6,15 @@ title: Thomas Pasquier
 superuser: true
 
 # Role/position
-role: Lecturer (Assistant Professor) in Computer Science
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Bristol
-  url: http://www.bristol.ac.uk/engineering/departments/computerscience/
+- name: University of British Columbia
+  url: https://www.cs.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include provenance, operating systems, distributed systems and intrusion detection.
 
 # Interests to show in About widget
 interests:
@@ -97,9 +97,9 @@ user_groups:
 - Visitors
 ---
 
-I will be [joining the University of British Columbia](https://www.cs.ubc.ca/news/2020/05/ubc-hires-three-new-systems-researchers-privacy-and-security) in Summer 2021. If you are considering a PhD, please, check [this](#phd). I am a [Lecturer (Assistant Professor)](https://en.wikipedia.org/wiki/Lecturer#United_Kingdom) at the [University of Bristol](http://www.bristol.ac.uk/) in the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/).
+I am a Tenure-Track Assistant Professor in [the Computer Science Department, University of British Columbia](https://www.cs.ubc.ca/). If you are considering a PhD, please, check [this](#phd).
 I am a member of the [Microsoft Cloud Computing Research Centre](http://www.mccrc.org/) where we explore research topics at the intersection of Computer Science and Law.
-Before joining the University of Bristol, I held fellowships at Harvard University and the University of Cambridge.
+Before joining the University of British Columbia, I worked at the University of Bristol and held fellowships at Harvard University and the University of Cambridge.
 I obtained my PhD under the supervision of [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/) in 2016 at the University of Cambridge.
 
 My primary research focus is the development of more transparent computer systems; my research includes topics such as whole-system provenance, computational experiments reproducibility, intrusion detection, privacy and compliance.
