@@ -23,15 +23,15 @@ twitter: 'tfjmp'
 email: tfjmp@cs.ubc.ca
 phone:
 address:
-  street: '75 Woodland Rd'
-  city: 'Bristol'
-  region: ''
-  postcode: 'BS8 1UB'
-  country: 'United Kingdom'
-  country_code: 'UK'
+  street: '2366 Main Mall #201'
+  city: 'Vancouver'
+  region: 'British Columbia'
+  postcode: 'V6T 1Z4'
+  country: 'Canada'
+  country_code: 'CA'
 coordinates:
-  latitude: '51.456658549320615'
-  longitude: '-2.6028528232676784'
+  latitude: '49.26098120002967'
+  longitude: '-123.24877550368758'
 directions: ''
 office_hours:
   - 'Book online'
