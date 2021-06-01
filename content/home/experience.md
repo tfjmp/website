@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lecturer (Assistant Professor)
+  - title: Assistant Professor
+    company: University of British Columbia
+    company_url: 'https://www.cs.ubc.ca/'
+    company_logo: 'ubc'
+    location: Canada
+    date_start: '2021-07-01'
+    date_end: ''
+    description: Member of the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/).
+  - title: Lecturer
     company: University of Bristol
     company_url: 'http://www.bris.ac.uk/'
     company_logo: 'bristol'
     location: United Kingdom
     date_start: '2018-08-01'
-    date_end: ''
+    date_end: '2021-06-30'
     description: Member of the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/).
 
   - title: Research Associate
