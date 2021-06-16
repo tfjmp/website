@@ -103,7 +103,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 ## Past students
 
 - Bogdan Stelea (MEng, Bristol), 2021.
-- Josh Turner (MEng, Bristol), 2021.
+- Josh Turner (MEng, Bristol), 2021, Amiosec.
 - Chetankumar Mistry (MEng, Bristol), 2020, ARM.
 - Xiaoxiao Wu (MSc, Bristol), 2020, Deloitte.
 - [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Innovez.
