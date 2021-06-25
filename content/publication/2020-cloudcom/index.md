@@ -10,7 +10,7 @@ authors:
 - V Kumar
 - T Pasquier
 
-date: "2020-12-14T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: "10.1109/CloudCom49646.2020.00001"
 
 # Schedule page publish date (NOT publication's date).
