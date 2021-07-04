@@ -97,7 +97,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 
 ## Students
 
-- [Soo Yee Lim](https://research-information.bris.ac.uk/en/persons/soo-yee-lim) (PhD student, Bristol)
+- Soo Yee Lim (PhD student, UBC)
 - [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC) co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
 - Sadaf Sadeghian (MSc student, UBC)
 - Jinyuan Liang (MSc student, UBC)
