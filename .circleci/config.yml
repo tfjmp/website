@@ -7,8 +7,8 @@ jobs:
         steps:
             - checkout
             - run: 'sudo apt update'
-            - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.78.2/hugo_extended_0.78.2_Linux-64bit.deb'
-            - run: 'sudo apt -y install ./hugo_extended_0.78.2_Linux-64bit.deb'
+            - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.85.0/hugo_extended_0.85.0_Linux-64bit.deb'
+            - run: 'sudo apt -y install ./hugo_extended_0.85.0_Linux-64bit.deb'
             - run: 'sudo apt -y install snapd'
             - run: 'sudo snap install --classic go'
             - run: 'hugo --verbose'
