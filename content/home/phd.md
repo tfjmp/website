@@ -86,8 +86,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 ## Statement of Intent
 
 * Check the guidelines on the [department website](https://www.cs.ubc.ca/statement-of-intent)
-* The relationship between a student and their advisor is an extremely important one
-* It is a collaboration that will last for years
+* The relationship between a student and their advisor is an extremely important one and it will hopefully last for years
 * The commonality of interest should be clear from your statement
 * Listing half a dozen potential advisors from very different areas is most probably detrimental to your application
 * On the other hand, co-supervision is common and can be very positive
