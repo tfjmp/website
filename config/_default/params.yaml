@@ -35,7 +35,7 @@ coordinates:
 directions: ''
 office_hours:
   - 'Book online'
-appointment_url: 'https://outlook.office365.com/owa/calendar/bk_ThomasPasquierOfficehours@bristol.ac.uk/bookings/'
+appointment_url: 'https://koalendar.com/e/meet-with-thomas'
 contact_links:
   - icon: twitter
     icon_pack: fab
