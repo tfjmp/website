@@ -21,6 +21,6 @@ I am currently/will be teaching:
 - [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 21-22 W2
 
 At the University of Bristol, I have taught:
-- [COMS20012: Computer Systems B (Year 2)](https://cs-uob.github.io/COMS20012/) 20-21
-- [COMSM0049: Systems and Software Security (Year 4)](https://cs-uob.github.io/COMSM0049/) 20-21
+- [COMS20012: Computer Systems B (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 20-21
+- [COMSM0050: Systems and Software Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0050) 20-21
 - [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMSM1500) 18-19, 19-20
