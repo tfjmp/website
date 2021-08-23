@@ -81,7 +81,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 * Why do you want to work on this topic? (one paragraph)
 * Which paper(s) did you read and why did you find it interesting? (one paragraph)
 * Previous research experience (if any)
-* What research would you like to pursue?
+* What research would you like to pursue during your degree?
 * Summary of your undergraduate/master thesis (if any)
 
 ## Statement of Intent
