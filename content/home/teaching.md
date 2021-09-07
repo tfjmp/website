@@ -18,7 +18,7 @@ weight = 80
 +++
 
 I am currently/will be teaching:
-- [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 21-22 W2
+- [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 21-22 W2 **UPDATE: I will be on parental leave.**
 
 At the University of Bristol, I have taught:
 - [COMS20012: Computer Systems B (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 20-21
