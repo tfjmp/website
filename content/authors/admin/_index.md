@@ -94,8 +94,4 @@ highlight_name: true
 I am a Tenure-Track Assistant Professor in [the Computer Science Department, University of British Columbia](https://www.cs.ubc.ca/).
 I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) where we work on System research in a broad sense.
 If you are considering a PhD or an MSc, please, check [this](#phd).
-I am a member of the [Microsoft Cloud Computing Research Centre](http://www.mccrc.org/) where we explore research topics at the intersection of Computer Science and Law.
-Before joining the University of British Columbia, I worked at the University of Bristol and held fellowships at Harvard University and the University of Cambridge.
 I obtained my PhD under the supervision of [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/) in 2016 at the University of Cambridge.
-
-My primary research focus is the development of more transparent computer systems; my research includes topics such as whole-system provenance, computational experiments reproducibility, intrusion detection, privacy and compliance.
