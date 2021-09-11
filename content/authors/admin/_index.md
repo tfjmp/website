@@ -91,13 +91,6 @@ email: "tfjmp@cs.ubc.ca"
 highlight_name: true
 ---
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
-
 I am a Tenure-Track Assistant Professor in [the Computer Science Department, University of British Columbia](https://www.cs.ubc.ca/).
 I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) where we work on System research in a broad sense.
 If you are considering a PhD or an MSc, please, check [this](#phd).
