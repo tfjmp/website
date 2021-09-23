@@ -22,7 +22,6 @@ interests:
 - Operating Systems
 - Distributed Systems
 - Data Protection and Privacy
-- Internet of Things
 - Intrusion Detection
 
 # Education to show in About widget
