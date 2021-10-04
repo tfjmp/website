@@ -103,11 +103,11 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 - Jinyuan Liang (MSc student, UBC)
 - [Priyanka Badva](https://research-information.bris.ac.uk/en/persons/priyanka-k-badva) (PhD student, Bristol) co-supervised with [Ryan McConville](https://ryanmcconville.com/) and [Eleonora Pantano](https://research-information.bris.ac.uk/en/persons/eleonora-pantano)
 
-## Past students
+## Past students (degree and job held after graduation)
 
 - Bogdan Stelea (MEng, Bristol), 2021.
 - Josh Turner (MEng, Bristol), 2021, Amiosec.
 - Chetankumar Mistry (MEng, Bristol), 2020, ARM.
 - Xiaoxiao Wu (MSc, Bristol), 2020, Deloitte.
-- [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Innovez.
+- [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Bloomberg.
 - Ziying Shao (BSc, Bristol), 2019, Beijing Institute of Big Data Research.
