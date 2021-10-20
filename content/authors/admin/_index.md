@@ -75,6 +75,9 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.uni-trier.de/pid/144/4204.html
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/pasquier_t_1.html
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
