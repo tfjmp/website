@@ -105,9 +105,9 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 
 ## Past students (position held after graduation)
 
-- Bogdan Stelea (MEng, Bristol), 2021, Amazon.
-- Josh Turner (MEng, Bristol), 2021, Amiosec.
-- Chetankumar Mistry (MEng, Bristol), 2020, ARM.
-- Xiaoxiao Wu (MSc, Bristol), 2020, Deloitte.
-- [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019, Bloomberg.
-- Ziying Shao (BSc, Bristol), 2019, Beijing Institute of Big Data Research.
+- Bogdan Stelea (MEng, Bristol), 2021, Software Engineer, Amazon.
+- Josh Turner (MEng, Bristol), 2021, Software Engineer, Amiosec.
+- Chetankumar Mistry (MEng, Bristol), 2020, Software Engineer, ARM.
+- Xiaoxiao Wu (MSc, Bristol), 2020, Consultant, Deloitte.
+- [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/) (MSc, Bristol), 2019,  Data Analyst, Bloomberg.
+- Ziying Shao (BSc, Bristol), 2019, UG Researcher, Beijing Institute of Big Data Research.
