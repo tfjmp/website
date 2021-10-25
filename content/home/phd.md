@@ -105,7 +105,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 
 ## Past students (position held after graduation)
 
-- Bogdan Stelea (MEng, Bristol), 2021.
+- Bogdan Stelea (MEng, Bristol), 2021, Amazon.
 - Josh Turner (MEng, Bristol), 2021, Amiosec.
 - Chetankumar Mistry (MEng, Bristol), 2020, ARM.
 - Xiaoxiao Wu (MSc, Bristol), 2020, Deloitte.
