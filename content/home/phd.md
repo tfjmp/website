@@ -59,6 +59,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 
 ## A few facts
 
+* You must apply [online](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science).
 * Do check the [application deadline](https://www.cs.ubc.ca/students/grad/admissions) on UBC’s website.
 * The department starts processing applications in January for the next academic year.
 * Students are admitted by the department, not by individual faculty members.
