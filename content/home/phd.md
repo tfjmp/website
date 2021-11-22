@@ -102,7 +102,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 - [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC) co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
 - [Sadaf Sadeghian](https://www.linkedin.com/in/sadaf-sadeghian-53b8b4174/) (MSc student, UBC)
 - Jinyuan Liang (MSc student, UBC)
-- [Priyanka Badva](https://research-information.bris.ac.uk/en/persons/priyanka-k-badva) (PhD student, Bristol) co-supervised with [Ryan McConville](https://ryanmcconville.com/) and [Eleonora Pantano](https://research-information.bris.ac.uk/en/persons/eleonora-pantano)
+- [Priyanka Badva](https://www.linkedin.com/in/priyanka-badva/) (PhD student, Bristol) co-supervised with [Ryan McConville](https://ryanmcconville.com/) and [Eleonora Pantano](https://research-information.bris.ac.uk/en/persons/eleonora-pantano)
 
 ## Past students (position held after graduation)
 
