@@ -11,7 +11,7 @@ abstract = "Provenance is the representation of a system execution as a directed
 abstract_short = ""
 event = "UK-Israel Network and Data Infrastructure Security Online Workshops"
 event_url = ""
-location = "virtually"
+location = "UK-Israel Network and Data Infrastructure Security Online Workshops (virtually)"
 
 selected = false
 math = true
