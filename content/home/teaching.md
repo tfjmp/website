@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching & Service"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -17,10 +17,11 @@ weight = 80
 
 +++
 
-I am currently/will be teaching:
+**UBC:**
 - [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 21-22 W2 **UPDATE: I will be on parental leave.**
 
-At the University of Bristol, I have taught:
-- [COMS20012: Computer Systems B (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 20-21
-- [COMSM0050: Systems and Software Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0050) 20-21
-- [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMSM1500) 18-19, 19-20
+**Bristol:**
+- [COMS20012: Computer Systems B 2020 (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 2020-2021 TB2
+- [COMSM0050: Systems and Software Security 2020 (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0050) 2020-2021 TB1
+- [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMSM1500) 2019-2020 TB1
+- [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMSM1500) 2018-2019 TB1

@@ -22,7 +22,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 60
-  - name: Teaching & Service
+  - name: Teaching
     url: '#teaching'
     weight: 70
   - name: Contact
