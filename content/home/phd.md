@@ -63,6 +63,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 * Do check the [application deadline](https://www.cs.ubc.ca/students/grad/admissions) on UBC’s website.
 * The department starts processing applications in January for the next academic year.
 * Students are admitted by the department, not by individual faculty members.
+* Master and PhD applications are reviewed by the same committee. The [PhD track](https://www.cs.ubc.ca/students/grad/prospective-grads/grad-programs/phd-track-msc-program) is ideal for candidates who ultimately want to do a PhD, but do not feel ready yet.
 * Even if you are well fitted for my group, I cannot guarantee admission.
 
 ## Before contacting me
