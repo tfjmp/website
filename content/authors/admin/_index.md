@@ -96,4 +96,4 @@ highlight_name: true
 I am a Tenure-Track Assistant Professor in [the Computer Science Department, University of British Columbia](https://www.cs.ubc.ca/).
 I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) where we work on System research in a broad sense.
 If you are considering a PhD or an MSc, please, check [this](#phd).
-I obtained my PhD under the supervision of [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/) in 2016 at the University of Cambridge.
+I obtained my PhD under the supervision of [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/) in 2016 at the [University of Cambridge](https://www.cst.cam.ac.uk/).
