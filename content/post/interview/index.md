@@ -95,3 +95,7 @@ I may not be able to help with all those aspects, but I can ask or point you tow
 We want to support our students not only as future researches, but also as individuals, so please, do not hesitate to bring up any concerns you have.
 This is also a time for you to ask questions to help you decide which offer to accept (and we hope it will be UBC)!
 We recruit bright students, most students will have multiple offers so you should feel free to discuss this openly.
+
+### Acknowledgement
+
+Thanks to [Margo](https://www.seltzer.com/margo/) and [Aastha](https://aasthakm.github.io/) for their feedback!
