@@ -19,15 +19,12 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
-  - name: Projects
-    url: '#projects'
-    weight: 60
   - name: Teaching
     url: '#teaching'
-    weight: 70
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

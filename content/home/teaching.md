@@ -9,7 +9,7 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 80
+weight = 70
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
