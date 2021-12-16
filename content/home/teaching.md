@@ -18,10 +18,10 @@ weight = 70
 +++
 
 **UBC:**
-- [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 21-22 W2 **UPDATE: I will be on parental leave.**
+- [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 2021-2022 W2 **UPDATE: I will be on parental leave.**
 
 **Bristol:**
-- [COMS20012: Computer Systems B 2020 (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 2020-2021 TB2
+- [COMS20012: Computer Systems B (Operating Systems & Security) (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 2020-2021 TB2
 - [COMSM0050: Systems and Software Security 2020 (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0050) 2020-2021 TB1
 - [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMSM1500) 2019-2020 TB1
 - [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMSM1500) 2018-2019 TB1
