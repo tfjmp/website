@@ -18,7 +18,7 @@ weight = 70
 +++
 
 **UBC:**
-- [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 2021-2022 W2 **UPDATE: I will be on parental leave. Should run in W1-2022-2023 (TBC).**
+- [538P: Topic in Computer Systems: Operating Systems Security](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538P) 2021-2022 W2 **UPDATE: I will be on parental leave. Should run in W2 2022-2023 (TBC).**
 
 **Bristol:**
 - [COMS20012: Computer Systems B (Operating Systems & Security) (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 2020-2021 TB2
