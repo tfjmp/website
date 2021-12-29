@@ -61,7 +61,7 @@ Following your presentation, we will undoubtedly want to ask you questions about
 Please pick **one** paper from the following list:
 - [Negi, Parimarjan, et al. "Steering Query Optimizers: A Practical Take on Big Data Workloads." Proceedings of the 2021 International Conference on Management of Data (SIGMOD). 2021](https://dl.acm.org/doi/pdf/10.1145/3448016.3457568)
 - [Paccagnella, Riccardo, et al. "Custos: Practical tamper-evident auditing of operating systems using trusted execution." Network and Distributed System Security Symposium (NDSS). 2020](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24065-paper.pdf)
-- [Alsaheel, Abdulellah, et al. "ATLAS: A Sequence-based Learning Approach for Attack Investigation." 30th Security Symposium (USENIX Securitys). 2021](https://www.usenix.org/system/files/sec21-alsaheel.pdf)
+- [Alsaheel, Abdulellah, et al. "ATLAS: A Sequence-based Learning Approach for Attack Investigation." 30th Security Symposium (USENIX Security). 2021](https://www.usenix.org/system/files/sec21-alsaheel.pdf)
 - [Bahmani, Raad, et al. "CURE: A Security Architecture with CUstomizable and Resilient Enclaves." 30th Security Symposium (USENIX Security). 2021](https://www.usenix.org/system/files/sec21-bahmani.pdf)
 
 You should pick a paper that appears to be the most relevant to the research you are thinking of pursuing.
