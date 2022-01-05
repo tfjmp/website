@@ -10,8 +10,7 @@ publication_short = "In *Middleware*"
 featured = false
 title = "Big Ideas paper: Policy-driven middleware for a legally-compliant Internet of Things"
 url_pdf = "publications/2016-mw.pdf"
-url_project = "project/mccrc/"
-projects = ["mccrc"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1145/2988336.2988349"

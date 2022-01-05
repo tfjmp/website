@@ -10,8 +10,7 @@ publication_short = "In *TCC*"
 featured = false
 title = "CamFlow: Managed Data-Sharing for Cloud Services"
 url_pdf = "publications/2015-tcc.pdf"
-url_project = "project/cloudsafetynet/"
-projects = ["cloudsafetynet"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/TCC.2015.2489211"

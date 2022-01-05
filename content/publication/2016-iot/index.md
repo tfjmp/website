@@ -10,8 +10,7 @@ publication_short = "In *IoT Journal*"
 featured = false
 title = "Twenty security considerations for cloud-supported Internet of Things"
 url_pdf = "publications/2016-iot.pdf"
-url_project = "project/mccrc/"
-projects = ["mccrc"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/JIOT.2015.2460333"

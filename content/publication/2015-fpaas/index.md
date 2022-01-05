@@ -10,8 +10,7 @@ publication_short = "In *FPaaS*"
 featured = false
 title = "Information Flow Control for Strong Protection with Flexible Sharing in PaaS"
 url_pdf = "publications/2015-fpaas.pdf"
-url_project = "project/cloudsafetynet/"
-projects = ["cloudsafetynet"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/IC2E.2015.64"

@@ -10,8 +10,7 @@ publication_short = "*NDSS'20*"
 featured = true
 title = "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats"
 url_pdf = "publications/2020-ndss.pdf"
-url_project = "project/camflow"
-projects = ["camflow"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = ""

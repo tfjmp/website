@@ -10,8 +10,7 @@ publication_short = "In *The Journal of Open Source Software*"
 featured = false
 title = "Rclean: A Tool for Writing Cleaner, More Transparent Code"
 url_pdf = "publications/2020-joss.pdf"
-url_project = "project/provtools/"
-url_code = "https://github.com/ropensci/Rclean"
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.21105/joss.01312"

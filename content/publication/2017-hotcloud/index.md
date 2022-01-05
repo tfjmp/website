@@ -10,8 +10,7 @@ publication_short = "In *HotCloud*"
 featured = false
 title = "FRAPpuccino: Fault-detection through Runtime Analysis of Provenance"
 url_pdf = "publications/2017-hotcloud.pdf"
-url_project = "project/camflow"
-projects = ["camflow"]
+url_project =  ""
 
 
 

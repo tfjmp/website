@@ -10,8 +10,7 @@ publication_short = "In *CLaw*"
 featured = false
 title = "Information Flow Audit for Transparency and Compliance in the Handling of Personal Data"
 url_pdf = "publications/2016-claw.pdf"
-url_project = "project/mccrc/"
-projects = ["mccrc"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/IC2EW.2016.29"

@@ -11,8 +11,7 @@ featured = true
 title = "Runtime Analysis of Whole-System Provenance"
 url_code = "http://camflow.org"
 url_pdf = "publications/2018-ccs.pdf"
-url_project = "project/camflow"
-projects = ["camflow"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1145/3243734.3243776"

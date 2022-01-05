@@ -10,8 +10,7 @@ publication_short = "In *IC2E*"
 featured = false
 title = "Integrating Middleware with Information Flow Control"
 url_pdf = "publications/2015-ic2e.pdf"
-url_project = "project/cloudsafetynet/"
-projects = ["cloudsafetynet"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/IC2E.2015.13"

@@ -11,8 +11,7 @@ featured = false
 title = "Accelerating the Configuration Tuning of Big Data Analytics with Similarity-aware Multitask Bayesian Optimization"
 url_pdf = "publications/2020-bigdata.pdf"
 url_slides = "slides/2020-bigdata.pdf"
-url_project = "project/tuneful"
-projects = ["tuneful"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = ""

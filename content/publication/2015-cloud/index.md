@@ -10,8 +10,7 @@ publication_short = "In *CLOUD*"
 featured = false
 title = "Managing Big Data with Information Flow Control"
 url_pdf = "publications/2015-cloud.pdf"
-url_project = "project/cloudsafetynet/"
-projects = ["cloudsafetynet"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/CLOUD.2015.76"

@@ -10,8 +10,7 @@ publication_short = "In *Workshop on the Theory and Practice of Provenance*"
 featured = false
 title = "Provenance-based Intrusion Detection: Opportunities and Challenges"
 url_pdf = "publications/2018-tapp.pdf"
-url_project = "project/camflow"
-projects = ["camflow"]
+url_project = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

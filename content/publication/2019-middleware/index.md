@@ -10,8 +10,7 @@ publication_short = "ACM/IFIP *Middleware'19*"
 featured = false
 title = "ProvMark: A Provenance Expressiveness Benchmarking System"
 url_pdf = "publications/2019-mw.pdf"
-url_project = "project/camflow"
-projects = ["camflow"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = ""

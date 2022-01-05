@@ -10,8 +10,7 @@ publication_short = "In *UCAM-CL-TR-863*"
 featured = false
 title = "Regional clouds: technical considerations"
 url_pdf = "publications/2014-tr.pdf"
-url_project = "project/mccrc/"
-projects = ["mccrc"]
+url_project = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

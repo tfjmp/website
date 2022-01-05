@@ -10,7 +10,7 @@ publication_short = "In *SciData*"
 featured = false
 title = "If these data could talk"
 url_pdf = "publications/2017-scidata.pdf"
-url_project = "project/provtools/"
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1038/sdata.2017.114"

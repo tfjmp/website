@@ -10,8 +10,7 @@ publication_short = "In *CloudCom*"
 featured = false
 title = "FlowK: Information Flow Control for the Cloud"
 url_pdf = "publications/2014-cloudcom.pdf"
-url_project = "project/cloudsafetynet/"
-projects = ["cloudsafetynet"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/CloudCom.2014.11"

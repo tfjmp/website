@@ -10,8 +10,7 @@ publication_short = "In *CloudCom*"
 featured = false
 title = "Clouds of Things Need Information Flow Control with Hardware Roots of Trust"
 url_pdf = "publications/2015-cloudcom.pdf"
-url_project = "project/cloudsafetynet/"
-projects = ["cloudsafetynet"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/CloudCom.2015.41"

@@ -10,8 +10,7 @@ publication_short = "In *Communications of the ACM*"
 featured = false
 title = "Viewpoint | Personal Data and the Internet of Things: It is time to care about digital provenance"
 url_pdf = "publications/2019-acm-com.pdf"
-url_project = "project/camflow"
-projects = ["camflow"]
+url_project = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1145/3322933"
