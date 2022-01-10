@@ -1,5 +1,5 @@
 ---
-title: '[538P] Topic in Computer Systems: Systems Security'
+title: '[538P] Topic in Computer Systems: Systems Security (2022-2023)'
 subtitle: ''
 
 # Summary for listings and search engines
@@ -40,6 +40,16 @@ categories:
 
 ## Course Description
 
+The goal of this course is to expose students to a variety of topics in Systems Security.
+Security inherently touch on all areas of computer science.
+Therefore, this course was designed as a *breadth* course, addressed to all students in the department.
+The core idea underlying the course is to bring together a diversity of view points to generate interesting discussions.
+On the other hand, we could also easily design a *depth* course focused on any of the topics we will discuss.
+The project component is the opportunity for students to explore one of those topics in more depth.
+Students are free (and encouraged) to apply their expertise (ML, PL, HCI, architecture etc.) to solve a specific Systems Security problem.
+Some of the papers have been selected explicitly to highlight the interdisciplinary nature of Systems Security and to showcase
+how diverse perspectives are welcomed and appreciated.
+
 ## Class format
 
 This is a seminar type class.
@@ -58,31 +68,31 @@ What add value to the presentation is your opinion and the insights you can extr
 
 ## Schedule & Reading List
 
-| Day  | Paper  | Presenter  |
+| Day  | Paper  | Presenters  |
 |------------|--------|------------|
 | Jan 9 Mon  | Introduction - Course Overview - Reading a Paper <br/> Reading (no report): How to read a paper  |   |
-| Jan 11 Wed | Design and Implementation of the TrustedBSD MAC Framework |   |
-| Jan 16 Mon  | Linux Security Modules: General Security Support for the Linux Kernel |   |
-| Jan 18 Wed | Analyzing the Overhead of File Protection by Linux Security Modules  |   |
-| Jan 23 Mon  | Security Namespace: Making Linux Security Frameworks Available to Containers |   |
+| Jan 11 Wed | Linux Security Modules: General Security Support for the Linux Kernel<br/>Optional reading (no report): Design and Implementation of the TrustedBSD MAC Framework  |   |
+| Jan 16 Mon  | Analyzing the Overhead of File Protection by Linux Security Modules |   |
+| Jan 18 Wed |  Security Namespace: Making Linux Security Frameworks Available to Containers |   |
+| Jan 23 Mon  | Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization |   |
 | Jan 25 Wed | Trustworthy whole-system provenance for the linux kernel |   |
-| Jan 30 Mon  |   |   |
-| Feb 1 Wed | Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection  |   |
-| Jan 6 Mon  | DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications |   |
-| Feb 8 Wed | Network intrusion detection: Evasion, traffic normalization, and end-to-end protocol semantics  |   |
-| Feb 13 Mon  | Evasion attacks against machine learning at test time |   |
-| Feb 15 Wed | Evading Classifiers by Morphing in the Dark  |   |
+| Jan 30 Mon  |  |   |
+| Feb 1 Wed |  |   |
+| Jan 6 Mon  | Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection |   |
+| Feb 8 Wed | DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications |   |
+| Feb 13 Mon  | Network intrusion detection: Evasion, traffic normalization, and end-to-end protocol semantics |   |
+| Feb 15 Wed | Evading Classifiers by Morphing in the Dark <br />Optional reading (no report): Evasion attacks against machine learning at test time |   |
 | Feb 20 Mon  | Midterm  |   |
 | Feb 22 Wed | Midterm  |   |
-| Feb 27 Mon  | Automated whitebox fuzz testing. |   |
-| Mar 1 Wed |  kafl: Hardware-assisted feedback fuzzing for {OS} kernels |   |
-| Mar 6 Mon  | Hfl: Hybrid fuzzing on the linux kernel |   |
-| Mar 8 Wed | SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning |   |
-| Mar 13 Mon  | K-Miner: Uncovering Memory Corruption in Linux  |   |
-| Mar 15 Wed |   |   |
-| Mar 20 Mon  | KCoFI: Complete control-flow integrity for commodity operating system kernels  |   |
+| Feb 27 Mon  | Automated whitebox fuzz testing |   |
+| Mar 1 Wed | AFL++: Combining Incremental Steps of Fuzzing Research |   |
+| Mar 6 Mon  | kafl: Hardware-assisted feedback fuzzing for {OS} kernels |   |
+| Mar 8 Wed | Hfl: Hybrid fuzzing on the linux kernel |   |
+| Mar 13 Mon  | SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning  |   |
+| Mar 15 Wed | Control-Flow Integrity |   |
+| Mar 20 Mon  | KCoFI: Complete control-flow integrity for commodity operating system kernels |   |
 | Mar 22 Wed | Software fault isolation with API integrity and multi-principal modules |   |
-| Mar 27 Mon  | LXDs: Towards isolation of kernel subsystems  |   |
+| Mar 27 Mon  | LXDs: Towards isolation of kernel subsystems |   |
 | Mar 29 Wed | xmp: selective memory protection for kernel and user space |   |
 | Apr 3 Mon  | CURE: A Security Architecture with CUstomizable and Resilient Enclaves |   |
 | Apr 5 Wed | RedLeaf: Isolation and Communication in a Safe Operating System |   |

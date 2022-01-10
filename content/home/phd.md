@@ -54,7 +54,8 @@ subtitle = ""
 
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply) and at all level (undergraduate students, master’s students, and PhD students).
 Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective).
-You can also find information about: [financial support](https://www.cs.ubc.ca/students/grad/prospective/funding/financial), [application fee waivers](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee), [minimum requirements for admission into graduate studies](https://www.cs.ubc.ca/students/grad/admissions/eligibility), and [minimum English proficiency requirements](https://www.cs.ubc.ca/students/grad/admissions/application-components-required-documents/english-proficiency-requirement).
+You can find more information online about [financial support](https://www.cs.ubc.ca/students/grad/prospective/funding/financial), [application fee waivers](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee), [minimum requirements for admission into graduate studies](https://www.cs.ubc.ca/students/grad/admissions/eligibility), [minimum English proficiency requirements](https://www.cs.ubc.ca/students/grad/admissions/application-components-required-documents/english-proficiency-requirement) and [scholarships](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities).
+**We do not require GRE.**
 Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but, please, do read the following suggestions before doing so.
 
 ## A few facts
@@ -62,7 +63,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 * You must apply [online](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science).
 * Do check the [application deadline](https://www.cs.ubc.ca/students/grad/admissions) on UBC’s website.
 * The department starts processing applications in January for the next academic year.
-* Students are admitted by the department, not by individual faculty members.
+* Students are admitted by the department, not by individual faculty member.
 * Master and PhD applications are reviewed by the same committee. The [PhD track](https://www.cs.ubc.ca/students/grad/prospective-grads/grad-programs/phd-track-msc-program) is ideal for candidates who ultimately want to do a PhD, but do not feel ready yet.
 * Even if you are well fitted for my group, I cannot guarantee admission.
 
@@ -70,6 +71,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 
 * Have a look at my [publications](https://tfjmp.org/publication/).
 * Identify matching interests.
+* Make sure you have some research direction to discuss.
 * Understand that I will not supervise students outside of my area of expertise.
 * Find a set of papers which aligns with your interests.
 * Read the abstracts.
