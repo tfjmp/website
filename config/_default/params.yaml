@@ -5,141 +5,105 @@
 
 # Appearance
 
-theme: ocean
-day_night: true
-font: ''
-font_size: L
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: 'tfjmp'
-
-# Contact (edit or remove options as required)
-
-email: tfjmp@cs.ubc.ca
-phone:
-address:
-  street: 'Office 301, 2366 Main Mall #201'
-  city: 'Vancouver'
-  region: 'British Columbia'
-  postcode: 'V6T 1Z4'
-  country: 'Canada'
-  country_code: 'CA'
-coordinates:
-  latitude: '49.26098120002967'
-  longitude: '-123.24877550368758'
-directions: ''
-office_hours:
-  - 'Book online'
-appointment_url: 'https://koalendar.com/e/meet-with-thomas'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/tfjmp'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'Thomas Pasquier is an Assistant Professor in Computer Science at the University of British Columbia.'
+    twitter: 'tfjmp'
+  analytics:
+    google_analytics: ''
+    google_tag_manager: 'GTM-W7M7XP3'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+footer:
+  copyright:
+    notice: '&copy; 2017-{year} Thomas Pasquier'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-math: false
-diagram: false
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: false
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 200
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  diagram:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/tfjmp/website'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: 'mapnik'
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: 'GTM-W7M7XP3'
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 0
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true
