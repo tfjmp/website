@@ -16,7 +16,7 @@ design:
   columns: '1'
 ---
 
-- Soo Yee Lim (PhD student, UBC)
+- [Soo Yee Lim](https://www.researchgate.net/profile/Soo-Yee-Lim-2) (PhD student, UBC)
 - [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC) co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
 - [Sadaf Sadeghian](https://www.linkedin.com/in/sadaf-sadeghian-53b8b4174/) (MSc student, UBC)
 - Jinyuan Liang (MSc student, UBC)
