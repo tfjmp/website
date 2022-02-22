@@ -35,7 +35,7 @@ tags:
 - Academic
 
 categories:
-- Application
+- Applications
 ---
 
 ### Candidate presentation (15min)
