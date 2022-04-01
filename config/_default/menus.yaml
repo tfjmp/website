@@ -10,7 +10,7 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Working with me
+  - name: Joining the lab
     url: '#phd'
     weight: 30
   - name: Publications

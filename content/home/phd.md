@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Working with me"
+title = "Joining the lab as a graduate student"
 subtitle = ""
 
 [design]
@@ -49,8 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-# PhD and MS students
 
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply) and at all level (undergraduate students, master’s students, and PhD students).
 Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective).
