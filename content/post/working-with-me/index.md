@@ -147,8 +147,8 @@ I expect to be regularly involved in the writing process and I will provide regu
 
 ## Publication Expectations
 
-MSc students should aim to complete at least one major conference paper before they can graduate.
-PhD students should target at least three major conference papers before they can graduate.
+MSc students should aim to complete at least one major conference paper before they graduate.
+PhD students should target at least three major conference papers before they graduate.
 Those are not official guidelines, but more serve as an indication of what a student doing "well" looks like.
 Publications are in a sense more important than the degree you will obtain and must be a core focus of your time at UBC.
 For example, obtaining a PhD will be the minimum requirement if you apply for an academic position, the work you have published will be the most important criteria when assessing your application.
