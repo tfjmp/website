@@ -52,7 +52,7 @@ In case of more formal interactions, for example, to complete some administrativ
 ## Interactions outside of working hours
 
 Academics are notorious for working at asocial hours.
-I may send a message at a random time during the week, for example as I was reading a paper that I think is interesting and relevant to your research.
+I may send a message at a random time during the week, for example, as I was reading a paper that I think is interesting and relevant to your research.
 However, I do not expect an immediate response.
 Similarly, you should not expect an immediate response to a message sent at 3 am.
 However, I endeavor to respond within one working day whenever possible and would expect the same.
