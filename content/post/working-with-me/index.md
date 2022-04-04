@@ -67,7 +67,7 @@ Students are responsible for running the meetings and should be proactive.
 This means preparing a report on their progress and important points to discuss.
 Students should send a written update the day before with clear indications of any document I should read before the meeting (e.g., important related work, paper/report draft, code etc.).
 I get extremely frustrated if I am expected to have a meaningful interaction on a 15 pages paper I haven't read.
-Debugging code, system setups, and the like is best done asynchronously through instant messaging and should generally not be the topic of our meeting.
+Debugging code, system setups, and the like is best done asynchronously through instant messaging and should generally not be the topic of our meetings.
 This means that if you get stuck on a technical issue, you should contact me ASAP so I can have a look and hopefully help.
 Finally, I have to divide time between multiple students, projects, and other responsibilities.
 This means that it is vital for your own progress that you take the lead in moving your project forwards.
@@ -131,7 +131,7 @@ Please, discuss if/when you have a concern about the ordering of authors.
 All papers must be written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 You are expected to learn to use LaTeX and the associated toolset.
 I will create a private GitHub repository with the template for the paper.
-We will normally not use overleaf or similar tools.
+We will normally **not** use overleaf or similar tools.
 
 Finally, if you are the first author you have some additional responsibilities:
 - You are in charge of driving the paper forwards and organizing meetings;
