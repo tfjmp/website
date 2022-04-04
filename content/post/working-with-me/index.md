@@ -149,24 +149,26 @@ I expect to be regularly involved in the writing process and I will provide regu
 
 MSc students should aim to complete at least one major conference paper before they graduate.
 PhD students should target at least three major conference papers before they graduate.
-Those are not official guidelines, but more serve as an indication of what a student doing "well" looks like.
-Publications are in a sense more important than the degree you will obtain and must be a core focus of your time at UBC.
+Those are not official guidelines, but serve as an indication of what a student doing "well" looks like.
+Publications are in a sense more important than the degree you will obtain and must be one of the main focus of your time at UBC.
 For example, obtaining a PhD will be the minimum requirement if you apply for an academic position, the work you have published will be the most important criteria when assessing your application.
 
 ## Lab Life & Service
 
 If you join my team you will be part of the [Department of Computer Science at UBC](https://www.cs.ubc.ca/) and in particular of the [Systopia Lab](https://systopia.cs.ubc.ca/).
 As such, there are some expectations where participation in lab life is concerned.
-You are expected to come to the lab regularly and interact with your colleagues (collaborations are very important and the interactions between graduate students are an integral part of a successful experience).
+You are expected to come to the lab regularly and interact with your colleagues (collaborations are very important and the interactions between graduate students are an integral part of a successful graduate experience).
 
 You are also expected to participate in the life of the lab, attend reading group sessions, and presentations.
-There is a number of positions to be filled every year, including organizing social events, maintaining our website, managing our social media presence, and more.
+There is also a number of positions to be filled every year, including organizing social events, maintaining our website, managing our social media presence, and more.
 Those activities are led by students, and it is expected that, as you become familiar with the lab, you will start participating actively.
-You may also wish to participate in department-level or university-level service as well as at the research community level (e.g. artifacts evaluation committee etc.).
-This is also encouraged and I am happy to provide support if needed and appropriate.
+You may also wish to participate in department-level or university-level service.
+Finally, you may want to get involved with the research community by participating in different activities such as artifacts evaluation committee, shadow program committee, and program committee.
+This is also encouraged and I am happy to provide support if needed and as appropriate.
 
-There are obviously some circumstances that may prevent you from participating to some activities or that require you to be away for some time.
-This is perfectly fine but needs to be discussed in advance.
+There are obviously some circumstances that may prevent you from participating.
+You may also need to be away from the lab for some time (e.g., family or health issues).
+This is perfectly fine but this should be discussed in advanced to ensure you have proper support (there is a number of initiative within the university to support students going through hardships).
 
 ## Equipment
 
@@ -178,13 +180,13 @@ This means that the equipment is the property of UBC and that you should take ca
 
 Unless you have secured a fellowship, you are likely to be funded through RAship or TAship.
 Most of you will be familiar with Teaching Assistant duties.
-You will receive monetary compensation and it is therefore expected that you behave professionally and perform your duties.
+You will receive monetary compensation and it is therefore expected that you behave professionally and perform your duties to the best of your ability.
 
 Research Assistantships are generally funded through specific grants.
 The funder allocates money for us to work on a specific research topic.
 This means two things: 1) there is some expectation for us to produce results (this includes papers and software artifacts); and 2) that we work within the context of the funding agreement.
 This means that by taking a RAship you must work on the agreed-upon topic.
 If you wish to change your topic of research, you must discuss this in advance and as early as possible.
-Similarly, if there is no sufficient progress as to fulfil our engagement with the funding agency, we may discuss alternative route for your research.
+Similarly, if there is no sufficient progress as to fulfil our engagement with the funder, we may discuss alternative route to fund your research.
 If you make extra-work commitments (side-projects, consulting, extra-teaching, etc.), I must be made aware.
-Be aware that some grants are tied to IP agreements.
+Be aware that some grants/funding are tied to IP agreements and it may affect work you do on closely related topics.
