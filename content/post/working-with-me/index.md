@@ -9,10 +9,10 @@ summary: On this page, I describe some of my expectations of graduate and advanc
 projects: []
 
 # Date published
-date: "2022-03-18T00:00:00Z"
+date: "2022-04-04T00:00:00Z"
 
 # Date updated
-lastmod: "2022-03-18T00:00:00Z"
+lastmod: "2022-04-04T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -43,7 +43,8 @@ I aim to tailor my advising style to fit each student's needs, but this is the g
 
 ## How to contact me
 
-The best way to contact me is through instant messaging (using Systopia's discord server is probably the best way to get hold of me).
+The best time to discuss research is during our project or 1-on-1 meetings.
+Outside of those, the best way to contact me is through instant messaging (using Systopia's discord server is probably the best way to get hold of me).
 Instant messaging is ideal for informal exchanges and discussing day-to-day research progress.
 I am expecting that students would be in touch a few times during the week, and I may probe about your progress.
 In case of more formal interactions, for example, to complete some administrative task, e-mails at [tfjmp@cs.ubc.ca](mailto:tfjmp@cs.ubc.ca) are the best choice.
