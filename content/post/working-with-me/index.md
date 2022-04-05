@@ -111,8 +111,8 @@ Living in a multicultural society requires understanding and kindness.
 
 We should aim to submit the best paper we can.
 This means that we may miss a deadline if I feel that the paper is not ready.
-I also don't do *writing until the last minute*.
-I expect a full draft of a submission to be ready the week before the deadline and the final week to be dedicated to polish and styling.
+I **do not** write papers at the last minute.
+I expect a full draft of a submission with full evaluation to be ready one or two weeks before the deadline and the final week to be dedicated to polish and styling.
 Consequently, I aim to specify the target conference long in advance and to revise our target if it becomes clear that we won't have a quality submission ready by the deadline.
 However, note that more and more top-tier conferences have multiple deadlines during the year.
 This means, in practice, that we can submit a much stronger paper a few months later.
