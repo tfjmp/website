@@ -194,4 +194,5 @@ Be aware that some grants/funding are tied to IP agreements and it may affect wo
 # Self-evaluation form
 
 At the end of each term, students should fill a [self-evaluation form](https://forms.gle/bBwwzYCtjpoVVTha6).
-The goal is to identify potential problem early and to be sure that you are well supported.
+The goal is for you to reflect on your progress and to identify potential problems early.
+I also want to ensure that you are well supported.
