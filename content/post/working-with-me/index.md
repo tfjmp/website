@@ -190,3 +190,8 @@ If you wish to change your topic of research, you must discuss this in advance a
 Similarly, if there is no sufficient progress as to fulfil our engagement with the funder, we may discuss alternative route to fund your research.
 If you make extra-work commitments (side-projects, consulting, extra-teaching, etc.), I must be made aware.
 Be aware that some grants/funding are tied to IP agreements and it may affect work you do on closely related topics.
+
+# Self-evaluation form
+
+At the end of each term, students should fill a [self-evaluation form](https://forms.gle/bBwwzYCtjpoVVTha6).
+The goal is to identify potential problem early and to be sure that you are well supported.
