@@ -74,7 +74,7 @@ This means that it is vital for your own progress that you take the lead in movi
 
 **Cancel meeting when you have nothing to discuss.**
 It is fine to drop me a message to tell me you haven't had time to make meaningful progress and would like to cancel a meeting.
-Obviously, I would not expect multiple meetings to be canceled in a row.
+Obviously, I would not expect multiple meetings to be canceled in a row (unless you are facing hardship in such case do let me know so I can ensure you get support).
 I would expect heads up on canceled meetings to come sufficiently early as to be respectful of the time of all people involved in those meetings.
 
 **Cancel meeting if something urgent happens.**
