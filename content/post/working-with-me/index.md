@@ -178,7 +178,7 @@ This means that the equipment is the property of UBC and that you should take ca
 
 ## RAship and TAship
 
-Unless you have secured a fellowship, you are likely to be funded through RAship or TAship.
+Unless you have secured a fellowship (you are strongly encouraged to look for those as it will strenghten your CV significantly), you are likely to be funded through RAship or TAship.
 Most of you will be familiar with Teaching Assistant duties.
 You will receive monetary compensation and it is therefore expected that you behave professionally and perform your duties to the best of your ability.
 
