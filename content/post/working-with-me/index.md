@@ -166,6 +166,25 @@ You may also wish to participate in department-level or university-level service
 Finally, you may want to get involved with the research community by participating in different activities such as artifacts evaluation committee, shadow program committee, and program committee.
 This is also encouraged and I am happy to provide support if needed and as appropriate.
 
+You should note that those activities are important and can help with your career progression.
+Multiple fellowships explicitly mention those in selection criteria.
+
+{{% callout note %}}
+**[IEEE Canadian Foundation Nick Cercone Graduate Scholarship in Computer Science](http://nickcerconescholarship.ca/?page_id=14)**
+
+Weight will also be attached to the student’s academic excellence and to her or his involvement in helping others (e.g. tutoring, service on a student council, organizing student activities, and volunteer work outside the university).
+
+**[Canada Graduate Scholarships – Master’s program](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp)**
+
+Indicators of personal characteristics and interpersonal skills:
+- work experience
+- leadership experience
+- project management including organizing conferences and meetings
+- ability or potential to communicate theoretical, technical or scientific concepts clearly and logically in written and oral formats
+- involvement in academic life
+- volunteerism/community outreach
+{{% /callout %}}
+
 There are obviously some circumstances that may prevent you from participating.
 You may also need to be away from the lab for some time (e.g., family or health issues).
 This is perfectly fine but this should be discussed in advanced to ensure you have proper support (there is a number of initiative within the university to support students going through hardships).
