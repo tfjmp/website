@@ -187,7 +187,7 @@ Professional, academic and extracurricular activities as well as collaborations 
 
 There are obviously some circumstances that may prevent you from participating.
 You may also need to be away from the lab for some time (e.g., family or health issues).
-This is perfectly fine but this should be discussed in advanced to ensure you have proper support (there is a number of initiative within the university to support students going through hardships).
+This is perfectly fine but this should be discussed in advance to ensure you have proper support (there is a number of initiative within the university to support students going through hardships).
 
 ## Equipment
 
