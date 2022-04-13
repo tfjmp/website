@@ -174,15 +174,15 @@ Multiple fellowships explicitly mention those in selection criteria.
 
 Weight will also be attached to the student’s academic excellence and to her or his involvement in helping others (e.g. tutoring, service on a student council, organizing student activities, and volunteer work outside the university).
 
-**[Canada Graduate Scholarships – Master’s program](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp)**
+**[Canada Graduate Scholarships – Doctoral program](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp)**
 
-Indicators of personal characteristics and interpersonal skills:
-- work experience
-- leadership experience
-- project management including organizing conferences and meetings
-- ability or potential to communicate theoretical, technical or scientific concepts clearly and logically in written and oral formats
-- involvement in academic life
-- volunteerism/community outreach
+Professional, academic and extracurricular activities as well as collaborations with supervisors, colleagues, peers, students and members of the community, such as
+- teaching, mentoring, supervising and/or coaching
+- managing projects
+- participating in science and/or research promotion
+- participating in community outreach, volunteer work and/or civic engagement
+- chairing committees and/or organizing conferences and meetings
+- participating in departmental or institutional organizations, associations, societies and/or clubs
 {{% /callout %}}
 
 There are obviously some circumstances that may prevent you from participating.
