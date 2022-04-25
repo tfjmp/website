@@ -210,7 +210,20 @@ Similarly, if there is no sufficient progress as to fulfil our engagement with t
 If you make extra-work commitments (side-projects, consulting, extra-teaching, etc.), I must be made aware.
 Be aware that some grants/funding are tied to IP agreements and it may affect work you do on closely related topics.
 
-# Self-evaluation form
+## Internships
+
+Internships are a great opportunity to gain new skills, build your network and expand your horizon.
+I strongly encourage graduate students, especially, PhD students to seek such a position during the course of their degree.
+You should try to identify an internship that *helps* with your research (acquiring complementary skills, researching a related topic etc.).
+It is possible to get an internship at any point during you degree, however, internships done a few years in your degree tend to be more valuable (you are productive much faster, you can more effectively leverage the network you will build etc.).
+You should start to think about internship towards the end of *Winter 1 term* of the year you are planning to do your summer internship.
+Talk to faculties and students in Systopia, and talk to me too!
+Finally, remember that immigration issues may affect your eligibility for internships.
+This is a complex matter and faculties are generally ill-equipped to help.
+The best source of advice on the matter at UBC is the [International Student Advising](https://students.ubc.ca/about-student-services/international-student-advising) service.
+You should contact them as you start planning to apply for internships.
+
+## Self-evaluation form
 
 At the end of each term, students should fill a [self-evaluation form](https://forms.gle/bBwwzYCtjpoVVTha6).
 The goal is for you to reflect on your progress and to identify potential problems early.
