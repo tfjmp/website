@@ -217,7 +217,7 @@ I strongly encourage graduate students, especially, PhD students to seek such a 
 You should try to identify an internship that *helps* with your research (acquiring complementary skills, researching a related topic etc.).
 It is possible to get an internship at any point during you degree, however, internships done a few years in your degree tend to be more valuable (you are productive much faster, you can more effectively leverage the network you will build etc.).
 You should start to think about internship towards the end of *Winter 1 term* of the year you are planning to do your summer internship.
-Talk to faculties and students in Systopia, and talk to me too!
+Talk to faculties and students in Systopia, and talk with me too!
 Finally, remember that immigration issues may affect your eligibility for internships.
 This is a complex matter and faculties are generally ill-equipped to help.
 The best source of advice on the matter at UBC is the [International Student Advising](https://students.ubc.ca/about-student-services/international-student-advising) service.
