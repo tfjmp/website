@@ -214,9 +214,9 @@ Be aware that some grants/funding are tied to IP agreements and it may affect wo
 
 Internships are a great opportunity to gain new skills, build your network and expand your horizon.
 I strongly encourage graduate students, especially, PhD students to seek such a position during the course of their degree.
-You should try to identify an internship that *helps* with your research (acquiring complementary skills, researching a related topic etc.).
-It is possible to get an internship at any point during you degree, however, internships done a few years in your degree tend to be more valuable (you are productive much faster, you can more effectively leverage the network you will build etc.).
-You should start to think about internship towards the end of *Winter 1 term* of the year you are planning to do your summer internship.
+You should try to identify an internship that *helps* with your research and career goal (acquiring complementary skills, researching a related topic etc.).
+It is possible to get an internship at any point during you degree, however, internships done a few years in your degree tend to be more valuable (you are productive much faster, you can more effectively leverage the network you will build etc.), further the first summer(s) are likely to be the time when you start your research in earnest.
+You should start to think about internship towards the end of the *Winter 1 term* of the year you are planning to do your summer internship.
 Talk to faculties and students in Systopia, and more importantly talk with me!
 You should also be mindful of any engagement you have (Are you part of a team that is working for a submission during the summer? Have you signed to TA some summer course? Are you expected to produce some report as part of your degree? Is it ok given your source of funding?).
 Finally, remember that immigration issues may affect your eligibility for internships.
