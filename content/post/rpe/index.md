@@ -103,8 +103,7 @@ Defining research problems is one of the most important skills to acquire early 
 tackle during your RPE. Identify, the relevant literature and what is the state
 of the art in that space.
 
-**January**, this is the time to start working on the proposal. In addition to formalizing and writing down your proposal, you should consider doing some preliminary technical experimentation. My advice is to ensure that you are only
-taking a single course during this term. Indeed, you want to ensure you have enough time available
+**January**, this is the time to start working on the proposal. In addition to formalizing and writing down your proposal, you should consider doing some preliminary technical experimentation. My advice is to take only a single course during this term. You want to ensure you have enough
 time dedicated to research.
 
 **March**, we select together your RPE committee. This is relatively simple,
@@ -113,7 +112,7 @@ and who have time to seat on your committee.
 
 **April**, you submit your proposal and get feedback from the committee. You should
 expect again your ideas to be challenged in a supportive way. The goal is to help
-you formulate a clear problem. You should digest the feedback and make correction
+you formulate a clear problem. You should digest the feedback and make corrections
 accordingly.
 
 **May**, you can now start working on your project in earnest. At this point,
