@@ -80,6 +80,9 @@ your work as you would at a conference. You should cover the following topics: 1
 2) solution; 3) evaluation; and 4) future work. You should
 rehearse your presentation (you can ask me and your peers).
 
+You should not hesitate to discuss with other students in the lab, and ask for examples
+of their submissions.
+
 ## Deadlines
 
 Assume a student starting in September (if you start in January, tweak the timeline accordingly).
