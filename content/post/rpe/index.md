@@ -87,15 +87,13 @@ Here is my vision of how you should approach the RPE process.
 Remember, as your advisor/supervisor it is my job to get you through this process
 successfully. This means you should talk to me and seek help and support.
 
-**September**, you hopefully have an idea of why you came to UBC and in what general
-topic you want to work on.
-You should spend your first few months getting familiar with the literature,
-writing an annotated bibliography/notes about your reading, and start writing
-bits of code to test your ideas.
+**September**, you hopefully have an idea of why you came to UBC and what you want to work on.
+You should spend your first few months getting familiar with the relevant literature,
+writing an annotated bibliography/notes about your reading, and start designing and implementing prototypes to test your ideas.
 In addition, you may also decide to join an existing project, get up to speed with the project, and participate actively.
 During our 1-1 meeting I would expect to discuss your growing understanding of
-the field, and your growing ideas. Part of my job is to challenge your ideas
-and force you to think critically about the problems and solutions you propose.
+the field, and your ideas. Part of my job is to challenge your ideas
+and force you to think critically about the problems you propose to investigate and potential solutions.
 Defining research problems is one of the most important skills to acquire early on.
 
 **December**, you should start crystalizing the research problem you want to
@@ -103,8 +101,8 @@ tackle during your RPE. Identify, the relevant literature and what is the state
 of the art in that space.
 
 **January**, this is the time to start working on the proposal. In addition to formalizing and writing down your proposal, you should consider doing some preliminary technical experimentation. My advice is to ensure that you are only
-taking a single course that term to ensure you have enough time to focus on
-Research.
+taking a single course during this term. Indeed, you want to ensure you have enough time available
+time dedicated to research.
 
 **March**, we select together your RPE committee. This is relatively simple,
 we need to identify two faculties such that their interests overlap with your RPE project
@@ -112,7 +110,8 @@ and who have time to seat on your committee.
 
 **April**, you submit your proposal and get feedback from the committee. You should
 expect again your ideas to be challenged in a supportive way. The goal is to help
-you formulate a clear problem.
+you formulate a clear problem. You should digest the feedback and make correction
+accordingly.
 
 **May**, you can now start working on your project in earnest. At this point,
 you should be done with courses and you should be able to focus on your research
