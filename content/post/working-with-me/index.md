@@ -224,6 +224,14 @@ This is a complex matter and faculties are generally ill-equipped to help.
 The best source of advice on the matter at UBC is the [International Student Advising](https://students.ubc.ca/about-student-services/international-student-advising) service.
 You should contact them as you start planning to apply for internships.
 
+## Ph.D. Timeline
+
+You can find the official timeline on the [department website](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program/phd-program-timeline).
+
+- Year 1 - Prepare and pass the [Research Proficiency Evaluation](https://tfjmp.org/post/rpe/).
+- Year 2/3 - PhD Proposal and course requirement completion, move to [candidacy](https://www.grad.ubc.ca/current-students/managing-your-program/advancement-candidacy).
+- Eventually ([> 3.33 years & < 9 years ; on average 5.77 years](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science)) submit and defend your PhD thesis!
+
 ## Self-evaluation form
 
 At the end of each term, students should fill a [self-evaluation form](https://forms.gle/bBwwzYCtjpoVVTha6).
