@@ -81,7 +81,11 @@ your work as you would at a conference. You should cover the following topics: 1
 rehearse your presentation (you can ask me and your peers).
 
 You should not hesitate to discuss with other students in the lab, and ask for examples
-of their submissions.
+of their submissions. Further, I am expecting to see several drafts of your
+written work/presentation. I will normally ask for it, but you should feel free
+to send it to me as soon as you want feedback. Unlike work you do for a joint paper submission, I will avoid rewriting your text. However, I am more than happy to (and will) comment.
+I also encourage you to share drafts with some of your peers working on
+different projects (forming a writing group with other students taking their RPE at the same time can be a very positive experience). Sharing your work with peers help you gauge how accessible your writings are.
 
 ## Deadlines
 
