@@ -171,9 +171,8 @@ Written submissions will be made through TBC and must be formatted using the [US
 
 ## Grading
 
-- Project proposal (group) 10%
 - Peer Review 10%
-- Project (group) 45%
+- Project (group) 55%
 - Paper reports 20%
 - Presentation(s) 10%
 - Participation (in-class discussion) 5%
