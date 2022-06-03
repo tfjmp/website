@@ -135,6 +135,10 @@ Imagine you’re attending a talk about this paper given by one of the authors. 
 that you would like to ask. These should ideally be specific to the paper/research.
 {{% /callout %}}
 
+You should submit 23 paper reports (subject to change). Each report done properly is equivalent to
+1% of your final grade for a total of 20%. In practice, this means you have a few
+"jokers".
+
 ## Project
 
 The project must address a non-trivial problem relevant to systems security. The project can resolve the problem by building a system, collecting data/carrying out experiments, developing algorithms and proving them correct, etc. I strongly prefer that you do your project in a team of 2-4 people.
