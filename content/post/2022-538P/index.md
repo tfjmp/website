@@ -77,12 +77,12 @@ What add value to the presentation is your opinion and the insights you can extr
 | Day  | Paper  | Presenters  |
 |------------|--------|------------|
 | Jan 9 Mon  | Introduction - Course Overview - Reading a Paper <br/> Reading (no report): How to read a paper  |   |
-| Jan 11 Wed | Linux security modules: General security support for the linux kernel  |   |
-| Jan 16 Mon  | Analyzing Integrity Protection in the SELinux Example Policy |   |
-| Jan 18 Wed | A Study on the Security Implications of Information Leakages in Container Clouds |   |
-| Jan 23 Mon  | Project Proposal Presentation |   |
-| Jan 25 Wed | Houdini's Escape: Breaking the Resource Rein of Linux Control Groups |   |
-| Jan 30 Mon  | Security Namespace: Making Linux Security Frameworks Available to Containers |   |
+| Jan 11 Wed | A Study on the Security Implications of Information Leakages in Container Clouds  |   |
+| Jan 16 Mon  | Houdini's Escape: Breaking the Resource Rein of Linux Control Groups |   |
+| Jan 18 Wed | SCONE: Secure Linux Containers with Intel SGX |   |
+| Jan 23 Mon  | Security Namespace: Making Linux Security Frameworks Available to Containers |   |
+| Jan 25 Wed | Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization |   |
+| Jan 30 Mon  | Proposal Presentation |   |
 | Feb 1 Wed | Anomaly detection using call stack information |
 | Jan 6 Mon  | A fast automaton-based method for detecting anomalous program behaviors |   |
 | Feb 8 Wed | Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs |   |
@@ -93,13 +93,13 @@ What add value to the presentation is your opinion and the insights you can extr
 | Feb 27 Mon  | Automated whitebox fuzz testing |   |
 | Mar 1 Wed | AFL++: Combining Incremental Steps of Fuzzing Research |   |
 | Mar 6 Mon  | kafl: Hardware-assisted feedback fuzzing for {OS} kernels |   |
-| Mar 8 Wed | TBD  |   |
-| Mar 13 Mon  | Control-Flow Integrity |   |
-| Mar 15 Wed | Program-mandering: Quantitative privilege separation |   |
-| Mar 20 Mon  | KCoFI: Complete control-flow integrity for commodity operating system kernels |   |
-| Mar 22 Wed | Software fault isolation with API integrity and multi-principal modules |   |
-| Mar 27 Mon  | LXDs: Towards isolation of kernel subsystems |   |
-| Mar 29 Wed | xmp: selective memory protection for kernel and user space |   |
+| Mar 8 Wed | IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing  |   |
+| Mar 13 Mon  | Rethinking Access Control and Authentication for the Home Internet of Things (IoT) |   |
+| Mar 15 Wed | Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach |   |
+| Mar 20 Mon  | Control-Flow Integrity |   |
+| Mar 22 Wed | KCoFI: Complete control-flow integrity for commodity operating system kernels |   |
+| Mar 27 Mon  | Software fault isolation with API integrity and multi-principal modules |   |
+| Mar 29 Wed | LXDs: Towards isolation of kernel subsystems |   |
 | Apr 3 Mon  | CURE: A Security Architecture with CUstomizable and Resilient Enclaves |   |
 | Apr 5 Wed | RedLeaf: Isolation and Communication in a Safe Operating System |   |
 | Apr 10 Mon  | Project Presentation |   |
