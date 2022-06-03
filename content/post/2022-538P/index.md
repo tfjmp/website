@@ -181,7 +181,7 @@ Written submissions will be made through TBC and must be formatted using the [US
 
 | Day  | Paper  | Presenters  |
 |------------|--------|------------|
-| Jan 9 Mon  | Introduction - Course Overview - Reading a Paper <br/> Reading (no report): How to read a paper  |   |
+| Jan 9 Mon  | Introduction - Course Overview - Reading a Paper <br/> Reading (no report): [How to read a paper](https://cseweb.ucsd.edu/~dstefan/cse227-spring19/papers/keshav:how.pdf)  |   |
 | Jan 11 Wed | [A Study on the Security Implications of Information Leakages in Container Clouds](https://ieeexplore.ieee.org/document/8523802)  |   |
 | Jan 16 Mon  | [Houdini's Escape: Breaking the Resource Rein of Linux Control Groups](https://gzs715.github.io/pubs/HOUDINI_CCS19.pdf) |   |
 | Jan 18 Wed | [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf) |   |
