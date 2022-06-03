@@ -54,6 +54,7 @@ how diverse perspectives are welcomed and appreciated.
 
 ## Course Requirements
 
+There is no specific pre-requisite for this course outside of an undergraduate degree in Computer Science or closely related topics.
 
 
 ## Course Objectives
