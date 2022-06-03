@@ -38,6 +38,8 @@ categories:
 - Course
 ---
 
+**UNDER CONSTRUCTION**
+
 ## Course Description
 
 The goal of this course is to expose students to a variety of topics in Systems Security.
@@ -55,6 +57,11 @@ how diverse perspectives are welcomed and appreciated.
 
 
 ## Course Objectives
+
+- reason about security problems;
+- learn to read, critic, and write security papers;
+- better understand the review process;
+- implement and evaluate a security prototype.
 
 ## Class format
 
@@ -78,6 +85,84 @@ What add value to the presentation is your opinion and the insights you can extr
 You should expect to present at least 2 or 3 times during the term depending on the number of students registered.
 After the presentation we will take a 10 minutes break and discuss the paper.
 You should come prepared to those discussions and be ready to engage.
+
+## Paper reports
+
+For each assigned paper you must write a report. You are to use the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates)
+for formatting.
+In your report, please, follow this structure:
+
+{{% callout note %}}
+### Paper Summary (no more than 250 words)
+
+Provide a brief summary of the paper (3-5 sentences is usually enough). The aim is to demonstrate
+that you’ve read (and understood) the paper, so try to paraphrase and extract the essentials. At this
+stage you should aim to be objective; later sections allow for your own opinion.
+
+
+### Answer the following (no more than 750 words in total)
+
+#### The Problem
+
+What is the problem? Why is it important? What is previous work insufficient (or Why has the
+problem not been solved before, e.g. it’s a new problem the authors have identified). This is your take
+on what the authors say in the paper (so again should be fairly objective). If the paper doesn’t seem
+to tackle a particular problem, then focus on their primary motivation for the work. 1-2 sentences for
+each of the three questions is probably sufficient.
+
+
+#### The Solution (or Approach)
+
+What is their approach/solution? How does it solve the problem? How is the solution unique and/or
+innovative (if it is)? What are the details? Once more you should use the paper itself as the source to
+help you answer these questions– but, as in previous parts, please do not just copy sections from the
+paper. Instead you should focus on paraphrasing / synopsising, and extracting the essential details.
+Depending on the paper, you’ll probably need 5-10 sentences here.
+
+
+#### Evaluation
+
+How do they evaluation their solution? What questions do they set out to answer? What does the
+evaluation stay about the strengths and weaknesses of their system? What are the strengths and weaknesses of the evaluation itself do you think? A total of 3-4 sentences should suffice here – we’re
+looking for highlights, not a point by point reproduction of the evaluation section(s).
+In the rare case that there is no evaluation section, skip this part of the report.
+
+
+#### Questions for the Authors
+
+Imagine you’re attending a talk about this paper given by one of the authors. List at least 2 questions
+that you would like to ask. These should ideally be specific to the paper / research.
+{{% /callout %}}
+
+## Project
+
+The project must address a non-trivial problem relevant to systems security. The project can resolve the problem by building a system, by collecting data/carrying out experiments, by developing algorithms and proving them correct, etc. I strongly prefer that you do your project in a team of 2-4 people.
+You are encouraged to apply techniques from your main area of expertise to the topic of security (e.g., perform intrusion detection using ML techniques).
+
+You should plan to schedule some time to chat about your project idea with me.
+Please, do not hesitate to send me an e-mail as soon as you want to discuss.
+
+The required project deliverables are listed below.
+Written submissions will be made through TBC and must be formatted using the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates).
+- **Project Proposal Draft:**
+- **Proposal Presentation:**
+- **Proposal Peer Review:** each students will review proposal from other groups and give feedback. You should take this task seriously.
+- **Project Proposal:** you should incorporate feedback from the peer review process. I also strongly encourage you to schedule time to chat with me.
+- **Project Report Draft:**
+- **Project Presentation:** a presentation describing your project. I encourage you to demo your project during your talk. Each presentation will be followed by a QA period. Presentation timing details TBD.
+- **Report Peer Review:** as per the proposal stage, you will be asked to review the report from other teams.
+- **Project Report:** you should incorporate feedback from the peer review process. I also strongly encourage you to schedule time to chat with me.
+
+### Deadlines (TBC)
+
+- **Project Proposal Draft:** Friday, February 9th
+- **Proposal Presentation:** Wednesday, February 15th
+- **Proposal Peer Review:** Friday February 17th
+- **Project Proposal:** Monday, February 27th
+- **Project Report Draft:** Friday, April 7th
+- **Project Presentation:** Wednesday, April 12th
+- **Report Peer Review:** Friday, April 14th
+- **Project Report:** Friday, April 28th
 
 ## Grading
 
@@ -120,3 +205,20 @@ You should come prepared to those discussions and be ready to engage.
 | Apr 5 Wed | [EROS: a fast capability system](https://dl.acm.org/doi/abs/10.1145/319151.319163) |   |
 | Apr 10 Mon  | [Cheri: A hybrid capability-system architecture for scalable software compartmentalization](https://www.cl.cam.ac.uk/~dc552/papers/201505-oakland2015-cheri-compartmentalization.pdf) |   |
 | Apr 12 Wed | Project Presentation |   |
+
+## Late Policy
+
+You will receive a 0 for late work unless you have an approved extension.
+
+For individual assignments, the deadline for one assignment can be extended by 24 hours with no penalty to the mark. Extension requests must be made explicitly through e-mail. Extension requests must be made no later than 24 hours past the deadline.
+
+For group tasks you can request an extension of 24 hours as long as someone in your group has an unused extension. You cannot receive an extension of more than 24 hours for a group deliverable.
+
+## Academic honesty and collaboration guidelines
+
+The department has a detailed policy regarding [collaboration and plagiarism](https://my.cs.ubc.ca/docs/collaboration-plagiarism). You must familiarize yourself with this policy.
+
+**Paper reports:** You should write your reports individually. You are free to discuss with others,
+but you must write the reports on your own. You should clearly reference any resources you have used.
+
+**Projects:** ou are free to use any code you find in your project. However, a non-trivial fraction of functionality in your prototype must be constructed by your team. You must cite and attribute sources of the code that you borrow/utilize in your project. When writing the project reports, you should follow the same citations standard as expected from conference papers.
