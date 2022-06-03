@@ -232,3 +232,5 @@ but you must write the reports on your own. You should clearly reference any res
 - [How to read a paper](https://cseweb.ucsd.edu/~dstefan/cse227-spring19/papers/keshav:how.pdf)
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 - [How to give a good research talk](https://www.microsoft.com/en-us/research/publication/how-to-give-a-good-research-talk/)
+- [Reviewing System Security Papers](https://www.sigarch.org/reviewing-system-security-papers/)
+- [Writing reviews for systems conferences](https://www.cl.cam.ac.uk/teaching/1011/R01/review-writing.pdf)
