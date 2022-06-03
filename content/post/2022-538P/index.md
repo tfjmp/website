@@ -226,3 +226,9 @@ The department has a detailed policy regarding [collaboration and plagiarism](ht
 but you must write the reports on your own. You should clearly reference any resources you have used.
 
 **Projects:** you are free to use any code you find in your project. However, a non-trivial fraction of functionality in your prototype must be constructed by your team. You must cite and attribute sources of the code that you borrow/utilize in your project. When writing the project reports, you should follow the same citation standard as expected from conference papers.
+
+## Extra Reading Material
+
+- [How to read a paper](https://cseweb.ucsd.edu/~dstefan/cse227-spring19/papers/keshav:how.pdf)
+- [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+- [How to give a good research talk](https://www.microsoft.com/en-us/research/publication/how-to-give-a-good-research-talk/)
