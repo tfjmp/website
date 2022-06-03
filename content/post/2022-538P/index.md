@@ -46,7 +46,7 @@ Therefore, this course was designed as a *breadth* course, addressed to all stud
 The core idea underlying the course is to bring together a diversity of view points to generate interesting discussions.
 On the other hand, we could also easily design a *depth* course focused on any of the topics we will discuss.
 The project component is the opportunity for students to explore one of those topics in more depth.
-Students are free (and encouraged) to apply their expertise (ML, PL, HCI, architecture etc.) to solve a specific Systems Security problem.
+Students are free (and encouraged) to apply their expertise (ML, PL, HCI, architecture etc.) to solve a specific Security problem.
 Some of the papers have been selected explicitly to highlight the interdisciplinary nature of Systems Security and to showcase
 how diverse perspectives are welcomed and appreciated.
 
@@ -65,12 +65,28 @@ There will be two presenters during each class.
 Each presenter will play a different role: the role of the Advocate and the role of the Critic.
 The Advocate should play a role similar to that of the original authors and try to sell the work to the audience.
 On the other hand, the Critic while remaining objective should towards the end of the presentation highlight the flows of the paper and convince the audience that the paper is no good.
-Each presentation will last 12-14 minutes after which we will take a short break (5-10 minutes) before starting an in class discussion about the paper.
-You should expect to present at least 2 or 3 times during the term depending on the number of students registered.
+The Advocate presentation will last 20-25 minutes, you should motivate the work,
+summarize the paper, and present the results.
+The Critic presentation will last 10 minutes, you do not need to cover motivation
+or summarization, instead you should focus on the shortcomings of the paper.
+While shorter, the critic presentation is much more work to prepare.
 
 In order to do well during your presentation, you should remember to stick to your role (Advocate or Critic).
 Further, you do not need to spend too much time explaining the basic of the paper, everyone in class will have already read it.
 What add value to the presentation is your opinion and the insights you can extract from the paper! This what you should focus on.
+
+You should expect to present at least 2 or 3 times during the term depending on the number of students registered.
+After the presentation we will take a 10 minutes break and discuss the paper.
+You should come prepared to those discussions and be ready to engage.
+
+## Grading
+
+- Project proposal (group) 10%
+- Peer Review 10%
+- Open-ended project (group) 45%
+- Paper reports 20%
+- Presentation(s) 10%
+- Participation (in-class discussion) 5%
 
 ## Schedule & Reading List
 
@@ -82,12 +98,12 @@ What add value to the presentation is your opinion and the insights you can extr
 | Jan 18 Wed | [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf) |   |
 | Jan 23 Mon  | [Security Namespace: Making Linux Security Frameworks Available to Containers](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-sun.pdf) |   |
 | Jan 25 Wed | [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization](https://www-users.cse.umn.edu/~kjlu/papers/kara.pdf) |   |
-| Jan 30 Mon  | Proposal Presentation |   |
-| Feb 1 Wed | [Anomaly detection using call stack information](https://ieeexplore.ieee.org/abstract/document/1199328) |
-| Jan 6 Mon  | [A fast automaton-based method for detecting anomalous program behaviors](https://ieeexplore.ieee.org/abstract/document/924295) |   |
-| Feb 8 Wed | [Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs](https://dl.acm.org/doi/pdf/10.1145/2939672.2939783) |   |
-| Feb 13 Mon  | [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://dl.acm.org/doi/pdf/10.1145/3460120.3484589) |   |
-| Feb 15 Wed | [Automating mimicry attacks using static binary analysis](https://www.usenix.org/legacy/event/sec05/tech/full_papers/kruegel/kruegel.pdf) |   |
+| Jan 30 Mon  | [Anomaly detection using call stack information](https://ieeexplore.ieee.org/abstract/document/1199328) |   |
+| Feb 1 Wed | [A fast automaton-based method for detecting anomalous program behaviors](https://ieeexplore.ieee.org/abstract/document/924295) |
+| Jan 6 Mon  | [Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs](https://dl.acm.org/doi/pdf/10.1145/2939672.2939783) |   |
+| Feb 8 Wed | [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://dl.acm.org/doi/pdf/10.1145/3460120.3484589) |   |
+| Feb 13 Mon  | [Automating mimicry attacks using static binary analysis](https://www.usenix.org/legacy/event/sec05/tech/full_papers/kruegel/kruegel.pdf) |   |
+| Feb 15 Wed | Proposal Presentation |   |
 | Feb 20 Mon  | Midterm  |   |
 | Feb 22 Wed | Midterm  |   |
 | Feb 27 Mon  | [Automated whitebox fuzz testing](https://users.cs.northwestern.edu/~robby/courses/395-495-2017-winter/ndss2008.pdf) |   |
