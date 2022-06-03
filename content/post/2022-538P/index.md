@@ -77,17 +77,17 @@ What add value to the presentation is your opinion and the insights you can extr
 | Day  | Paper  | Presenters  |
 |------------|--------|------------|
 | Jan 9 Mon  | Introduction - Course Overview - Reading a Paper <br/> Reading (no report): How to read a paper  |   |
-| Jan 11 Wed |   |   |
-| Jan 16 Mon  |  |   |
-| Jan 18 Wed |  |   |
+| Jan 11 Wed | Linux security modules: General security support for the linux kernel  |   |
+| Jan 16 Mon  | Analyzing Integrity Protection in the SELinux Example Policy |   |
+| Jan 18 Wed | A Study on the Security Implications of Information Leakages in Container Clouds |   |
 | Jan 23 Mon  | Project Proposal Presentation |   |
-| Jan 25 Wed | Security Namespace: Making Linux Security Frameworks Available to Containers |   |
-| Jan 30 Mon  | Anomaly detection using call stack information |   |
-| Feb 1 Wed | A fast automaton-based method for detecting anomalous program behaviors |
-| Jan 6 Mon  | Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs |   |
-| Feb 8 Wed | DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications |   |
-| Feb 13 Mon  | Automating mimicry attacks using static binary analysis |   |
-| Feb 15 Wed | Evading Classifiers by Morphing in the Dark <br />Optional reading (no report): Evasion attacks against machine learning at test time |   |
+| Jan 25 Wed | Houdini's Escape: Breaking the Resource Rein of Linux Control Groups |   |
+| Jan 30 Mon  | Security Namespace: Making Linux Security Frameworks Available to Containers |   |
+| Feb 1 Wed | Anomaly detection using call stack information |
+| Jan 6 Mon  | A fast automaton-based method for detecting anomalous program behaviors |   |
+| Feb 8 Wed | Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs |   |
+| Feb 13 Mon  | DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications |   |
+| Feb 15 Wed | Automating mimicry attacks using static binary analysis |   |
 | Feb 20 Mon  | Midterm  |   |
 | Feb 22 Wed | Midterm  |   |
 | Feb 27 Mon  | Automated whitebox fuzz testing |   |
