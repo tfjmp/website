@@ -169,7 +169,7 @@ Written submissions will be made through TBC and must be formatted using the [US
 
 - Project proposal (group) 10%
 - Peer Review 10%
-- Open-ended project (group) 45%
+- Project (group) 45%
 - Paper reports 20%
 - Presentation(s) 10%
 - Participation (in-class discussion) 5%
