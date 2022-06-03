@@ -93,7 +93,7 @@ What add value to the presentation is your opinion and the insights you can extr
 | Feb 27 Mon  | Automated whitebox fuzz testing |   |
 | Mar 1 Wed | AFL++: Combining Incremental Steps of Fuzzing Research |   |
 | Mar 6 Mon  | kafl: Hardware-assisted feedback fuzzing for {OS} kernels |   |
-| Mar 8 Wed | TBD |   |
+| Mar 8 Wed | TBD  |   |
 | Mar 13 Mon  | Control-Flow Integrity |   |
 | Mar 15 Wed | Program-mandering: Quantitative privilege separation |   |
 | Mar 20 Mon  | KCoFI: Complete control-flow integrity for commodity operating system kernels |   |
