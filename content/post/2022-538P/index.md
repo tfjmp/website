@@ -234,3 +234,4 @@ but you must write the reports on your own. You should clearly reference any res
 - [How to give a good research talk](https://www.microsoft.com/en-us/research/publication/how-to-give-a-good-research-talk/)
 - [Reviewing System Security Papers](https://www.sigarch.org/reviewing-system-security-papers/)
 - [Writing reviews for systems conferences](https://www.cl.cam.ac.uk/teaching/1011/R01/review-writing.pdf)
+- [How do different fields review papers? Experiences from ICSE, PLDI, and CCS](https://andreas-zeller.info/2021/07/27/Reviewing-across-fields-ICSE-PLDI-CCS.html)
