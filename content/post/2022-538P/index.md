@@ -177,7 +177,7 @@ Written submissions will be made through TBC and must be formatted using the [US
 - Presentation(s) 10%
 - Participation (in-class discussion) 5%
 
-## Schedule & Reading List
+## Schedule & Reading List (subject to change)
 
 | Day  | Paper  | Presenters  |
 |------------|--------|------------|
