@@ -203,7 +203,7 @@ You will receive monetary compensation and it is therefore expected that you beh
 
 New students joining the group will be expected to work as a teaching assistant during their first year unless agreed otherwise.
 We will most likely discuss RAship opportunities towards the end of your first year.
-Those opportunities are dependent on funding availability, and your research progress.  
+Those opportunities are dependent on funding availability, and your academic and research progress.  
 
 Research Assistantships are generally funded through specific grants.
 The funder allocates money for us to work on a specific research topic.
