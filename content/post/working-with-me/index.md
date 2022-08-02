@@ -201,6 +201,10 @@ Unless you have secured a fellowship (you are strongly encouraged to look for th
 Most of you will be familiar with Teaching Assistant duties.
 You will receive monetary compensation and it is therefore expected that you behave professionally and perform your duties to the best of your ability.
 
+New students joining the group will be expected to work as a teaching assistant during their first year unless agreed otherwise.
+We will most likely discuss RAship opportunities towards the end of your first year.
+Those opportunities are dependent on funding availability, and your research progress.  
+
 Research Assistantships are generally funded through specific grants.
 The funder allocates money for us to work on a specific research topic.
 This means two things: 1) there is some expectation for us to produce results (this includes papers and software artifacts); and 2) that we work within the context of the funding agreement.
