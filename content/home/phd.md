@@ -85,7 +85,7 @@ Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but,
 * What research would you like to pursue during your degree?
 * Summary of your undergraduate/master thesis (if any)
 
-## Statement of Intent
+## What to address in your statement of intent?
 
 * Check the guidelines on the [department website](https://www.cs.ubc.ca/statement-of-intent)
 * An SoI must address the three following points: 1) show you know what is research, 2) describe the research you have done, and 3) discuss what research you would like to do.
