@@ -54,6 +54,7 @@ I am looking to work with students from all background (first generation student
 Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective).
 You can also find information about: [financial support](https://www.cs.ubc.ca/students/grad/prospective/funding/financial), [application fee waivers](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee), [minimum requirements for admission into graduate studies](https://www.cs.ubc.ca/students/grad/admissions/eligibility), and [minimum English proficiency requirements](https://www.cs.ubc.ca/students/grad/admissions/application-components-required-documents/english-proficiency-requirement).
 You may also look at [this page](https://tfjmp.org/post/working-with-me/) which describes my expectations when working with graduate students.
+Finally, you should have a look at [UBC cost calculator](https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/cost-living#calctable).
 Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but, please, do read the following suggestions before doing so.
 
 ## A few facts
