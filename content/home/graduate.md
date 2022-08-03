@@ -21,7 +21,6 @@ design:
 - [Sadaf Sadeghian](https://www.linkedin.com/in/sadaf-sadeghian-53b8b4174/) (MSc student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
 - Jinyuan Liang (MSc student, UBC)
-- [Priyanka Badva](https://www.linkedin.com/in/priyanka-badva/) (PhD student, Bristol) co-supervised with [Ryan McConville](https://ryanmcconville.com/) and [Eleonora Pantano](https://research-information.bris.ac.uk/en/persons/eleonora-pantano)
 
 ## Past students (position held after graduation)
 
