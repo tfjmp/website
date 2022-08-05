@@ -57,6 +57,10 @@ You may also look at [this page](https://tfjmp.org/post/working-with-me/) which 
 Finally, you should have a look at [UBC cost calculator](https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/cost-living#calctable).
 Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but, please, do read the following suggestions before doing so.
 
+**Note:** The Master of Science in Computer Science at UBC is a research degree. Students are expected to conduct research, submit papers for publication,
+and eventually write a thesis. You can find more information on the university [website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science). While applications are not reviewed with the same expectations as those of PhD applicants, you should clearly demonstrate you
+have an interest and the capacity to conduct research.
+
 ## A few facts
 
 * You must apply [online](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science).
