@@ -50,6 +50,17 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% callout note %}}
+There are several **fully funded summer internships** available to join my group for the Summer of 2023 via the [MITACS Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) program.
+As an intern you will work on issues relating to systems monitoring, observability, and intrusion detection.
+You will be joining the [Systopia Research Lab](https://systopia.cs.ubc.ca/) and will work closely with current graduate students and other interns.
+
+Project IDs: 29177 and 29683.
+
+You must **apply on [MITACS website](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) before September 22, 2022**.
+Please, review details of the application process carefully.
+{{% /callout %}}
+
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply) and at all level (undergraduate students, master’s students, and PhD students).
 Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective).
 You can also find information about: [financial support](https://www.cs.ubc.ca/students/grad/prospective/funding/financial), [application fee waivers](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee), [minimum requirements for admission into graduate studies](https://www.cs.ubc.ca/students/grad/admissions/eligibility), and [minimum English proficiency requirements](https://www.cs.ubc.ca/students/grad/admissions/application-components-required-documents/english-proficiency-requirement).
@@ -103,14 +114,3 @@ have an interest and the capacity to conduct research.
 * Therefore, link clearly potential advisors to your experience and your aspirations
 * Everything else being equal, an applicant that understands and shows **why** they should be working with a specific advisor are more likely to be successful
 * This is my personal opinion and may not be universally true
-
-{{% callout note %}}
-There are several **fully funded summer internships** available to join my group for the Summer of 2023 via the [MITACS Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) program.
-As an intern you will work on issues relating to systems monitoring, observability, and intrusion detection.
-You will be joining the [Systopia Research Lab](https://systopia.cs.ubc.ca/) and will work closely with current graduate students and other interns.
-
-Project IDs: 29177 and 29683.
-
-You must **apply on [MITACS website](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) before September 22, 2022**.
-Please, review details of the application process carefully.
-{{% /callout %}}
