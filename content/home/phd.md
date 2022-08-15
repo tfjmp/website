@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Joining the lab as a graduate student"
+title = "Joining my lab"
 subtitle = ""
 
 [design]
@@ -90,7 +90,7 @@ have an interest and the capacity to conduct research.
 * Find a set of papers which aligns with your interests.
 * Read the abstracts.
 * Read at least one paper in full.
-* **Only contact me if you need further precision/information**. If you are planning to apply, please, do so through UBC system. I cannot process applications sent via e-mail.
+* **Only contact me if you need further precision/information**. If you are planning to apply, please, do so through UBC system. **I cannot process applications sent via e-mail**.
 
 ## What to send when contacting me?
 
