@@ -18,7 +18,8 @@ weight = 70
 +++
 
 **UBC**
-- [538P: Topic in Computer Systems: Systems Security](./post/2022-538p/) 2022-2023 Winter 2 (January)
+- [CPSC 436A: Operating Systems Design and Implementation](https://www.students.cs.ubc.ca/~cs-436a/index.html) 2022-2023 Winter 1 (September)
+- [CPSC 538P: Topic in Computer Systems: Systems Security](./post/2022-538p/) 2022-2023 Winter 2 (January)
 
 **Bristol:**
 - [COMS20012: Computer Systems B (Operating Systems & Security) (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 2020-2021 TB2
