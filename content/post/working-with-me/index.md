@@ -209,6 +209,7 @@ Research Assistantships are generally funded through specific grants.
 The funder allocates money for us to work on a specific research topic.
 This means two things: 1) there is some expectation for us to produce results (this includes papers and software artifacts); and 2) that we work within the context of the funding agreement.
 This means that by taking a RAship you must work on the agreed-upon topic.
+It is my job to make sure the grant gives you a reasonable degree of freedom but if we agreed to do research on how to make the best pizza, we may not be able to work on how to make the best paella.
 If you wish to change your topic of research, you must discuss this in advance and as early as possible.
 Similarly, if there is no sufficient progress as to fulfil our engagement with the funder, we may discuss alternative route to fund your research.
 If you make extra-work commitments (side-projects, consulting, extra-teaching, etc.), I must be made aware.
