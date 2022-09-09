@@ -82,7 +82,7 @@ have an interest and the capacity to conduct research.
 * Master and PhD applications are reviewed by the same committee. The [PhD track](https://www.cs.ubc.ca/students/grad/prospective-grads/grad-programs/phd-track-msc-program) is ideal for candidates who ultimately want to do a PhD, but do not feel ready yet.
 * Even if you are well fitted for my group, I cannot guarantee admission.
 
-## Before contacting me
+## Before applying
 
 * Have a look at my [publications](https://tfjmp.org/publication/).
 * Identify matching interests.
@@ -90,28 +90,25 @@ have an interest and the capacity to conduct research.
 * Find a set of papers which aligns with your interests.
 * Read the abstracts.
 * Read at least one paper in full.
-* **Only contact me if you need further precision/information**. If you are planning to apply, please, do so through UBC system. **I cannot process applications sent via e-mail**.
-
-## What to send when contacting me?
-
-* CV/resume
-* Transcripts
-* Why do you want to work with me? (one paragraph)
-* Why do you want to work on this topic? (one paragraph)
-* Which paper(s) did you read and why did you find it interesting? (one paragraph)
-* Previous research experience (if any)
-* What research would you like to pursue during your degree?
-* Summary of research work you have conducted.
 
 ## What to address in your statement of intent?
 
 * Check the guidelines on the [department website](https://www.cs.ubc.ca/statement-of-intent)
 * An SoI must address the three following points: 1) show you know what is research, 2) describe the research you have done, and 3) discuss what research you would like to do.
 * The SoI is **not** about your life story.
-* The relationship between a student and their advisor is an extremely important one and it will hopefully last for years
-* The commonality of interest should be clear from your statement
-* Listing half a dozen potential advisors from very different areas is most probably detrimental to your application
-* On the other hand, co-supervision is common and can be very positive
-* Therefore, link clearly potential advisors to your experience and your aspirations
-* Everything else being equal, an applicant that understands and shows **why** they should be working with a specific advisor are more likely to be successful
-* This is my personal opinion and may not be universally true
+* The relationship between a student and their advisor is an extremely important one and it will hopefully last for years.
+* The commonality of interest should be clear from your statement.
+* Listing half a dozen potential advisors from very different areas is most probably detrimental to your application.
+* On the other hand, co-supervision is common and can be very positive.
+* Therefore, link clearly potential advisors to your experience and your aspirations.
+* Everything else being equal, an applicant that understands and shows **why** they should be working with a specific advisor are more likely to be successful.
+* This is my personal opinion and may not be universally true.
+
+## Contacting me
+
+You should feel free to contact me if you have any questions or need further precision/information.
+If you are planning to apply, please, do so through the UBC system, if you select me as a potential supervisor in the online form, I will review your application.
+**I cannot process applications sent via e-mail** and I will not review application packages sent by e-mail.
+I do not process applications before the closing deadline (December 15th).
+Further, note that [Systopia](https://systopia.cs.ubc.ca/) receive several hundred applications every year, and it takes a non-trivial amount of time to review them carefully.
+We aim for all students to hear back from us by mid-April.
