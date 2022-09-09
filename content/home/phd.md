@@ -111,4 +111,4 @@ If you are planning to apply, please, do so through the UBC system, if you selec
 **I cannot process applications sent via e-mail** and I will not review application packages sent by e-mail.
 I do not process applications before the closing deadline (December 15th).
 Further, note that [Systopia](https://systopia.cs.ubc.ca/) receive several hundred applications every year, and it takes a non-trivial amount of time to review them carefully.
-We aim for all students to hear back from us by mid-April.
+We aim (but cannot guarantee) for all students to hear back from us by mid-April.
