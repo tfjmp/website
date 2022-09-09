@@ -67,7 +67,6 @@ Please, visit the prospective applicant page on [UBC website](https://www.grad.u
 You can also find information about: [financial support](https://www.cs.ubc.ca/students/grad/prospective/funding/financial), [application fee waivers](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee), [minimum requirements for admission into graduate studies](https://www.cs.ubc.ca/students/grad/admissions/eligibility), and [minimum English proficiency requirements](https://www.cs.ubc.ca/students/grad/admissions/application-components-required-documents/english-proficiency-requirement).
 You may also look at [this page](https://tfjmp.org/post/working-with-me/) which describes my expectations when working with graduate students.
 Finally, you should have a look at [UBC cost calculator](https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/cost-living#calctable).
-Don't hesitate to get in touch with me via [e-mail](mailto:tfjmp@cs.ubc.ca) but, please, do read the following suggestions before doing so.
 
 **Note:** The Master of Science in Computer Science at UBC is a research degree. Students are expected to conduct research, submit papers for publication,
 and eventually write a thesis. You can find more information on the university [website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science). While applications are not reviewed with the same expectations as those of PhD applicants, you should clearly demonstrate you
@@ -106,7 +105,7 @@ have an interest and the capacity to conduct research.
 
 ## Contacting me
 
-You should feel free to contact me if you have any questions or need further precision/information.
+Don't hesitate to contact me via [e-mail](mailto:tfjmp@cs.ubc.ca) if you have any questions or need further precision/information.
 If you are planning to apply, please, do so through the UBC system, if you select me as a potential supervisor in the online form, I will review your application.
 **I cannot process applications sent via e-mail** and I will not review application packages sent by e-mail.
 I do not process applications before the closing deadline (December 15th).
