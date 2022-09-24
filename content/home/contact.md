@@ -29,9 +29,6 @@ content:
     latitude: '49.26098120002967'
     longitude: '-123.24877550368758'
   directions: ''
-  office_hours:
-    - 'Book online'
-  appointment_url: 'https://koalendar.com/e/meet-with-thomas'
   contact_links:
     - icon: twitter
       icon_pack: fab
