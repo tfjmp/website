@@ -92,7 +92,7 @@ The default assumption is that your code and any other artifacts will be made pu
 
 It is also important to produce software that can run.
 Consequently, I tend to insist on the use of [continuous integration tools and practices](https://en.wikipedia.org/wiki/Continuous_integration) and I would expect us to set this up together in the early stage of a project.
-I am also a big fan of disposable and reproducible development environments and I strongly encourage you to look at [how to use Vagrant](https://medium.com/linode-cube/use-vagrant-to-improve-development-environment-setup-time-337187d25a3a).
+I am also a big fan of disposable and reproducible development environments and I strongly encourage you to look at [how to use Vagrant](https://www.vagrantup.com/).
 
 ## Interpersonal Communication and Cultural Expectations
 
