@@ -51,15 +51,7 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-There are several **fully funded summer internships** available to join my group for the Summer of 2023 via the [MITACS Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) program.
-You can find the list of eligible countries and institutions [here](https://www.mitacs.ca/en/globalink-research-internship-2023-eligible-universities).
-As an intern you will work on issues relating to systems monitoring, observability, and intrusion detection.
-You will be joining the [Systopia Research Lab](https://systopia.cs.ubc.ca/) and will work closely with current graduate students and other interns.
-
-Project IDs: 29177 and 29683.
-
-You must **apply on [MITACS website](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) before September 22, 2022**.
-Please, review details of the application process carefully.
+We ([Mathias Lecuyer](http://mathias.lecuyer.me/) and [Thomas Pasquier](https://tfjmp.org/)) are looking for students interested in [pursuing a Ph.D.](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) at the intersection of causal discovery and automated system optimization. Successful applicants will join the [Systopia Lab](https://systopia.cs.ubc.ca/) in the [department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/). We are looking for candidates with expertise and experience in either Systems or ML research.
 {{% /callout %}}
 
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply) and at all level (undergraduate students, master’s students, and PhD students).
