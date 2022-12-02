@@ -185,13 +185,13 @@ Written submissions will be made through TBC and must be formatted using the [US
 | Jan 11 Wed | [A Study on the Security Implications of Information Leakages in Container Clouds](https://ieeexplore.ieee.org/document/8523802)  |   |
 | Jan 16 Mon  | [Houdini's Escape: Breaking the Resource Rein of Linux Control Groups](https://gzs715.github.io/pubs/HOUDINI_CCS19.pdf) |   |
 | Jan 18 Wed | [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf) |   |
-| Jan 23 Mon  | [Security Namespace: Making Linux Security Frameworks Available to Containers](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-sun.pdf) |   |
-| Jan 25 Wed | [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization](https://www-users.cse.umn.edu/~kjlu/papers/kara.pdf) |   |
-| Jan 30 Mon  | [Anomaly detection using call stack information](https://ieeexplore.ieee.org/abstract/document/1199328) |   |
-| Feb 1 Wed | [A fast automaton-based method for detecting anomalous program behaviors](https://ieeexplore.ieee.org/abstract/document/924295) |
-| Jan 6 Mon  | [Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs](https://dl.acm.org/doi/pdf/10.1145/2939672.2939783) |   |
-| Feb 8 Wed | [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://dl.acm.org/doi/pdf/10.1145/3460120.3484589) |   |
-| Feb 13 Mon  | [Automating mimicry attacks using static binary analysis](https://www.usenix.org/legacy/event/sec05/tech/full_papers/kruegel/kruegel.pdf) |   |
+| Jan 23 Mon  | [rkt-io: a direct I/O stack for shielded execution](https://web.dse.in.tum.de/wp-content/uploads/2021/11/rkt-io-eurosys21.pdf) |   |
+| Jan 25 Wed | [Security Namespace: Making Linux Security Frameworks Available to Containers](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-sun.pdf) |   |
+| Jan 30 Mon  | [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization](https://www-users.cse.umn.edu/~kjlu/papers/kara.pdf) |   |
+| Feb 1 Wed | [Anomaly detection using call stack information](https://ieeexplore.ieee.org/abstract/document/1199328) |
+| Jan 6 Mon  | [A fast automaton-based method for detecting anomalous program behaviors](https://ieeexplore.ieee.org/abstract/document/924295) |   |
+| Feb 8 Wed | [Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs](https://dl.acm.org/doi/pdf/10.1145/2939672.2939783) |   |
+| Feb 13 Mon  | [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://dl.acm.org/doi/pdf/10.1145/3460120.3484589) |   |
 | Feb 15 Wed | Proposal Presentation |   |
 | Feb 20 Mon  | Midterm  |   |
 | Feb 22 Wed | Midterm  |   |
@@ -201,10 +201,10 @@ Written submissions will be made through TBC and must be formatted using the [US
 | Mar 8 Wed | [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~zhao.2708/assets/ndss18/NDSS18.pdf)  |   |
 | Mar 13 Mon  | [Rethinking Access Control and Authentication for the Home Internet of Things (IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf) |   |
 | Mar 15 Wed | [Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach](https://dl.acm.org/doi/pdf/10.1145/3355369.3355577) |   |
-| Mar 20 Mon  | [Control-Flow Bending: On the Effectiveness of Control-Flow Integrity](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-carlini.pdf) |   |
-| Mar 22 Wed | [KCoFI: Complete control-flow integrity for commodity operating system kernels](https://www.ieee-security.org/TC/SP2014/papers/KCoFI_c_CompleteControl-FlowIntegrityforCommodityOperatingSystemKernels.pdf) |   |
-| Mar 27 Mon  | [Software fault isolation with API integrity and multi-principal modules](https://pdos.csail.mit.edu/papers/lxfi:sosp11.pdf) |   |
-| Mar 29 Wed | [LXDs: Towards isolation of kernel subsystems](https://www.usenix.net/system/files/atc19-narayanan.pdf) |   |
+| Mar 20 Mon  | [KCoFI: Complete control-flow integrity for commodity operating system kernels](https://www.ieee-security.org/TC/SP2014/papers/KCoFI_c_CompleteControl-FlowIntegrityforCommodityOperatingSystemKernels.pdf) |   |
+| Mar 22 Wed | [Software fault isolation with API integrity and multi-principal modules](https://pdos.csail.mit.edu/papers/lxfi:sosp11.pdf) |   |
+| Mar 27 Mon  | [LXDs: Towards isolation of kernel subsystems]((https://www.usenix.net/system/files/atc19-narayanan.pdf) |   |
+| Mar 29 Wed | [Preventing Kernel Hacks with HAKC](http://nebelwelt.net/publications/files/22NDSS2.pdf) |   |
 | Apr 3 Mon  | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/system/files/osdi20-narayanan_vikram.pdf) |   |
 | Apr 5 Wed | [EROS: a fast capability system](https://dl.acm.org/doi/abs/10.1145/319151.319163) |   |
 | Apr 10 Mon  | [Cheri: A hybrid capability-system architecture for scalable software compartmentalization](https://www.cl.cam.ac.uk/~dc552/papers/201505-oakland2015-cheri-compartmentalization.pdf) |   |
