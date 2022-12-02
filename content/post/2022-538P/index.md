@@ -203,7 +203,7 @@ Written submissions will be made through TBC and must be formatted using the [US
 | Mar 15 Wed | [Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach](https://dl.acm.org/doi/pdf/10.1145/3355369.3355577) |   |
 | Mar 20 Mon  | [KCoFI: Complete control-flow integrity for commodity operating system kernels](https://www.ieee-security.org/TC/SP2014/papers/KCoFI_c_CompleteControl-FlowIntegrityforCommodityOperatingSystemKernels.pdf) |   |
 | Mar 22 Wed | [Software fault isolation with API integrity and multi-principal modules](https://pdos.csail.mit.edu/papers/lxfi:sosp11.pdf) |   |
-| Mar 27 Mon  | [LXDs: Towards isolation of kernel subsystems]((https://www.usenix.net/system/files/atc19-narayanan.pdf) |   |
+| Mar 27 Mon  | [LXDs: Towards isolation of kernel subsystems](https://www.usenix.net/system/files/atc19-narayanan.pdf) |   |
 | Mar 29 Wed | [Preventing Kernel Hacks with HAKC](http://nebelwelt.net/publications/files/22NDSS2.pdf) |   |
 | Apr 3 Mon  | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/system/files/osdi20-narayanan_vikram.pdf) |   |
 | Apr 5 Wed | [EROS: a fast capability system](https://dl.acm.org/doi/abs/10.1145/319151.319163) |   |
