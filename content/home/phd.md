@@ -97,6 +97,12 @@ have an interest and the capacity to conduct research.
 * Everything else being equal, an applicant that understands and shows **why** they should be working with a specific advisor are more likely to be successful.
 * This is my personal opinion and may not be universally true.
 
+## If you get an offer letter
+
+* Do not hesistate to get in touch to discuss specific details.
+* Funding amounts on the offer letter is a **guaranteed minimum**, do contact me to discuss the actual amount.
+* Apply for graduate accomodation as early as possible. Check the [information online](https://vancouver.housing.ubc.ca/getting-started/graduate-students/).
+
 ## Contacting me
 
 Don't hesitate to contact me via [e-mail](mailto:tfjmp@cs.ubc.ca) if you have any questions or need further precision/information.
