@@ -201,6 +201,7 @@ This means that the equipment is the property of UBC and that you should take ca
 Unless you have secured a fellowship (you are strongly encouraged to look for those as it will strenghten your CV significantly), you are likely to be funded through RAship or TAship.
 Most of you will be familiar with Teaching Assistant duties.
 You will receive monetary compensation and it is therefore expected that you behave professionally and perform your duties to the best of your ability.
+Fulfilling expectations of those roles take precedence over your coursework.
 
 New students joining the group will be expected to work as a teaching assistant during their first year unless agreed otherwise.
 We will most likely discuss RAship opportunities towards the end of your first year.
@@ -213,6 +214,7 @@ This means that by taking a RAship you must work on the agreed-upon topic.
 It is my job to make sure the grant gives you a reasonable degree of freedom but if we agreed to do research on how to make the best pizza, we may not be able to work on how to make the best paella.
 If you wish to change your research topic, you must discuss this in advance and as early as possible.
 Similarly, if there is no sufficient progress as to fulfil our engagement with the funder, we may discuss alternative route to fund your research.
+Note, that I may not be able to provide the same amount financial support outside of our original agreed uppon topic.
 If you make extra-work commitments (side-projects, consulting, extra-teaching, etc.), I must be made aware.
 Be aware that some grants/funding are tied to IP agreements and it may affect work you do on closely related topics.
 
