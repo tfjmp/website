@@ -149,14 +149,78 @@ Please, do not hesitate to send me an e-mail as soon as you want to discuss it.
 
 The required project deliverables are listed below.
 Written submissions will be made through TBC and must be formatted using the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates).
-- **Project Proposal Draft:**
-- **Proposal Presentation:**
+- **Project Proposal Draft:** You are to submit the draft of your proposal on [hotcrp]. It will not be directly graded but will receive reviews from your peers.
+- **Proposal Presentation:** You will prepare a short presentation describing the project you intend to work on. Each presentation will be followed by a Q&A session. Presentation timing and details TBD.
 - **Proposal Peer Review:** each student will review proposals from other groups and give feedback. You should take this task seriously.
 - **Project Proposal:** you should incorporate feedback from the peer review process. I also strongly encourage you to schedule time to chat with me.
-- **Project Report Draft:**
-- **Project Presentation:** a presentation describing your project. I encourage you to demo your project during your talk. Each presentation will be followed by a QA period. Presentation timing details TBD.
+- **Project Report Draft:** You are to submit the draft of your report on [hotcrp]. It will not be directly graded but will receive reviews from your peers.
+- **Project Presentation:** You will prepare a presentation describing your project. I encourage you to demo your project during your talk. Each presentation will be followed by a Q&A session. Presentation timing and details TBD.
 - **Report Peer Review:** as per the proposal stage, you will be asked to review the report from other teams.
 - **Project Report:** you should incorporate feedback from the peer review process. I also strongly encourage you to schedule time to chat with me.
+
+{{% callout note %}}
+### Proposal Instuction
+
+Your proposal should be short (~4 pages). The main objective is to
+assess the viability of the proposed project. You are expected to have
+completed a limited amount of work at this stage.
+
+It must contain the following element:
+- **Problem statement** (4 paragraphs): *Paragraph 1)*  At a high level, what is the
+problem area you are working on, and why is it important? It is important
+to set the larger context here. Why is the problem of interest and
+importance to the larger community? *Paragraph 2)* What is the specific problem
+considered in this paper? This paragraph narrows down the topic area of the
+paper. In the first paragraph, you have established general context and
+importance. Here you describe a specific context and background.
+*Paragraph 3)* What general approach are you planning to take?
+Why do you expect significant results? You won't have done the work at this
+stage, but you should think about the results you expect to obtain.
+*Paragraph 4)* At a high level, what are the differences between what you are doing
+and what others have done?
+- **Related Work** (1 page): There are two types of related work: background work
+and contextual work. Background work includes contributions that are required to
+understand your work. They must be described in sufficient detail so that any
+of your classmates can understand what you are doing and why. Contextual work
+is necessary to help the readers place your work and identify your
+contributions. This includes past contributions you build upon in your own solution,
+work that solves the same problem but in different ways, and contributions from
+adjacent areas (solving a similar problem in a different domain). It is important
+to remember that doing something differently is not a contribution. It must be
+clear why you are taking an alternative approach (e.g., you exercise different trades-off,
+improve performance, etc.). You may have yet to perform
+an exhaustive literature review when submitting the proposal. Still, you need to have identified important work,
+know where to look for more, and clearly understand how your proposal differs
+from previous work. If you identify flaws in past work that you aim to address,
+identify and state them clearly. If you have yet to read all the papers you intend
+to read; you should list all those you have identified and plan to read. You
+should also identify areas/domains where you plan to look for relevant
+work. However, you should explicitly compare your proposed solution to some
+previous work (a few sentences per publication are enough).
+- **Experimental setup** (1 page): What experiments will you conduct? Why? What
+question is each experiment designed to answer? What do you hope to learn from
+each experiment? What measurement tools will you use? How will you determine if
+ your measurements are accurate? What tests will you conduct conditionally?
+ (For example, if we learn X from experiment 1, then we must
+do A else do B.) What problems do you expect?
+This part is essential to receive meaningful feedback and plan your
+research. This is where most of the proposal effort should go.
+- **Resources Needed** (<1 page): What equipment/software/tool will you need?
+Do you have access to it? How could you get access? You do not want to find out,
+midway through the project, you need access to resources that are not available.
+- **Schedule** (<1 page): You should be as precise as you can, identify important
+milestones, and make sure you allocate time to write the report and incorporate
+peers feedback.
+
+### Report Instruction
+
+You should write your final report as you would write a research paper. Your
+report should be at most 13 pages, including figures and tables, but excluding
+references. Be sure to highlight your work's limitations honestly
+and discuss when your results did not meet your expectations/hypothesis. Try to explain why this happens. I expect some of the reports you submit to
+be suitable to be turned into conference submissions. I am more than happy to
+work with you to make it happen.
+{{% /callout %}}
 
 ### Deadlines (TBC)
 
@@ -193,8 +257,8 @@ Written submissions will be made through TBC and must be formatted using the [US
 | Feb 8 Wed | [Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs](https://dl.acm.org/doi/pdf/10.1145/2939672.2939783) |   |
 | Feb 13 Mon  | [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://dl.acm.org/doi/pdf/10.1145/3460120.3484589) |   |
 | Feb 15 Wed | Proposal Presentation |   |
-| Feb 20 Mon  | Midterm  |   |
-| Feb 22 Wed | Midterm  |   |
+| Feb 20 Mon  | Midterm Break  |   |
+| Feb 22 Wed | Midterm Break  |   |
 | Feb 27 Mon  | [Automated whitebox fuzz testing](https://users.cs.northwestern.edu/~robby/courses/395-495-2017-winter/ndss2008.pdf) |   |
 | Mar 1 Wed | [AFL++: Combining Incremental Steps of Fuzzing Research](https://www.usenix.org/system/files/woot20-paper-fioraldi.pdf) |   |
 | Mar 6 Mon  | [kAFL: Hardware-assisted feedback fuzzing for OS kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf) |   |
