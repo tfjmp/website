@@ -243,6 +243,8 @@ work with you to make it happen.
 
 ## Schedule & Reading List (subject to change)
 
+Classes take place in [DMP 101](https://learningspaces.ubc.ca/classrooms/dmp-101).
+
 | Day  | Paper  | Presenters  |
 |------------|--------|------------|
 | Jan 9 Mon  | Introduction - Course Overview - Reading a Paper <br/> Reading (no report): [How to read a paper](https://cseweb.ucsd.edu/~dstefan/cse227-spring19/papers/keshav:how.pdf)  |   |
