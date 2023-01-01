@@ -22,7 +22,7 @@ weight = 70
 - [CPSC 436A: Operating Systems Design and Implementation](https://www.students.cs.ubc.ca/~cs-436a/index.html) 2022-2023 Winter 1 (September)
 
 **Bristol:**
-- [COMS20012: Computer Systems B (Operating Systems & Security) (Year 2)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 2020-2021 TB2
-- [COMSM0050: Systems and Software Security 2020 (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0050) 2020-2021 TB1
-- [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMSM1500) 2019-2020 TB1
-- [COMSM1500: Systems Security (Year 4)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMSM1500) 2018-2019 TB1
+- [COMS20012: Computer Systems B (Operating Systems & Security)](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMS20012) 2020-2021 TB2
+- [COMSM0050: Systems and Software Security](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=20%2F21&unitCode=COMSM0050) 2020-2021 TB1
+- [COMSM1500: Systems Security](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=19%2F20&unitCode=COMSM1500) 2019-2020 TB1
+- [COMSM1500: Systems Security](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMSM1500) 2018-2019 TB1
