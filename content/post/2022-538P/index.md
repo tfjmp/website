@@ -235,10 +235,10 @@ work with you to make it happen.
 
 ## Grading
 
-- Peer Review 15%
-- Project (group) 50%
 - Paper reports 20%
 - Presentation(s) 10%
+- Project (group) 50%
+- Peer Review 15%
 - Participation (in-class discussion) 5%
 
 ## Schedule & Reading List (subject to change)
