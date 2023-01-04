@@ -136,8 +136,8 @@ that you would like to ask. These should ideally be specific to the paper/resear
 {{% /callout %}}
 
 You should submit 23 paper reports (subject to change). Each report done properly is equivalent to
-1% of your final grade for a total of 20%. In practice, this means you have a few
-"jokers".
+1% of your final grade for a total of 20%. The 3 worst report score will be ignored (this gives
+you 3 effective jokers).
 
 ## Project
 
@@ -235,8 +235,8 @@ work with you to make it happen.
 
 ## Grading
 
-- Peer Review 10%
-- Project (group) 55%
+- Peer Review 15%
+- Project (group) 50%
 - Paper reports 20%
 - Presentation(s) 10%
 - Participation (in-class discussion) 5%
@@ -255,7 +255,7 @@ Classes take place in [DMP 101](https://learningspaces.ubc.ca/classrooms/dmp-101
 | Jan 25 Wed | [Security Namespace: Making Linux Security Frameworks Available to Containers](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-sun.pdf) |   |
 | Jan 30 Mon  | [Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization](https://www-users.cse.umn.edu/~kjlu/papers/kara.pdf) |   |
 | Feb 1 Wed | [Anomaly detection using call stack information](https://ieeexplore.ieee.org/abstract/document/1199328) |
-| Jan 6 Mon  | [A fast automaton-based method for detecting anomalous program behaviors](https://ieeexplore.ieee.org/abstract/document/924295) |   |
+| Feb 6 Mon  | [A fast automaton-based method for detecting anomalous program behaviors](https://ieeexplore.ieee.org/abstract/document/924295) |   |
 | Feb 8 Wed | [Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs](https://dl.acm.org/doi/pdf/10.1145/2939672.2939783) |   |
 | Feb 13 Mon  | [DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications](https://dl.acm.org/doi/pdf/10.1145/3460120.3484589) |   |
 | Feb 15 Wed | Proposal Presentation |   |
