@@ -149,11 +149,11 @@ Please, do not hesitate to send me an e-mail as soon as you want to discuss it.
 
 The required project deliverables are listed below.
 Written submissions will be made through TBC and must be formatted using the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates).
-- **Project Proposal Draft:** You are to submit the draft of your proposal on [hotcrp]. It will not be directly graded but will receive reviews from your peers.
+- **Project Proposal Draft:** You are to submit the draft of your proposal on [hotcrp](https://ubc-syssec23.hotcrp.com/). It will not be directly graded but will receive reviews from your peers.
 - **Proposal Presentation:** You will prepare a short presentation describing the project you intend to work on. Each presentation will be followed by a Q&A session. Presentation timing and details TBD.
 - **Proposal Peer Review:** each student will review proposals from other groups and give feedback. You should take this task seriously.
 - **Project Proposal:** you should incorporate feedback from the peer review process. I also strongly encourage you to schedule time to chat with me.
-- **Project Report Draft:** You are to submit the draft of your report on [hotcrp]. It will not be directly graded but will receive reviews from your peers.
+- **Project Report Draft:** You are to submit the draft of your report on [hotcrp](https://ubc-syssec23.hotcrp.com/). It will not be directly graded but will receive reviews from your peers.
 - **Project Presentation:** You will prepare a presentation describing your project. I encourage you to demo your project during your talk. Each presentation will be followed by a Q&A session. Presentation timing and details TBD.
 - **Report Peer Review:** as per the proposal stage, you will be asked to review the report from other teams.
 - **Project Report:** you should incorporate feedback from the peer review process. I also strongly encourage you to schedule time to chat with me.
