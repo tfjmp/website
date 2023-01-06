@@ -22,7 +22,7 @@ design:
 - [Sadaf Sadeghian](https://www.linkedin.com/in/sadaf-sadeghian-53b8b4174/) (MSc student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
 - Jinyuan Liang (MSc student, UBC)
-- [Xuechun Cao](https://www.linkedin.com/in/xuechun-joyce-cao-886958186/) (MSc student, UBC)
+- [Xuechun Cao](https://joycecao11.github.io/) (MSc student, UBC)
 
 ## Past students (position held after graduation)
 
