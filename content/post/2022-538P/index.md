@@ -211,6 +211,10 @@ midway through the project, you need access to resources that are not available.
 - **Schedule** (<1 page): You should be as precise as you can, identify important
 milestones, and make sure you allocate time to write the report and incorporate
 peers feedback.
+- **Distinction from Thesis** (1-2 paragraphs): You can and you are encouraged to work
+on a topic related to your thesis. However, your project **must** be
+distinct from your main research. You must explicit this distinction (in some
+cases, a single sentence is enough).
 
 ### Report Instruction
 
