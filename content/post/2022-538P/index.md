@@ -138,7 +138,7 @@ that you would like to ask. These should ideally be specific to the paper/resear
 {{% /callout %}}
 
 You should submit 23 paper reports (subject to change). Each report done properly is equivalent to
-1% of your final grade for a total of 20%. The 3 worst report score will be ignored (this gives
+1% of your final grade for a total of 20%. The 5 worst report score will be ignored (this gives
 you 3 effective jokers).
 
 ## Project
