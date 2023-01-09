@@ -148,7 +148,7 @@ You should plan to schedule some time to chat about your project idea with me.
 Please, do not hesitate to send me an e-mail as soon as you want to discuss it.
 
 The required project deliverables are listed below.
-Written submissions will be made through TBC and must be formatted using the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates).
+Written submissions will be made through [hotcrp](https://ubc-syssec23.hotcrp.com/) and must be formatted using the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates).
 - **Project Proposal Draft:** You are to submit the draft of your proposal on [hotcrp](https://ubc-syssec23.hotcrp.com/). It will not be directly graded but will receive reviews from your peers.
 - **Proposal Presentation:** You will prepare a short presentation describing the project you intend to work on. Each presentation will be followed by a Q&A session. Presentation timing and details TBD.
 - **Proposal Peer Review:** each student will review proposals from other groups and give feedback. You should take this task seriously.
@@ -226,7 +226,7 @@ be suitable to be turned into conference submissions. I am more than happy to
 work with you to make it happen.
 {{% /callout %}}
 
-### Deadlines (TBC)
+### Deadlines
 
 - **Project Proposal Draft:** Friday, February 9th
 - **Proposal Presentation:** Wednesday, February 15th
