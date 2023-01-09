@@ -86,11 +86,13 @@ What add value to the presentation is your opinion and the insights you can extr
 You should expect to present at least 2 or 3 times during the term depending on the number of students registered.
 After the presentation, we will take a 10 minutes break and discuss the paper.
 You should come prepared for those discussions and be ready to engage.
+Submissions are to be made on [canvas](https://canvas.ubc.ca/courses/106406), unless specified otherwise.
 
 ## Paper reports
 
 For each assigned paper you must write a report. You are to use the [USENIX latex template](https://www.usenix.org/conferences/author-resources/paper-templates)
 for formatting.
+You must submit your reports on [Canvas](https://canvas.ubc.ca/courses/106406).
 In your report, please, follow this structure:
 
 {{% callout note %}}
