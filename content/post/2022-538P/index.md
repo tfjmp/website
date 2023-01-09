@@ -38,8 +38,6 @@ categories:
 - Course
 ---
 
-**UNDER CONSTRUCTION**
-
 ## Course Description
 
 The goal of this course is to expose students to a variety of topics in Systems Security.
