@@ -105,7 +105,7 @@ stage you should aim to be objective; later sections allow for your own opinion.
 
 #### The Problem
 
-What is the problem? Why is it important? What is previous work insufficient (or Why has the
+What is the problem? Why is it important? Why is previous work insufficient (or Why has the
 problem not been solved before, e.g. it’s a new problem the authors have identified). This is your take
 on what the authors say in the paper (so again should be fairly objective). If the paper doesn’t seem
 to tackle a particular problem, then focus on the primary motivation for the work. 1-2 sentences for
