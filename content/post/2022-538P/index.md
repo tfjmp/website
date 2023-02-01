@@ -228,7 +228,7 @@ work with you to make it happen.
 
 ### Deadlines
 
-- **Project Proposal Draft:** Friday, February 9th
+- **Project Proposal Draft:** Friday, February 10th
 - **Proposal Presentation:** Wednesday, February 15th
 - **Proposal Peer Review:** Friday, February 17th
 - **Project Proposal:** Monday, February 27th
