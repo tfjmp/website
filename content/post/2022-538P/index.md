@@ -278,6 +278,7 @@ Classes take place in [DMP 101](https://learningspaces.ubc.ca/classrooms/dmp-101
 | Apr 3 Mon  | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/system/files/osdi20-narayanan_vikram.pdf) |   |
 | Apr 5 Wed | [EROS: a fast capability system](https://dl.acm.org/doi/abs/10.1145/319151.319163) |   |
 | Apr 10 Mon  | [Cheri: A hybrid capability-system architecture for scalable software compartmentalization](https://www.cl.cam.ac.uk/~dc552/papers/201505-oakland2015-cheri-compartmentalization.pdf) |   |
+|| Optional reading: [Introduction to CHERI](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf) ||
 | Apr 12 Wed | Project Presentation |   |
 
 ## Late Policy
