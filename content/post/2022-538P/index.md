@@ -226,6 +226,25 @@ be suitable to be turned into conference submissions. I am more than happy to
 work with you to make it happen.
 {{% /callout %}}
 
+{{% callout note %}}
+## Project Presentations
+
+### Proposal Presentation
+
+The proposal presentation should last no more than 20 minutes. You should expect
+questions at the end of the presentation and may allow questions during the
+presentation. You should clearly explain what problem you are planning to explore
+and why it is an important problem. You should walk your audience through your
+research plan and how you are planning to evaluate the outcome of your project.
+The presentation is graded as a group, how you want to present is the responsibility
+of the group members.
+
+### Final Presentation
+
+TBD
+
+{{% /callout %}}
+
 ### Deadlines
 
 - **Project Proposal Draft:** Friday, February 10th
