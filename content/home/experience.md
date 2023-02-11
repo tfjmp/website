@@ -70,7 +70,7 @@ experience:
   - title: Apprentice Software Engineer
     company: Gemalto
     company_url: 'https://www.gemalto.com/'
-    company_logo: ''
+    company_logo: 'gemalto'
     location: France
     date_start: '2008-09-01'
     date_end: '2011-08-01'
