@@ -19,8 +19,8 @@ weight = 75
 
 ## Organization
 
-- USENIX TaPP program chair [2020](https://www.usenix.org/conference/tapp2020), [2021](https://www.usenix.org/conference/tapp2021)
-- IEEE IC2E Publicity chair [2017](https://conferences.computer.org/IC2E/2017/index.htm), Tutorial chair [2021](https://conferences.computer.org/IC2E/2021/)
+- USENIX TaPP Program Chair [2020](https://www.usenix.org/conference/tapp2020), Program Chair [2021](https://www.usenix.org/conference/tapp2021)
+- IEEE IC2E Publicity Chair [2017](https://conferences.computer.org/IC2E/2017/index.htm), Tutorial Chair [2021](https://conferences.computer.org/IC2E/2021/)
 
 
 ## Program Committee
