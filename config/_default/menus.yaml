@@ -22,6 +22,9 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 60
+  - name: Service
+    url: '#service'
+    weight: 65
   - name: Students
     url: '#graduate'
     weight: 70

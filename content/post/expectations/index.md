@@ -1,18 +1,18 @@
 ---
 title: Working with me
-subtitle: A description of how my group is run.
+subtitle: A brief description of what I expect from students and what they should expect from me.
 
 # Summary for listings and search engines
-summary: On this page, I describe how I run my lab and what you should expect when working with us!
+summary: On this page, I describe what I except from graduate students and what they should except from me.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2022-04-04T00:00:00Z"
+date: "2023-02-14T00:00:00Z"
 
 # Date updated
-lastmod: "2022-04-04T00:00:00Z"
+lastmod: "2023-02-14T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -38,9 +38,8 @@ categories:
 - Advising
 ---
 
-This page describes how my lab is typically run.
-I aim to tailor individual experience to fit individual student's needs, but this serves as the general starting point of our relationships.
-On [this page](), I briefly describe what students can expect from me and what I expect from them.
+This page describes my typical expectations when interacting with students as an adviser.
+I aim to tailor my advising style to fit each student's needs, but this is the general starting point of our relationships.
 
 ## How to contact me
 
@@ -240,3 +239,9 @@ You can find the official timeline on the [department website](https://www.cs.ub
 - Year 1 - Prepare and pass the [Research Proficiency Evaluation](https://tfjmp.org/post/rpe/).
 - Year 2/3 - PhD Proposal and course requirement completion, move to [candidacy](https://www.grad.ubc.ca/current-students/managing-your-program/advancement-candidacy).
 - Eventually ([> 3.33 years & < 9 years ; on average 5.77 years](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science)) submit and defend your PhD thesis!
+
+## Self-evaluation form
+
+At the end of each term, students should fill a [self-evaluation form](https://forms.gle/bBwwzYCtjpoVVTha6).
+The goal is for you to reflect on your progress and to identify potential problems early.
+I also want to ensure that you are well supported.
