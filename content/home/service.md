@@ -23,7 +23,7 @@ weight = 75
 - IEEE IC2E Publicity chair [2017](https://conferences.computer.org/IC2E/2017/index.htm), Tutorial chair [2021](https://conferences.computer.org/IC2E/2021/)
 
 
-## Program Committees
+## Program Committee
 
 - ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/)
 - ACM SOSP [2023](https://sosp2023.mpi-sws.org/)
