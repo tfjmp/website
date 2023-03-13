@@ -294,7 +294,7 @@ Classes take place in [DMP 101](https://learningspaces.ubc.ca/classrooms/dmp-101
 | Mar 6 Mon  | [kAFL: Hardware-assisted feedback fuzzing for OS kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf) |   |
 | Mar 8 Wed | [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~zhao.2708/assets/ndss18/NDSS18.pdf)  |   |
 | Mar 13 Mon  | [Rethinking Access Control and Authentication for the Home Internet of Things (IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf) |   |
-| Mar 15 Wed | [Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach](https://dl.acm.org/doi/pdf/10.1145/3355369.3355577) |   |
+| Mar 15 Wed | [Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach](https://spiral.imperial.ac.uk/bitstream/10044/1/77847/5/ren-imc19.pdf) |   |
 | Mar 20 Mon  | [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](https://cs.uwaterloo.ca/~brecht/courses/854-Scalable-Systems-Software-2011/Possible-Readings/virtualization/secure-virtual-arch-sosp-2007-criswell.pdf) |   |
 | Mar 22 Wed | [Software fault isolation with API integrity and multi-principal modules](https://pdos.csail.mit.edu/papers/lxfi:sosp11.pdf) |   |
 | Mar 27 Mon  | [LXDs: Towards isolation of kernel subsystems](https://www.usenix.net/system/files/atc19-narayanan.pdf) |   |
