@@ -17,12 +17,6 @@ weight = 75
 
 +++
 
-## Organization
-
-- USENIX TaPP Program Chair [2020](https://www.usenix.org/conference/tapp2020), Program co-Chair [2021](https://www.usenix.org/conference/tapp2021)
-- IEEE IC2E Publicity Chair [2017](https://conferences.computer.org/IC2E/2017/index.htm), Tutorial Chair [2021](https://conferences.computer.org/IC2E/2021/)
-
-
 ## Program Committee
 
 - ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/)
@@ -40,3 +34,8 @@ weight = 75
 
 - ACM ASPLOS [2021](https://asplos-conference.org/2021/index.html)
 - ACM CCS [2020](https://www.sigsac.org/ccs/CCS2020/)
+
+## Organization
+
+- USENIX TaPP Program Chair [2020](https://www.usenix.org/conference/tapp2020), Program co-Chair [2021](https://www.usenix.org/conference/tapp2021)
+- IEEE IC2E Publicity Chair [2017](https://conferences.computer.org/IC2E/2017/index.htm), Tutorial Chair [2021](https://conferences.computer.org/IC2E/2021/)
