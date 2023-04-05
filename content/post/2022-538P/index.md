@@ -246,7 +246,17 @@ with the intent of helping your classmates.
 
 ### Final Presentation
 
-TBD
+The final presentation should not last more than 15 minutes. You should expect
+5/10 minutes of questions at the end of the presentation. You presentation must
+discuss the motivation behind your work, the design of your solution, the
+evaluation you have performed, and discuss explicitly any limitations of your
+work. The presentation should be accessible to a knowledgeable but non-expert audience.
+The presentation is graded as a group, how you want to present is the responsibility
+of the group members.
+
+Audience should read through the proposal they have been assigned to review
+beforehand and be ready to ask some questions. This should be non-adversarial and
+with the intent of helping your classmates.
 
 {{% /callout %}}
 
