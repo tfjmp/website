@@ -17,7 +17,6 @@ design:
 ---
 
 - [Soo Yee Lim](https://www.researchgate.net/profile/Soo-Yee-Lim-2) (PhD student, UBC)
-- [Monowar Anjum](https://scholar.google.com/citations?user=706j8pYAAAAJ&hl=en) (PhD student, UBC)
 - [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC) co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
 - Jinyuan Liang (MSc student, UBC)
