@@ -21,6 +21,7 @@ design:
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
 - Jinyuan Liang (MSc student, UBC)
 - [Xuechun Cao](https://joycecao11.github.io/) (MSc student, UBC)
+- [Haley Li](https://hlyli.github.io/) (MSc student, UBC)
 
 ## Past students (position held after graduation)
 
