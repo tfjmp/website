@@ -224,6 +224,7 @@ references. Be sure to highlight your work's limitations honestly
 and discuss when your results did not meet your expectations/hypothesis. Try to explain why this happens. I expect some of the reports you submit to
 be suitable to be turned into conference submissions. I am more than happy to
 work with you to make it happen.
+**You MUST include a link to the software artifact(s) backing your paper.**
 {{% /callout %}}
 
 {{% callout note %}}
