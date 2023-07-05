@@ -18,6 +18,7 @@ weight = 70
 +++
 
 **UBC**
+- [CPSC 436A: Operating Systems Design and Implementation](https://www.students.cs.ubc.ca/~cs-436a/index.html) 2023-2024 Winter 1 (September)
 - [CPSC 538P: Topic in Computer Systems: Systems Security](./post/2022-538p/) 2022-2023 Winter 2 (January)
 - [CPSC 436A: Operating Systems Design and Implementation](https://www.students.cs.ubc.ca/~cs-436a/index.html) 2022-2023 Winter 1 (September)
 
