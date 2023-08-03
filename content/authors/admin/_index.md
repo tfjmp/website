@@ -66,9 +66,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0001-6876-1306
-- icon: impactstory
-  icon_pack: ai
-  link: https://profiles.impactstory.org/u/0000-0001-6876-1306
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomaspasquier
