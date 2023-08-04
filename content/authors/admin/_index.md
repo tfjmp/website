@@ -91,11 +91,11 @@ highlight_name: true
 ---
 
 I am a Tenure-Track Assistant Professor in [the Computer Science Department, University of British Columbia](https://www.cs.ubc.ca/).
-I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) where we work on Systems research in a broad sense.
+I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) where we work on Systems and Security research broadly.
 My research focuses on building more observable and transparent systems.
 I work on topics such as Digital Provenance, Auditing, Accountability, Intrusion Detection, and Systems Optimization.
-If you are considering a PhD or an MSc, please, check [this](#phd).
-I am particularly looking for students with a background in Operating Systems and/or Machine Learning applied to systems problems.
+I recently received a [Killam Connection](https://www.grad.ubc.ca/awards/killam-connection) award to create a new interdisciplinary course on Accountable Computer Systems, sitting at the intersection of Law, Sociology, and Computer Science.
+I am a member of the [Green College](https://greencollege.ubc.ca/)'s (UBC) [Common Room](https://greencollege.ubc.ca/membership-common-room-green-college).
 
 I obtained my PhD under the supervision of [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/) in 2016 at the [University of Cambridge](https://www.cst.cam.ac.uk/) ([Jesus College](https://www.jesus.cam.ac.uk/)).
-Before I joined UBC, I held a Postdoctoral Fellowship at the [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), a Research Associate position in the [Digital Technology Group at the University of Cambridge](https://www.cl.cam.ac.uk/research/dtg/www/), and a Research Fellowship position at [St Edmund's College (University of Cambridge)](https://www.st-edmunds.cam.ac.uk/). I worked at the frontier of Law and Computer Science as part of the [Microsoft Cloud Computing Research Centre](http://www.mccrc.org/). Finally, I worked as a Lecturer (UK equivalent of Assistant Professor) in the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/) at the University of Bristol.
+Before I joined UBC, I held a Postdoctoral Fellowship at the [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), a Research Associate position in the [Digital Technology Group at the University of Cambridge](https://www.cl.cam.ac.uk/research/dtg/www/), and a Research Fellowship position at [St Edmund's College (University of Cambridge)](https://www.st-edmunds.cam.ac.uk/). I worked at the frontier of Law and Computer Science as part of the [Microsoft Cloud Computing Research Centre](http://www.mccrc.org/). Finally, I worked as an Assistant Professor in the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/) at the University of Bristol.
