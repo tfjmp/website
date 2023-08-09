@@ -10,7 +10,7 @@ publication = "In *IEEE Symposium on Security and Privacy* (IEEE S&P'24)."
 publication_short = "*IEEE S&P'24*"
 featured = true
 title = "KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance"
-url_pdf = "publications/2021-usenixsec.pdf"
+url_pdf = "publications/2024-sp.pdf"
 url_project = ""
 
 # Digital Object Identifier (DOI)
