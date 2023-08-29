@@ -55,6 +55,8 @@ subtitle = ""
 skills to work on a broad range of systems and security projects. Please, look
 through [my recent publications](https://tfjmp.org/#publications) before
 contacting me.
+
+**I will particularly focus on students interested in provenance-based intrusion detection and ready to start in September 2024.**
 {{% /callout %}}
 
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply).
