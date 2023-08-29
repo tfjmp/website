@@ -16,6 +16,8 @@ design:
   columns: '1'
 ---
 
+## Current Students
+
 - [Soo Yee Lim](https://www.researchgate.net/profile/Soo-Yee-Lim-2) (PhD student, UBC)
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
 - [Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en) (MSc student, UBC)
