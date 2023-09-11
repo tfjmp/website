@@ -14,7 +14,7 @@ url_pdf = "publications/2023-sigcomm-ebpf.pdf"
 url_project = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1145/3609021"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
