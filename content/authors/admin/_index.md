@@ -75,6 +75,9 @@ social:
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/a/pasquier_t_1.html
+- icon: mastodon
+  icon_pack: fab
+  link: https://discuss.systems/@tfjmp
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
