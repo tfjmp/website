@@ -23,7 +23,7 @@ weight = 75
 - ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/)
 - ACM SOSP [2023](https://sosp2023.mpi-sws.org/)
 - ACM SoCC [2023](https://acmsocc.org/2023/)
-- ACM EuroSys [2020](https://2020.eurosys.org/), [2023](https://2023.eurosys.org/)
+- ACM EuroSys [2020](https://2020.eurosys.org/), [2023](https://2023.eurosys.org/), [2025](https://2025.eurosys.org/)
 - IEEE EuroS&P [2023](https://eurosp2023.ieee-security.org/)
 - ACM/IFIP Middleware [2023](https://middleware-conf.github.io/2023/)
 - ACM REP [2023](https://acm-rep.github.io/2023/)
