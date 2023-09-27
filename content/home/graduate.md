@@ -26,6 +26,10 @@ design:
 - [Haley Li](https://hlyli.github.io/) (MSc student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
 - Tanya Prasad (MSc student, UBC)
 
+## Visiting Students
+
+- Wellison Raul Mariz Santo (Visiting PhD Student, [UFPE](https://www.ufpe.br/))
+
 ## Past students (position held after graduation)
 
 - [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC) co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
