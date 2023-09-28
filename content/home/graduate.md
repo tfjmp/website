@@ -28,7 +28,7 @@ design:
 
 ## Visiting Students
 
-- Wellison Raul Mariz Santo (Visiting PhD Student, [UFPE](https://www.ufpe.br/))
+- [Wellison Raul Mariz Santos](https://www.linkedin.com/in/wellison-santos-476592131/?locale=en_US) (Visiting PhD Student, [UFPE](https://www.ufpe.br/))
 
 ## Past students (position held after graduation)
 
