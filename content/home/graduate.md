@@ -24,7 +24,7 @@ design:
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
 - [Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en) (MSc student, UBC)
 - [Haley Li](https://hlyli.github.io/) (MSc student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
-- Tanya Prasad (MSc student, UBC)
+- [Tanya Prasad](https://www.linkedin.com/in/tanya-prasad/) (MSc student, UBC)
 
 ## Visiting Students
 
