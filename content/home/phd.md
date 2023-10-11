@@ -50,6 +50,19 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% callout warning %}}
+**Contacting me**
+
+If you are planning to apply, please, do so through the UBC system, if you select me as a potential supervisor in the online form, I will review your application.
+**I cannot process applications sent via e-mail** and I will not review application packages sent by e-mail.
+I do not process applications before the closing deadline (December 15th).
+Further, note that [Systopia](https://systopia.cs.ubc.ca/) receive several hundred applications every year, and it takes a non-trivial amount of time to review them carefully.
+We aim (but cannot guarantee) for all applicants to hear back from us by mid-April.
+**I will not discuss admission outside of the departmental admission process.**
+
+Outside of this, please feel free to contact me if you have **specific** research connections / questions.
+{{% /callout %}}
+
 {{% callout note %}}
 **I am looking for PhD (or PhD Track) students** with strong OS and/or Security
 skills to work on a broad range of systems and security projects. Please, look
@@ -57,6 +70,12 @@ through [my recent publications](https://tfjmp.org/#publications) before
 contacting me.
 
 **I will particularly focus on students interested in provenance-based intrusion detection and ready to start in September 2024.**
+{{% /callout %}}
+
+{{% callout note %}}
+**If you are enrolled in a PhD program outside of UBC** and are considering joining my lab as a **Visiting International Research Student**.
+Please, review carefully the information provided on [UBC website](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/classification-students/visiting-graduate-student) before contacting me.
+Ensure you have discussed with your home institution and supervisor first.
 {{% /callout %}}
 
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply).
@@ -105,12 +124,3 @@ have an interest and the capacity to conduct research.
 * Do not hesistate to get in touch to discuss specific details.
 * Funding amounts on the offer letter is a **guaranteed minimum**, do contact me to discuss the actual amount.
 * Apply for graduate accomodation as early as possible. Check the [information online](https://vancouver.housing.ubc.ca/getting-started/graduate-students/).
-
-## Contacting me
-
-Don't hesitate to contact me via [e-mail](mailto:tfjmp@cs.ubc.ca) if you have any questions or need further precision/information.
-If you are planning to apply, please, do so through the UBC system, if you select me as a potential supervisor in the online form, I will review your application.
-**I cannot process applications sent via e-mail** and I will not review application packages sent by e-mail.
-I do not process applications before the closing deadline (December 15th).
-Further, note that [Systopia](https://systopia.cs.ubc.ca/) receive several hundred applications every year, and it takes a non-trivial amount of time to review them carefully.
-We aim (but cannot guarantee) for all applicants to hear back from us by mid-April.
