@@ -64,10 +64,10 @@ Outside of this, please feel free to contact me if you have **specific** researc
 {{% /callout %}}
 
 {{% callout note %}}
-**I am looking for PhD (or PhD Track) students** with strong OS and/or Security
+**I am looking for PhD (or PhD Track) and MSc students** with strong OS and/or Security
 skills to work on a broad range of systems and security projects. Please, look
 through [my recent publications](https://tfjmp.org/#publications) before
-contacting me.
+contacting me. **Make sure you explicitly list me in your application**.
 
 **I will particularly focus on students interested in provenance-based intrusion detection and ready to start in September 2024.**
 {{% /callout %}}
