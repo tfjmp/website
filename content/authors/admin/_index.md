@@ -94,7 +94,7 @@ highlight_name: true
 ---
 
 I am a Tenure-Track Assistant Professor in [the Computer Science Department, University of British Columbia](https://www.cs.ubc.ca/).
-I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) where we work on Systems and Security research broadly.
+I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) (UBC's Systems Group) and the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/).
 My research focuses on building more observable and transparent systems.
 I work on topics such as Digital Provenance, Auditing, Accountability, Intrusion Detection, and Systems Optimization.
 I recently received a [Killam Connection](https://www.grad.ubc.ca/awards/killam-connection) award to create a new interdisciplinary course on Accountable Computer Systems, sitting at the intersection of Law, Sociology, and Computer Science.
