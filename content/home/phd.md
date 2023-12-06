@@ -73,6 +73,13 @@ contacting me. **Make sure you explicitly list me in your application**.
 {{% /callout %}}
 
 {{% callout note %}}
+[Margo Seltzer](https://www.seltzer.com/margo/) and I are looking for an MSc/PhD student (fully funded) interested in working on provenance in the context of reproducibility in scientific experiments. Please [apply to the UBC CS department]( https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science
+) before December 15th.
+
+ **Make sure you explicitly list us in your application**.
+{{% /callout %}}
+
+{{% callout note %}}
 **If you are enrolled in a PhD program outside of UBC** and are considering joining my lab as a **Visiting International Research Student**.
 Please, review carefully the information provided on [UBC website](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/classification-students/visiting-graduate-student) before contacting me.
 Ensure you have discussed with your home institution and supervisor first.
