@@ -32,7 +32,7 @@ design:
 
 ## Past students (position held after graduation)
 
-- [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC) co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)
+- [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC) co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/), Senior Member of Technical Staff, Salesforce.
 - [Bogdan Stelea](https://www.linkedin.com/in/bogdan-stelea/) (MEng, Bristol), 2021, Software Engineer, Amazon.
 - [Josh Turner](https://www.linkedin.com/in/joshua-turner-085a7a188/) (MEng, Bristol), 2021, Software Engineer, Amiosec.
 - Chetankumar Mistry (MEng, Bristol), 2020, Software Engineer, ARM.
