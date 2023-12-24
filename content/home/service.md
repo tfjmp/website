@@ -20,7 +20,7 @@ weight = 75
 ## Program Committee
 
 - USENIX Security [2024](https://www.usenix.org/conference/usenixsecurity24)
-- ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/)
+- ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/), [2024](https://www.sigsac.org/ccs/CCS2024/home.html)
 - ACM SOSP [2023](https://sosp2023.mpi-sws.org/)
 - ACM SoCC [2023](https://acmsocc.org/2023/)
 - ACM EuroSys [2020](https://2020.eurosys.org/), [2023](https://2023.eurosys.org/), [2025](https://2025.eurosys.org/)
