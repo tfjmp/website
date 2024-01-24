@@ -60,23 +60,7 @@ Further, note that [Systopia](https://systopia.cs.ubc.ca/) receive several hundr
 We aim (but cannot guarantee) for all applicants to hear back from us by mid-April.
 **I will not discuss admission outside of the departmental admission process.**
 
-Outside of this, please feel free to contact me if you have **specific** research connections / questions.
-{{% /callout %}}
-
-{{% callout note %}}
-**I am looking for PhD (or PhD Track) and MSc students** with strong OS and/or Security
-skills to work on a broad range of systems and security projects. Please, look
-through [my recent publications](https://tfjmp.org/#publications) before
-contacting me. **Make sure you explicitly list me in your application**.
-
-**I will particularly focus on students interested in provenance-based intrusion detection and ready to start in September 2024.**
-{{% /callout %}}
-
-{{% callout note %}}
-[Margo Seltzer](https://www.seltzer.com/margo/) and I are looking for an MSc/PhD student (fully funded) interested in working on provenance in the context of reproducibility in scientific experiments. Please [apply to the UBC CS department]( https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science
-) before December 15th.
-
- **Make sure you explicitly list us in your application**.
+Outside of this, please feel free to contact me if you have **specific** research questions.
 {{% /callout %}}
 
 {{% callout note %}}
