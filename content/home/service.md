@@ -35,7 +35,6 @@ weight = 75
 
 ## Reviewer/External
 
-- ACM ASPLOS [2021](https://asplos-conference.org/2021/index.html)
 - ACM CCS [2020](https://www.sigsac.org/ccs/CCS2020/)
 
 ## Organization
