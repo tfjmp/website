@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: Member of the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/) and member of the [Systopia Lab](https://systopia.cs.ubc.ca/).
 
-  - title: Lecturer (Assistant Professor)
+  - title: Assistant Professor
     company: University of Bristol
     company_url: 'http://www.bris.ac.uk/'
     company_logo: 'bristol'
