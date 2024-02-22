@@ -56,7 +56,7 @@ subtitle = ""
 If you are planning to apply, please, do so through the UBC system, if you select me as a potential supervisor in the online form, I will review your application.
 **I cannot process applications sent via e-mail** and I will not review application packages sent by e-mail.
 I do not process applications before the closing deadline (December 15th).
-Further, note that [Systopia](https://systopia.cs.ubc.ca/) receive several hundred applications every year, and it takes a non-trivial amount of time to review them carefully.
+The department receive around 2,000 applications every year and it takes a non-trivial amount of time to review them carefully.
 We aim (but cannot guarantee) for all applicants to hear back from us by mid-April.
 **I will not discuss admission outside of the departmental admission process.**
 
@@ -75,9 +75,11 @@ You can also find information about: [financial support](https://www.cs.ubc.ca/s
 You may also look at [this page](https://tfjmp.org/post/working-with-me/) which describes my expectations when working with graduate students.
 Finally, you should have a look at [UBC cost calculator](https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/cost-living#calctable).
 
-**Note:** The Master of Science in Computer Science at UBC is a research degree. Students are expected to conduct research, submit papers for publication,
+{{% callout note %}}
+The Master of Science in Computer Science at UBC is a research degree. Students are expected to conduct research, submit papers for publication,
 and eventually write a thesis. You can find more information on the university [website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science). While applications are not reviewed with the same expectations as those of PhD applicants, you should clearly demonstrate you
 have an interest and the capacity to conduct research.
+{{% /callout %}}
 
 ## A few facts
 
