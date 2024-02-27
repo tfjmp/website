@@ -30,7 +30,7 @@ weight = 75
 - ACM REP [2023](https://acm-rep.github.io/2023/)
 - IEEE IC2E [2021](https://conferences.computer.org/IC2E/2021/), [2022](https://conferences.computer.org/IC2E/2022/)
 - ACM M4IoT 2016, 2017, 2018, 2019, 2020, 2021
-- USENIX TaPP [2017](https://www.usenix.org/conference/tapp2017), [2019](https://www.usenix.org/conference/tapp2019)
+- USENIX TaPP [2017](https://www.usenix.org/conference/tapp2017), [2019](https://www.usenix.org/conference/tapp2019), [2024](https://provenanceweek.github.io/TaPP2024/TaPP_2024.html)
 - IEEE CLAW [2016](http://www.claw-workshop.org/2016/), [2017](http://www.claw-workshop.org/2017/), [2018](http://www.claw-workshop.org/)
 
 ## Reviewer/External
