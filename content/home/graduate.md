@@ -18,7 +18,7 @@ design:
 
 ## Current Students
 
-- [Soo Yee Lim](https://www.researchgate.net/profile/Soo-Yee-Lim-2) (PhD student, UBC)
+- [Soo Yee Lim](https://scholar.google.com/citations?user=Yr4VUr4AAAAJ&hl=en) (PhD student, UBC)
 - [Xuechun Cao](https://joycecao11.github.io/) (PhD Track student, UBC)
 - [Jonas Tai](https://www.linkedin.com/in/jonas-tai-rwth/) (MSc Student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
