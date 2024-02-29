@@ -29,6 +29,7 @@ design:
 ## Visiting Students
 
 - [Wellison Raul Mariz Santos](https://www.linkedin.com/in/wellison-santos-476592131/?locale=en_US) (Visiting PhD Student, [UFPE](https://www.ufpe.br/))
+- Baoxiang Jiang (Visiting PhD Student, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/))
 
 ## Past students (position held after graduation)
 
