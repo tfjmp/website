@@ -68,7 +68,7 @@ the document around it.
 Your goal is to demonstrate than your proposed thesis is non-trivial, novel,
 plausible and, importantly, useful.
 
-You can subdivide your thesis statement into multiple research questions, but you
+You can later subdivide your thesis statement into multiple research questions, but you
 must ensure that they are clearly interconnected, and that they will lead
 to a coherent thesis story.
 You should also discuss why answering those questions is important.
