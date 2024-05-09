@@ -22,7 +22,6 @@ design:
 - [Xuechun Cao](https://joycecao11.github.io/) (PhD Track student, UBC)
 - [Jonas Tai](https://www.linkedin.com/in/jonas-tai-rwth/) (MSc Student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC)
-- [Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en) (MSc student, UBC)
 - [Haley Li](https://hlyli.github.io/) (MSc student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
 - [Tanya Prasad](https://www.linkedin.com/in/tanya-prasad/) (MSc student, UBC)
 

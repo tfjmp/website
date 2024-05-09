@@ -16,15 +16,12 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 50
   - name: Teaching
     url: '#teaching'
-    weight: 60
+    weight: 50
   - name: Service
     url: '#service'
-    weight: 65
+    weight: 60
   - name: Students
     url: '#graduate'
     weight: 70
