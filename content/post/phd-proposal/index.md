@@ -38,8 +38,8 @@ categories:
 - Advising
 ---
 
-The submission of your thesis proposal should normally occur before the end of
-the third year of the PhD program.
+The submission of your thesis proposal should normally occur in the second year
+of the PhD program and before the end of the third year.
 You can find more information about the process on the [department website](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program/thesis-proposal).
 The process itself is clearly detailed, but the expected content of the thesis
 proposal itself is underspecified.
@@ -53,7 +53,8 @@ Remember, that as per department rules, your thesis proposal **must not** exceed
 The page limit is a maximum; it is not a target.
 Successful Thesis Proposal documents can be shorter than the limit.
 Writing within the page limit is important.
-You should add all submissions and accepted publications since the start of your PhD as appendix.
+You should add all submissions and accepted publications since the start of your PhD
+in the appendix.
 
 # Content
 
@@ -80,7 +81,7 @@ The goal in this section is to demonstrate your understanding of the literature,
 and to show the limitations of previous work.
 This should be the basis to your claim of novelty,
 and it should be clear how the proposed work fit within the existing literature.
-The literature review should provide a **critical** assesment of past work, including:
+The literature review should provide a **critical** assessment of past work, including:
 1. the identification of seminal work in the topic area;
 2. the most closely related prior work;
 3. a clear discussion of their strengths and limitations.
