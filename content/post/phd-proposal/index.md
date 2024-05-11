@@ -43,13 +43,14 @@ of the PhD program and before the end of the third year.
 You can find more information about the process on the [department website](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program/thesis-proposal).
 The process itself is clearly detailed, but the expected content of the thesis
 proposal itself is underspecified.
-This page describe my expectations for the students I supervise.
+This page describes my expectations for the students I supervise.
 
 # Formatting and Length
 
 I strongly recommend to use the following [latex template](https://github.com/tfjmp/ubcdiss).
 Remember, that as per department rules, your thesis proposal **must not** exceed
 50 pages (excluding appendices).
+You should also remove the front matter from the template (e.g., list of figures, chapter list etc.).
 The page limit is a maximum; it is not a target.
 Successful Thesis Proposal documents can be shorter than the limit.
 Writing within the page limit is important.
@@ -80,14 +81,14 @@ You should also discuss why answering those questions is important.
 The goal in this section is to demonstrate your understanding of the literature,
 and to show the limitations of previous work.
 This should be the basis to your claim of novelty,
-and it should be clear how the proposed work fit within the existing literature.
+and it should be clear how the proposed work fits within the existing literature.
 The literature review should provide a **critical** assessment of past work, including:
-1. the identification of seminal work in the topic area;
+1. the identification of foundational work in the topic area;
 2. the most closely related prior work;
 3. a clear discussion of their strengths and limitations.
 
-This part of the document could be used as a basis for a chapter in your final
-thesis.
+You should consider that this part of the proposal will be used as a chapter in
+your thesis.
 
 ## Progress Report
 
@@ -102,7 +103,7 @@ You should summarize them briefly in a self-contained way.
 ## Research Proposal
 
 You should build from your proposal summary and discuss how you are planning to
-tackle your thesis and your research questions over the next 3+ years.
+tackle your thesis and your research questions over the next few years.
 It may be useful to think of this in term of planned publications.
 You could subdivide the planned research into multiple chunks.
 Each chunk could be summarized into 3 or 4 paragraphs and corresponds to an
@@ -118,17 +119,18 @@ unlikely, in reality this possibility exists.
 Indeed, it would not be research if failure was not possible.
 Consequently, your plan must account for possible setbacks and failures, and
 must discuss what you plan to do if something does not work out.
-Your plan should also contain milestones as well as there completion and success
+Your plan must also contain milestones as well as there completion and success
 criteria.
-A milestone, can be, for example, the submission or acceptance of a paper,
+A milestone, can be, for example, the submission of a paper,
 the release of a dataset, the completion of some software development task etc.
 You may also discuss the evaluation strategies you will adopt to measure success
 (e.g., your system successfully prevent vulnerability X while adding less than Y% overhead.)
 This list of milestones should clearly and ultimately lead to the submission and defense of
 your thesis.
 
-On the other hand, while you should provide completion dates for all milestones
-those are not set in stone and some deviations are to be anticipated.
+The milestones you present are your best guesses at the time of your proposal.
+You will not be held to them, but you should periodically refer to your schedule,
+update it as necessary, and become better at estimating how long it will take to complete your work.
 They are mostly there to demonstrate that you understand the timescale involved
 in overcoming different research challenges (e.g., paper submissions must be
 scheduled at a reasonable and plausible pace).
@@ -140,10 +142,10 @@ in your thesis.
 # Proposal Submission
 
 You should plan a couple of months to work on your proposal. You should be ready
-to send and discuss regular update with me during those months. Once we are in agreement that the
+to send and discuss regular updates with me during those months. Once we are in agreement that the
 proposal is converging towards an acceptable output, you should contact the
 [members of the committee](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program/phd-supervisory-committee) and schedule a date for your defense.
-You should send your proposal well in advance as to leave sufficient time for the
-committee members to carefully review it.
+You should send your proposal at least two weeks in advance as to leave sufficient time for the
+committee members to carefully review it (you should discuss this explicitly with the committee members).
 It is also your responsibility to identify and make sure you fulfil all the department's
 administrative requirements.
