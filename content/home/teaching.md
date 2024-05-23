@@ -19,6 +19,7 @@ weight = 70
 
 **UBC**
 |------------------------------------------------------------------------------------------------|-----------|--------------------|
+| [CPSC 436A: Operating Systems Design and Implementation](https://tfjmp.org/UBC-CPSC-436A/) | 2024-2025 | Winter 1 (September) |
 | [CPSC 538S: Accountable Computer Systems](https://tfjmp.org/ubc-accountable-computer-systems/) | 2023-2024 | Winter 2 (January) |
 | [CPSC 436A: Operating Systems Design and Implementation](https://tfjmp.org/UBC-CPSC-436A/) | 2023-2024 | Winter 1 (September) |
 | [CPSC 538P: Topic in Computer Systems: Systems Security](./post/2022-538p/) | 2022-2023 | Winter 2 (January) |
