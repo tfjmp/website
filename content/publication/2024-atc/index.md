@@ -10,7 +10,7 @@ publication = "In *USENIX Annual Technical Conference* (ATC'24)."
 publication_short = "*USENIX ATC'24*"
 featured = true
 title = "FetchBPF: Customizable Prefetching Policies in Linux with eBPF"
-url_pdf = ""
+url_pdf = "publications/2024-atc.pdf"
 url_project = ""
 
 # Digital Object Identifier (DOI)
