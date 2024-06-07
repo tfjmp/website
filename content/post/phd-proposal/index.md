@@ -100,6 +100,9 @@ Published papers should be available in the appendix, and you do not need to
 reproduce their content.
 You should summarize them briefly in a self-contained way.
 
+You should also consider listing talks you have given, internships or any other
+relevant activities.
+
 ## Research Proposal
 
 You should build from your proposal summary and discuss how you are planning to
