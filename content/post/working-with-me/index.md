@@ -124,16 +124,19 @@ Authors are expected to be available around paper deadlines and you should be mi
 Writing a paper requires much more effort than most junior graduate students expect.
 We will go through multiple iterations with the first draft being significantly different from the final submitted version.
 You are expected to seek and take feedback.
+Similarly, evaluations are a lot more work to put together than students expect.
+It is unlikely to go right the first time, and we are likely to uncover many issues.
+You are encouraged to develop a thorough evaluation plan early in the project.
 
 Authors ordering is important and must be discussed between the authors.
 The first author is generally the student who has done most of the work, followed by other students that assisted.
-Follow faculty members with the senior authors generally being the advisor of the first author.
+Follow faculty members with the senior authors generally being the advisor of the first author
 Please, discuss if/when you have a concern about the ordering of authors.
 
 All papers must be written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
 You are expected to learn to use LaTeX and the associated toolset.
 I will create a private GitHub repository with the template for the paper.
-We will normally **not** use overleaf or similar tools.
+We will normally **not** use overleaf or similar tools (you can [synchronize overleaf with GitHub](https://www.overleaf.com/learn/how-to/Git_Integration_and_GitHub_Synchronization) if you want to, but be mindful of not creating conflicts).
 
 Finally, if you are the first author you have some additional responsibilities:
 - You are in charge of driving the paper forwards and organizing meetings;
@@ -151,21 +154,24 @@ I expect to be regularly involved in the writing process and I will provide regu
 
 MSc students should aim to complete at least one major conference paper before they graduate.
 PhD students should target at least three major conference papers before they graduate.
+In addition, I am expecting most students to coauthor with other lab members.
 Those are not official guidelines, but serve as an indication of what a student doing "well" looks like.
 Publications are in a sense more important than the degree you will obtain and must be one of the main focus of your time at UBC.
-For example, obtaining a PhD will be the minimum requirement if you apply for an academic position, the work you have published will be the most important criteria when assessing your application.
+For example, when applying for an academic position your PhD is just a minimum requirement, the work you have published will be the most important criteria when assessing your application.
 
 ## Lab Life & Service
 
 If you join my team you will be part of the [Department of Computer Science at UBC](https://www.cs.ubc.ca/) and in particular of the [Systopia Lab](https://systopia.cs.ubc.ca/).
+Students working on security-related topics will also be members of the [Security & Privacy Research Group](https://spg.cs.ubc.ca/).
 As such, there are some expectations where participation in lab life is concerned.
 You are expected to come to the lab regularly and interact with your colleagues (collaborations are very important and the interactions between graduate students are an integral part of a successful graduate experience).
 
 You are also expected to participate in the life of the lab, attend reading group sessions, and presentations.
+In particular, keep in mind the [Systopia Seminars](https://systopia.cs.ubc.ca/seminar).
 There is also a number of positions to be filled every year, including organizing social events, maintaining our website, managing our social media presence, and more.
 Those activities are led by students, and it is expected that, as you become familiar with the lab, you will start participating actively.
 You may also wish to participate in department-level or university-level service.
-Finally, you may want to get involved with the research community by participating in different activities such as artifacts evaluation committee, shadow program committee, and program committee.
+Finally, you may want to get involved with the research community by participating in different activities such as artifacts evaluation committees, shadow program committees, and program committees
 This is also encouraged and I am happy to provide support if needed and as appropriate.
 
 You should note that those activities are important and can help with your career progression.
@@ -204,9 +210,10 @@ Most of you will be familiar with Teaching Assistant duties.
 You will receive monetary compensation and it is therefore expected that you behave professionally and perform your duties to the best of your ability.
 Fulfilling expectations of those roles take precedence over your coursework.
 
-New students joining the group will be expected to work as a teaching assistant during their first year unless agreed otherwise.
-We will most likely discuss RAship opportunities towards the end of your first year.
-Those opportunities are dependent on funding availability, and your academic and research progress.  
+In the Computer Science department, the default expectation is for students to TA once a year.
+It is an important role and something you should engage with seriously.
+We will generally discuss your teaching involvement during the summer.
+I would also encourage PhD students to teach a course at some point after they have progressed to [candidacy](https://www.grad.ubc.ca/current-students/managing-your-program/advancement-candidacy).
 
 Research Assistantships are generally funded through specific grants.
 The funder allocates money for us to work on a specific research topic.
@@ -215,9 +222,11 @@ This means that by taking a RAship you must work on the agreed-upon topic.
 It is my job to make sure the grant gives you a reasonable degree of freedom but if we agreed to do research on how to make the best pizza, we may not be able to work on how to make the best paella.
 If you wish to change your research topic, you must discuss this in advance and as early as possible.
 Similarly, if there is no sufficient progress as to fulfil our engagement with the funder, we may discuss alternative route to fund your research.
-Note, that I may not be able to provide the same amount financial support outside of our original agreed uppon topic.
+Note, that I may not be able to provide the same amount financial support outside of our original agreed upon topic.
 If you make extra-work commitments (side-projects, consulting, extra-teaching, etc.), I must be made aware.
 Be aware that some grants/funding are tied to IP agreements and it may affect work you do on closely related topics.
+
+As per department regulation financial support is "contingent on the student's satisfactory performance in his or her assigned tasks".
 
 ## Internships
 
@@ -226,7 +235,7 @@ I strongly encourage graduate students, especially, PhD students to seek such a 
 You should try to identify an internship that *helps* with your research and career goal (acquiring complementary skills, researching a related topic etc.).
 It is possible to get an internship at any point during you degree, however, internships done a few years in your degree tend to be more valuable (you are productive much faster, you can more effectively leverage the network you will build etc.), further the first summer(s) are likely to be the time when you start your research in earnest.
 You should start to think about internship towards the end of the *Winter 1 term* of the year you are planning to do your summer internship.
-Talk to faculties and students in Systopia, and more importantly talk with me!
+Talk to faculties and students in [Systopia](https://systopia.cs.ubc.ca/people) or [SPG](https://spg.cs.ubc.ca/people/), and more importantly talk with me!
 You should also be mindful of any engagement you have (Are you part of a team that is working for a submission during the summer? Have you signed to TA some summer course? Are you expected to produce some report as part of your degree? Is it ok given your source of funding?).
 Finally, remember that immigration issues may affect your eligibility for internships.
 This is a complex matter and faculties are generally ill-equipped to help.
