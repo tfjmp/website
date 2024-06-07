@@ -50,7 +50,7 @@ This page describes my expectations for the students I supervise.
 I strongly recommend to use the following [latex template](https://github.com/tfjmp/ubcdiss).
 Remember, that as per department rules, your thesis proposal **must not** exceed
 50 pages (excluding appendices).
-You should also remove the front matter from the template (e.g., list of figures, chapter list etc.).
+You should also update and remove part of the front matter from the template (e.g., list of figures, chapter list etc.).
 The page limit is a maximum; it is not a target.
 Successful Thesis Proposal documents can be shorter than the limit.
 Writing within the page limit is important.
@@ -67,12 +67,12 @@ The early part of your summary, should contain your [thesis statement](https://c
 (more examples [here](https://depts.washington.edu/acelab/theses.html)).
 The thesis statement is central to the proposal and you should build the rest of
 the document around it.
-Your goal is to demonstrate than your proposed thesis is non-trivial, novel,
+Your goal is to demonstrate that your proposed thesis is non-trivial, novel,
 plausible and, importantly, useful.
 
 You can later subdivide your thesis statement into multiple research questions, but you
 must ensure that they are clearly interconnected, and that they will lead
-to a coherent thesis story.
+to a coherent narrative throughout your thesis.
 You should also discuss why answering those questions is important.
 
 
@@ -109,7 +109,7 @@ You could subdivide the planned research into multiple chunks.
 Each chunk could be summarized into 3 or 4 paragraphs and corresponds to an
 academic paper.
 Those papers will form the basis for your thesis chapters.
-At this stage you should plan for at least 2 or 3 full academic papers.
+At this stage you should plan for at least 3 full academic papers.
 
 
 ## Plan and Timeline
