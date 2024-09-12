@@ -60,7 +60,7 @@ The department receive around 2,000 applications every year and it takes a non-t
 We aim (but cannot guarantee) for all applicants to hear back from us by mid-April.
 **I will not discuss admission outside of the departmental admission process.**
 
-Outside of this, please feel free to contact me if you have **specific** research questions.
+Please feel free to contact me if you have **specific** research questions.
 {{% /callout %}}
 
 {{% callout note %}}
