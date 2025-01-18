@@ -21,15 +21,15 @@ design:
 - [Zefeng Li](https://scholar.google.com/citations?user=dT3hVyIAAAAJ) (PhD student, UBC)
 - [Soo Yee Lim](https://s00y33.github.io/) (PhD student, UBC)
 - [Xuechun Cao](https://joycecao11.github.io/) (PhD student, UBC)
-- [Jonas Tai](https://www.linkedin.com/in/jonas-tai-rwth/) (MSc Student, UBC) co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)
 - [Tanya Prasad](https://www.tanya-prasad.com/) (MSc student, UBC)
 
+<!---
 ## Visiting Students
-
-- Baoxiang Jiang (Visiting PhD Student, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/))
+-->
 
 ## Past students (position held after graduation)
 
+- Baoxiang Jiang (Visiting PhD Student, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/)), 2025.
 - [Tristan Bilot](https://scholar.google.com/citations?user=ijVNAGYAAAAJ&hl=en) (Visiting PhD Student, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), 2024.
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC), 2024, Software Developer, Oracle Labs.
 - [Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en) (MSc student, UBC), 2024, Security Analyst, WeBank.
