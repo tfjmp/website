@@ -56,7 +56,7 @@ social:
   link: https://twitter.com/tfjmp
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=TplQGj4AAAAJ
+  link: https://scholar.google.ca/citations?user=TplQGj4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/tfjmp
