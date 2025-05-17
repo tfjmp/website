@@ -11,7 +11,7 @@ publication_short = "*USENIX Sec'25*"
 featured = true
 title = "ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems"
 url_pdf = "publications/2025-usenixsec.pdf"
-url_project = ""
+url_project = "https://github.com/ubc-provenance"
 
 # Digital Object Identifier (DOI)
 doi = ""

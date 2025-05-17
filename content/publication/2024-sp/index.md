@@ -11,7 +11,7 @@ publication_short = "*IEEE S&P'24*"
 featured = true
 title = "Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance"
 url_pdf = "publications/2024-sp.pdf"
-url_project = ""
+url_project = "https://github.com/ubc-provenance"
 
 # Digital Object Identifier (DOI)
 doi = ""

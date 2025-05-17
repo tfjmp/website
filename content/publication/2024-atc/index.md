@@ -11,7 +11,7 @@ publication_short = "*USENIX ATC'24*"
 featured = true
 title = "FetchBPF: Customizable Prefetching Policies in Linux with eBPF"
 url_pdf = "publications/2024-atc.pdf"
-url_project = ""
+url_project = "https://github.com/UBC-BPF"
 
 # Digital Object Identifier (DOI)
 doi = ""

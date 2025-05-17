@@ -11,7 +11,7 @@ publication_short = "*ACM CCSW'24*"
 featured = true
 title = "SafeBPF: Hardware-assisted Defense-in-depth for eBPF Kernel Extensions"
 url_pdf = "publications/2024-ccsw.pdf"
-url_project = ""
+url_project = "https://github.com/UBC-BPF"
 
 # Digital Object Identifier (DOI)
 doi = ""

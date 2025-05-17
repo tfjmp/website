@@ -9,7 +9,7 @@ publication_types = ["4"]
 featured = false
 title = "Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance (Supplementary Material)"
 url_pdf = "publications/2024-sp-supp.pdf"
-url_project = ""
+url_project = "https://github.com/ubc-provenance"
 
 # Digital Object Identifier (DOI)
 doi = ""

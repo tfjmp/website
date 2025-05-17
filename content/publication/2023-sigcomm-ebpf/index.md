@@ -11,7 +11,7 @@ publication_short = "*SIGCOMM Workshop on eBPF and Kernel Extensions*"
 featured = false
 title = "Unleashing Unprivileged eBPF Potential with Dynamic Sandboxing"
 url_pdf = "publications/2023-sigcomm-ebpf.pdf"
-url_project = ""
+url_project = "https://github.com/UBC-BPF"
 
 # Digital Object Identifier (DOI)
 doi = "10.1145/3609021"
