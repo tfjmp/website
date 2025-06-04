@@ -9,8 +9,7 @@ jobs:
             - run: 'sudo apt update'
             - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.93.2/hugo_extended_0.93.2_Linux-64bit.deb'
             - run: 'sudo apt -y install ./hugo_extended_0.93.2_Linux-64bit.deb'
-            - run: 'sudo apt -y install snapd'
-            - run: 'sudo snap install --classic go'
+            - run: 'sudo apt -y install golang-go'
             - run: 'hugo --verbose'
             - persist_to_workspace:
                 root: .
