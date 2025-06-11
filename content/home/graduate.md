@@ -18,7 +18,6 @@ design:
 
 ## Current Students
 
-- [Zefeng Li](https://scholar.google.com/citations?user=dT3hVyIAAAAJ) (PhD student, UBC)
 - [Soo Yee Lim](https://s00y33.github.io/) (PhD student, UBC)
 - [Xuechun Cao](https://joycecao11.github.io/) (PhD student, UBC)
 - [Tanya Prasad](https://www.tanya-prasad.com/) (MSc student, UBC)
