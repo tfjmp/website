@@ -50,6 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% callout note %}}
+If you are a PhD student interested by my work and a collaboration, I am always happy to welcome **Visiting International Research Student** in my lab.
+Please, review carefully the information provided on [UBC website](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/classification-students/visiting-graduate-student) before contacting me.
+You may want to explore the MITACS' [Globalink Research Award](https://www.mitacs.ca/our-programs/globalink-research-award/) program as a potential source of funding.
+Ensure you have discussed with your home institution and supervisor first.
+{{% /callout %}}
+
 {{% callout warning %}}
 **Contacting me**
 
@@ -61,12 +68,6 @@ We aim (but cannot guarantee) for all applicants to hear back from us by mid-Apr
 **I will not discuss admission outside of the departmental admission process.**
 
 Please feel free to contact me if you have **specific** research questions.
-{{% /callout %}}
-
-{{% callout note %}}
-**If you are enrolled in a PhD program outside of UBC** and are considering joining my lab as a **Visiting International Research Student**.
-Please, review carefully the information provided on [UBC website](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/classification-students/visiting-graduate-student) before contacting me.
-Ensure you have discussed with your home institution and supervisor first.
 {{% /callout %}}
 
 I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply).
