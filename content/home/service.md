@@ -19,8 +19,8 @@ weight = 75
 
 ## Program Committee
 
-- ACM ASPLOS [2021 (ERC)](https://asplos-conference.org/asplos2021/index.html), [2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/)
-- ACM EuroSys [2020](https://2020.eurosys.org/), [2023](https://2023.eurosys.org/), [2025](https://2025.eurosys.org/)
+- ACM ASPLOS [2021 (ERC)](https://asplos-conference.org/asplos2021/index.html), [2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/), [2026](https://www.asplos-conference.org/asplos2026/)
+- ACM EuroSys [2020](https://2020.eurosys.org/), [2023](https://2023.eurosys.org/), [2025](https://2025.eurosys.org/), [2026](https://2026.eurosys.org/)
 - USENIX Security [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
 - ACM REP [2023](https://acm-rep.github.io/2023/), [2024](https://acm-rep.github.io/2024/)
 - ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/)
@@ -39,5 +39,6 @@ weight = 75
 
 ## Organization
 
+- ACM REP General Chair [2025](https://acm-rep.github.io/2025/)
 - USENIX TaPP Program Chair [2020](https://www.usenix.org/conference/tapp2020), Program co-Chair [2021](https://www.usenix.org/conference/tapp2021)
 - IEEE IC2E Publicity Chair [2017](https://conferences.computer.org/IC2E/2017/index.htm), Tutorial Chair [2021](https://conferences.computer.org/IC2E/2021/)
