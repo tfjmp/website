@@ -92,14 +92,7 @@ email: "tfjmp@cs.ubc.ca"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<style>body {text-align: justify}</style>
 
-I am a Tenure-Track Assistant Professor in [the Computer Science Department, University of British Columbia](https://www.cs.ubc.ca/).
-I am part of the [Systopia Lab](https://systopia.cs.ubc.ca/) (UBC's Systems Group) and the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/).
-My research focuses on building more observable and transparent systems.
-I work on topics such as Digital Provenance, Auditing, Accountability, Intrusion Detection, and Systems Optimization.
-I recently received a [Killam Connection](https://www.grad.ubc.ca/awards/killam-connection) award to create a new interdisciplinary course on Accountable Computer Systems, sitting at the intersection of Law, Sociology, and Computer Science.
-I am a member of the [Green College](https://greencollege.ubc.ca/)'s (UBC) [Common Room](https://greencollege.ubc.ca/membership-common-room-green-college).
-I received a [2023 Amazon Research Awards](https://www.amazon.science/research-awards/recipients/thomas-pasquier) to support my work on provenance-based intrusion detection.
-
-I obtained my PhD under the supervision of [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/) in 2016 at the [University of Cambridge](https://www.cst.cam.ac.uk/) ([Jesus College](https://www.jesus.cam.ac.uk/)).
-Before I joined UBC, I held a Postdoctoral Fellowship at the [Harvard's Center for Research on Computation and Society](https://crcs.seas.harvard.edu/), a Research Associate position in the [Digital Technology Group at the University of Cambridge](https://www.cl.cam.ac.uk/research/dtg/www/), and a Research Fellowship position at [St Edmund's College (University of Cambridge)](https://www.st-edmunds.cam.ac.uk/). I worked at the frontier of Law and Computer Science as part of the [Microsoft Cloud Computing Research Centre](http://www.mccrc.org/). Finally, I worked as an Assistant Professor in the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/) at the University of Bristol.
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
+As a member of [Systopia](https://systopia.cs.ubc.ca/), the university’s systems research group, and the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/), I design and build computer systems that are intrinsically observable and transparent. My research investigates digital provenance, system auditing and accountability, intrusion detection, and performance optimization.
