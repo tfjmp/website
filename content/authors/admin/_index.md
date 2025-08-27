@@ -18,11 +18,12 @@ bio: My research interests include provenance, operating systems, distributed sy
 
 # Interests to show in About widget
 interests:
+- Computer Security
+- Intrusion Detection
 - Digital Provenance
 - Operating Systems
 - Distributed Systems
 - Data Protection and Privacy
-- Intrusion Detection
 
 # Education to show in About widget
 education:
@@ -94,5 +95,7 @@ highlight_name: true
 ---
 <style>body {text-align: justify}</style>
 
-I am an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
-As a member of [Systopia](https://systopia.cs.ubc.ca/), the university’s systems research group, and the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/), I design and build computer systems that are intrinsically observable and transparent. My research investigates digital provenance, system auditing and accountability, intrusion detection, and performance optimization.
+Thomas Pasquier is an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
+He is affiliated with the [UBC Security & Privacy Group]((https://spg.cs.ubc.ca/)) and the [Systopia Lab]((https://systopia.cs.ubc.ca/)), UBC's systems research group.
+His work focuses on the design and implementation of computer systems that are inherently observable and transparent.
+His research interests include digital provenance, system auditing and accountability, intrusion detection, and performance optimization.
