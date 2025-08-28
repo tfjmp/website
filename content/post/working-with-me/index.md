@@ -1,5 +1,5 @@
 ---
-title: Working with me
+title: Supervisory expectations
 subtitle: A description of how my group is run.
 
 # Summary for listings and search engines
@@ -38,214 +38,218 @@ categories:
 - Advising
 ---
 
-This page describes how my lab is typically run.
-I aim to tailor individual experience to fit individual student's needs, but this serves as the general starting point of our relationships.
-On [this page](), I briefly describe what students can expect from me and what I expect from them.
+<style>body {text-align: justify}</style>
 
-## How to contact me
+The goal of this document is to set mutual expectations on our collaboration.
+We collaboratively update this document once a year.
 
-The best time to discuss research is during our project or 1-on-1 meetings.
-Outside of those, the best way to contact me is through instant messaging (using Systopia's discord server is probably the best way to get hold of me).
-Instant messaging is ideal for informal exchanges and discussing day-to-day research progress.
-I am expecting that students would be in touch a few times during the week, and I may probe about your progress.
-In case of more formal interactions, for example, to complete some administrative task, e-mails at [tfjmp@cs.ubc.ca](mailto:tfjmp@cs.ubc.ca) are the best choice.
+## Advisory goals
 
-## Interactions outside of working hours
+My goal in advising graduate students is to help train them to become independent researchers.
+This encompasses both the general scientific and research process, from identifying a compelling research question to communicating results through papers and presentations, as well as discipline-specific skills.
 
-Academics are notorious for working at asocial hours.
-I may send a message at a random time during the week, for example, as I was reading a paper that I think is interesting and relevant to your research.
-However, I do not expect an immediate response.
-Similarly, you should not expect an immediate response to a message sent at 3 am.
-However, I endeavor to respond within one working day whenever possible and would expect the same.
+While these skills are particularly useful in academia, they are also useful in other contexts as well.
+Some students will pursue careers as research-track academics, while others may become teaching-oriented professors, industry researchers, or entrepeneurs.
+I am happy to work with students with any of these goals; students should discuss these types of goals with me on occasion, particularly as their thinking changes about future plans or leading up to relevant milestones in their degree.
 
-## Meetings
+## Working environment and relationship
 
-I am expecting to meet my advisees regularly (at least once a week).
-I track my meetings with google calendar.
-If a meeting is not on my calendar I am unlikely to show up.
-I expect students to come to the meeting or to let me know in advance if they cannot.
-Students are responsible for running the meetings and should be proactive.
-This means preparing a report on their progress and important points to discuss.
-Students should send a written update the day before with clear indications of any document I should read before the meeting (e.g., important related work, paper/report draft, code etc.).
-I get extremely frustrated if I am expected to have a meaningful interaction on a 15 pages paper I haven't read.
-Debugging code, system setups, and the like is best done asynchronously through instant messaging and should generally not be the topic of our meetings.
-This means that if you get stuck on a technical issue, you should contact me ASAP so I can have a look and hopefully help.
-Finally, I have to divide time between multiple students, projects, and other responsibilities.
-This means that it is vital for your own progress that you take the lead in moving your project forwards.
+### Meetings and other regular communication
 
-**Cancel meeting when you have nothing to discuss.**
-It is fine to drop me a message to tell me you haven't had time to make meaningful progress and would like to cancel a meeting.
-Obviously, I would not expect multiple meetings to be canceled in a row (unless you are facing hardship in such case do let me know so I can ensure you get support).
-I would expect heads up on canceled meetings to come sufficiently early as to be respectful of the time of all people involved in those meetings.
+I structure my regular meetings with students on a per-project basis, which may mean that a given group of students typically meet me together.
+We typically meet weekly, during which each student shares updates on their recent progress.
+We have also have lab-wide meeting once a week.
+I expect to meet, even if you don't expect to have substantial topics to talk about.
 
-**Cancel meeting if something urgent happens.**
-We all get sick and have family issues or personal matters to deal with.
-This means that at some point meetings may need to be canceled and this is fine.
-You should just make sure to let everyone involved know as soon as you can.
+Before the meeting send me anything you'd like to discuss (e.g. a paper draft) the day before the meeting.
+Take notes during the meeting, and keep them in a location we can both have access to.
+Not having substantial updates for a regular meeting should be rare.
+Doing it more than once in a while is an indication that you're regularly having unproductive stretches, and we should discuss why this is and what to do about it.
 
-## Managing Software Artifacts
+Outside of these regularly arranged times, I am often available for impromptu discussion as it would be helpful. Feel free to ask for my time whenever it would be helpful, and allow me to say no if I can't.
+To arrange additional discussions, get in touch with me via Slack to schedule a time to meet.
 
-Most research at UBC is enabled through public funds.
-This means that we have a duty to be transparent about the outcome of our work and to share it with the wider community.
-In practice, this means that you should properly manage your software artifacts.
-This includes practices such as documenting, using version control, using proper licenses etc.
-The default assumption is that your code and any other artifacts will be made publicly available after the corresponding paper is published.
+Communication from me to you outside of meetings:
+I may message you via Slack at any time, but I do not expect you to reply outside of your typical working hours except if otherwise agreed to for a particular reason, e.g., an imminent conference deadline.
+I do expect a response within 1 day (not including weekends), even if it is only to acknowledge the note and say that a more complete response is forthcoming.
+And likewise, from you to me:
+Feel free to message me at any time; I likewise may not respond until my typical working hours.
+I prefer that you contact me via Slack except in exceptional situations.
 
-It is also important to produce software that can run.
-Consequently, I tend to insist on the use of [continuous integration tools and practices](https://en.wikipedia.org/wiki/Continuous_integration) and I would expect us to set this up together in the early stage of a project.
-I am also a big fan of disposable and reproducible development environments and I strongly encourage you to look at [how to use Vagrant](https://www.vagrantup.com/).
+### Lab meetings and events
 
-## Interpersonal Communication and Cultural Expectations
+In addition to regular meetings with me, you are also expected to generally attend and contribute to Systopia's reading group.
+This is valuable both to you and to others.
+While you will have much of your own work to do, being a member of the lab is about more than just writing your own papers.
+Attending talks by your labmates, giving feedback, discussing other research areas, ideas, and process, and even just talking about academia over a coffee all contributes indirectly to your training, and the training of others in the lab. I expect you to participate in such events regularly.
 
-UBC is an English-speaking and liberal environment with its own cultural expectations.
-However, this may sometimes be at odds with what you have been experiencing while growing up.
-Other mismatches of expectations may arise from class, religion, sexual orientation, and many other dimensions that compose your identity.
+### Working hours
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YMyofREc5Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+During periods for which you are doing research with me, you should treat your degree as a full-time job.
+ Some time will be spent on taking courses, or serving as a TA as part of your funding; the remainder of your time should be spent on research.
+It doesn't matter to me when you work, outside of our mutually arranged meetings and other responsibilities, as long as you are making good progress.
+To maximize overlap with your labmates, I'd like you to be generally available Monday-Friday (except on holidays) in the core hours between **10am-3pm**, but whether you typically start earlier, or work later I leave up to your personal preference.
 
-These differences in expectations and perceptions can create tensions.
-This means that we all need to be mindful of each other.
-Living in a multicultural society requires understanding and kindness.
+Physical space:
+It is valuable for you to interact with others in the group and the department; these are benefits not just to you but also to your labmates.
+I therefore expect you to typically work from the lab space at least two days a week.
+I encourage that you try to be in the lab at least between 10am - 3pm, when most of the lab members will be around.
+The rest of time, I don't mind if you prefer to work from home or elsewhere, but try to respond promptly by Slack during your typical working hours.
+If you will be working from home or otherwise away from the lab for more than a week then you should let me know.
 
-## Paper Writing
+If you need to work remotely for personal or medical reason, please discuss with me.
+You should not do so during your first year.
 
-We should aim to submit the best paper we can.
-This means that we may miss a deadline if I feel that the paper is not ready.
-I **do not** write papers at the last minute.
-I expect a full draft of a submission with full evaluation to be ready one or two weeks before the deadline and the final week to be dedicated to polish and styling.
-Consequently, I aim to specify the target conference long in advance and to revise our target if it becomes clear that we won't have a quality submission ready by the deadline.
-However, note that more and more top-tier conferences have multiple deadlines during the year.
-This means, in practice, that we can submit a much stronger paper a few months later.
-You are **never** to submit a paper without the explicit consent of all authors.
-Authors are expected to be available around paper deadlines and you should be mindful of those when making other commitments.
+### Vacation
 
-Writing a paper requires much more effort than most junior graduate students expect.
-We will go through multiple iterations with the first draft being significantly different from the final submitted version.
-You are expected to seek and take feedback.
-Similarly, evaluations are a lot more work to put together than students expect.
-It is unlikely to go right the first time, and we are likely to uncover many issues.
-You are encouraged to develop a thorough evaluation plan early in the project.
+It's important to take a break from time to time. The [UBC policy](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/academic-regulations/graduate-student-vacation-policy) is that graduate students have three weeks of vacation time (15 days), in addition to the week the university is closed between Christmas and New Year's Day.
+Let me know when you plan to take vacation in advance and coordinate with me in advance about any planned vacations.
+There may be some constraints on when you can reasonably take vacation time:
+If you are an author on a paper, you should expect to be available to work on that paper for the four weeks leading up to the submission deadline.
+If you have a TA position, you need to discuss with the course staff about when vacation will be reasonable for that position as well as with me.
 
-Authors ordering is important and must be discussed between the authors.
-The first author is generally the student who has done most of the work, followed by other students that assisted.
-Follow faculty members with the senior authors generally being the advisor of the first author
-Please, discuss if/when you have a concern about the ordering of authors.
 
-All papers must be written in [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
-You are expected to learn to use LaTeX and the associated toolset.
-I will create a private GitHub repository with the template for the paper.
-We will normally **not** use overleaf or similar tools (you can [synchronize overleaf with GitHub](https://www.overleaf.com/learn/how-to/Git_Integration_and_GitHub_Synchronization) if you want to, but be mindful of not creating conflicts).
+## Research
 
-Finally, if you are the first author you have some additional responsibilities:
-- You are in charge of driving the paper forwards and organizing meetings;
-- You are expected to take a significant share of the writing;
-- You must ensure that the paper follows submission guidelines (page limits, formatting, anonymity, etc.);
-- You must submit the paper before the deadline and ensure that all authors are happy with the submission.
+### Choosing a research topic
 
-I expect to be regularly involved in the writing process and I will provide regular feedback.
+In deciding what projects you work on,
+I will assign you a research topic to work on, at least at first.
+Then we will typically come to a research topic of mutual interest through a process of joint brainstorming.
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vtIzMaLkCaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Publication norms
 
-## Publication Expectations
+While there can be exceptions for many reasons, I typically expect that most MSc students will have **one** first-author paper submitted/accepted by the end of their degree.
+PhD students will have at least **three** first-author papers by the end of their degree.
+These numbers may vary dramatically depending on how much work various projects end up being, and how lucky you are, among many other factors.
+Some typical venues to target for publication are USENIX Security, IEEE S&P, ACM CCS, NDSS, ASPLOS, EuroSys, OSDI, etc.
 
-MSc students should aim to complete at least one major conference paper before they graduate.
-PhD students should target at least three major conference papers before they graduate.
-In addition, I am expecting most students to coauthor with other lab members.
-Those are not official guidelines, but serve as an indication of what a student doing "well" looks like.
-Publications are in a sense more important than the degree you will obtain and must be one of the main focus of your time at UBC.
-For example, when applying for an academic position your PhD is just a minimum requirement, the work you have published will be the most important criteria when assessing your application.
+### Collaboration and side projects
 
-## Lab Life & Service
+I am supportive of you joining projects outside the lab as a supporting contributor.
+Confirm with me before joining a research project outside the lab.
+Confirm with me before inviting anyone to join an ongoing research project to help out.
 
-If you join my team you will be part of the [Department of Computer Science at UBC](https://www.cs.ubc.ca/) and in particular of the [Systopia Lab](https://systopia.cs.ubc.ca/).
-Students working on security-related topics will also be members of the [Security & Privacy Research Group](https://spg.cs.ubc.ca/).
-As such, there are some expectations where participation in lab life is concerned.
-You are expected to come to the lab regularly and interact with your colleagues (collaborations are very important and the interactions between graduate students are an integral part of a successful graduate experience).
+### Paper submissions
 
-You are also expected to participate in the life of the lab, attend reading group sessions, and presentations.
-In particular, keep in mind the [Systopia Seminars](https://systopia.cs.ubc.ca/seminar).
-There is also a number of positions to be filled every year, including organizing social events, maintaining our website, managing our social media presence, and more.
-Those activities are led by students, and it is expected that, as you become familiar with the lab, you will start participating actively.
-You may also wish to participate in department-level or university-level service.
-Finally, you may want to get involved with the research community by participating in different activities such as artifacts evaluation committees, shadow program committees, and program committees
-This is also encouraged and I am happy to provide support if needed and as appropriate.
+I typically plan paper deadlines well in advance (e.g., half a year or more). This gives us ample time to prepare and improve the paper draft.
+We should aim for a draft version of the paper two weeks in advance of any deadline, but we can be flexible in exactly what happens.
+Make sure to be aware of upcoming paper deadlines (e.g., add them to your calendar, create timelines, etc.).
 
-You should note that those activities are important and can help with your career progression.
-Multiple fellowships explicitly mention those in selection criteria.
+I expect to know about all paper submissions you make during your program, even if we have agreed that I am not a co-author.
+If you are unsure about co-authorship, order of authors, etc., please discuss with me as soon as possible.
+Never add anyone as a co-author on a paper without their knowledge; for co-authors outside of our immediate group, bear in mind that they might have their own expectations and requirements about timelines for giving feedback.
 
-{{% callout note %}}
-**[IEEE Canadian Foundation Nick Cercone Graduate Scholarship in Computer Science](http://nickcerconescholarship.ca/?page_id=14)**
 
-Weight will also be attached to the student’s academic excellence and to her or his involvement in helping others (e.g. tutoring, service on a student council, organizing student activities, and volunteer work outside the university).
+### Conference attendance
 
-**[Canada Graduate Scholarships – Doctoral program](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp)**
+In general, the first authors of conference publications will be sent to present the work.
+If additional funding is available, then other authors may be sent, too. However, please make sure that you check about funding for a particular venue before submitting, since, for example, attending a workshop without a good reason for attending the associated conference may be too expensive a trip.
+My general philosophy on conference support is that, funds permitting, I aim to provide close to full travel support.
 
-Professional, academic and extracurricular activities as well as collaborations with supervisors, colleagues, peers, students and members of the community, such as
-- teaching, mentoring, supervising and/or coaching
-- managing projects
-- participating in science and/or research promotion
-- participating in community outreach, volunteer work and/or civic engagement
-- chairing committees and/or organizing conferences and meetings
-- participating in departmental or institutional organizations, associations, societies and/or clubs
-{{% /callout %}}
+Preparing for a conference:
+schedule a practice talk for any conference presentation at least 3 weeks in advance of the actual presentation during a group meeting.
+You should also schedule a presentation during Systopia's reading group.
+We should discuss a poster draft at least two weeks in advance of the conference date.
 
-There are obviously some circumstances that may prevent you from participating.
-You may also need to be away from the lab for some time (e.g., family or health issues).
-This is perfectly fine but this should be discussed in advance to ensure you have proper support (there is a number of initiative within the university to support students going through hardships).
 
-## Equipment
+## Degree progress
 
-If you require equipment to pursue research, I am happy to purchase it for you.
-However, this equipment will be purchased through grant money.
-This means that the equipment is the property of UBC and that you should take care of it and use it with this in mind.
+While you should raise concerns or similar with me at any point, there are various points throughout your degree at which we should explicitly ensure that everything is "on track."
 
-## RAship and TAship
+### Early MSc students
 
-Unless you have secured a fellowship (you are strongly encouraged to look for those as it will strenghten your CV significantly), you are likely to be funded through RAship or TAship.
-Most of you will be familiar with Teaching Assistant duties.
-You will receive monetary compensation and it is therefore expected that you behave professionally and perform your duties to the best of your ability.
-Fulfilling expectations of those roles take precedence over your coursework.
+MSc students in their first two terms, by departmental default, have an "advisor" rather than a "supervisor," and are not expected to do research.
+Students who expect to work with me should strongly consider a [directed studies course](https://www.cs.ubc.ca/students/undergrad/courses/specialty#cpsc-448-directed-studies-in-computer-science) to trial research with me.
 
-In the Computer Science department, the default expectation is for students to TA once a year.
-It is an important role and something you should engage with seriously.
-We will generally discuss your teaching involvement during the summer.
-I would also encourage PhD students to teach a course at some point after they have progressed to [candidacy](https://www.grad.ubc.ca/current-students/managing-your-program/advancement-candidacy).
 
-Research Assistantships are generally funded through specific grants.
-The funder allocates money for us to work on a specific research topic.
-This means two things: 1) there is some expectation for us to produce results (this includes papers and software artifacts); and 2) that we work within the context of the funding agreement.
-This means that by taking a RAship you must work on the agreed-upon topic.
-It is my job to make sure the grant gives you a reasonable degree of freedom but if we agreed to do research on how to make the best pizza, we may not be able to work on how to make the best paella.
-If you wish to change your research topic, you must discuss this in advance and as early as possible.
-Similarly, if there is no sufficient progress as to fulfil our engagement with the funder, we may discuss alternative route to fund your research.
-Note, that I may not be able to provide the same amount financial support outside of our original agreed upon topic.
-If you make extra-work commitments (side-projects, consulting, extra-teaching, etc.), I must be made aware.
-Be aware that some grants/funding are tied to IP agreements and it may affect work you do on closely related topics.
+### Annual progress check-ins
 
-As per department regulation financial support is "contingent on the student's satisfactory performance in his or her assigned tasks".
+The department requires [an annual progress report form](https://my.cs.ubc.ca/docs/annual-progress-report) from PhD students each summer.
+In advance of filing that form, we will also have an annual explicit "check-in" meeting about how we each think things are going and what we could do better/differently.
+In advance of filling out this form, PhD students who have a supervisory committee (typically after their proposal) should meet with that committee at least once a year, per UBC/department guidelines.
+You should check in with each member of your committee at least once a year, but this can be done separately.
+For MSc students, while the department doesn't require it, I also do an annual "check-in" meeting with MSc students.
 
-## Internships
+### Program milestones
+We should make sure that any program milestones you haven't yet completed are on your mind.
 
-Internships are a great opportunity to gain new skills, build your network and expand your horizon.
-I strongly encourage graduate students, especially, PhD students to seek such a position during the course of their degree.
-You should try to identify an internship that *helps* with your research and career goal (acquiring complementary skills, researching a related topic etc.).
-It is possible to get an internship at any point during you degree, however, internships done a few years in your degree tend to be more valuable (you are productive much faster, you can more effectively leverage the network you will build etc.), further the first summer(s) are likely to be the time when you start your research in earnest.
-You should start to think about internship towards the end of the *Winter 1 term* of the year you are planning to do your summer internship.
-Talk to faculties and students in [Systopia](https://systopia.cs.ubc.ca/people) or [SPG](https://spg.cs.ubc.ca/people/), and more importantly talk with me!
-You should also be mindful of any engagement you have (Are you part of a team that is working for a submission during the summer? Have you signed to TA some summer course? Are you expected to produce some report as part of your degree? Is it ok given your source of funding?).
-Finally, remember that immigration issues may affect your eligibility for internships.
-This is a complex matter and faculties are generally ill-equipped to help.
-The best source of advice on the matter at UBC is the [International Student Advising](https://students.ubc.ca/about-student-services/international-student-advising) service.
-You should contact them as you start planning to apply for internships.
+For the [RPE](https://www.cs.ubc.ca/students/grad/graduate-programs/research-proficiency-evaluation-rpe):
+I typically expect PhD students to complete the RPE at the conclusion of their first independent research project, which may come at a different time than the department guidelines suggest.
 
-## Ph.D. Timeline
+For the [thesis proposal](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program/thesis-proposal):
+I typically expect my PhD students to complete a thesis proposal once they have completed a few research projects and have a reasonable idea towards how the rest of their PhD will go.
 
-You can find the official timeline on the [department website](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program/phd-program-timeline).
+## Stipends and funding
 
-- Year 1 - Prepare and pass the [Research Proficiency Evaluation](https://tfjmp.org/post/rpe/).
-- Year 2/3 - [PhD Proposal](https://tfjmp.org/post/phd-proposal/) and course requirement completion, move to [candidacy](https://www.grad.ubc.ca/current-students/managing-your-program/advancement-candidacy).
-- Eventually ([> 3.33 years & < 9 years ; on average 5.77 years](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science)) submit and defend your PhD thesis!
+Funding in the department is provided by a mixture of research assistantships, teaching assistantships, and occasionally administrative positions, as well as awards, fellowships, and so on.
+
+It is worth mentioning that RA stipends are not taxed and also, per [a BC Labour Relations Board ruling in March 2025](https://lrb.my.salesforce.com/sfc/p/#f40000022yYB/a/Mm000003qn4X/K52YyjzQ.vYWjxyRP_dm6ZX07Za4QJzjDIwfHRgBOfc), can only be used to fund work towards your own research and closely related incidental work.
+TAships and administrative positions' salaries are taxed; TAs are members of the [CUPE 2278](https://www.cupe2278.ca/) union.
+
+### Lab funding overview
+
+The lab receives most of its funding from **NSERC** and industry.
+Most funding tends to come with only minor restrictions on what you work on.
+However, some sources of funding tend to come with specific requirements and deliverables for the lab's research, which may affect which projects you can work on or how you work on them.
+
+### Expected funding levels
+
+The department requires students in their guaranteed funding periods to receieve at least [a certain minimum funding level](https://my.cs.ubc.ca/docs/cs-support-policy-breakdown), which increases annually with inflation.
+Note that you will be required to pay certain fees and potentially tuition, which vary depending on your position (type of degree, year in program, international/domestic); a breakdown from the department for current rates is available [here](https://docs.google.com/spreadsheets/d/1v7IdXInOMBx1QvwpstJD2KTXWBQIxsbMXvdB_FyS2e8/edit?gid=275015393#gid=275015393).
+My students typically receive these minimum funding levels.
+After the point where tuition is no longer covered by the university (fifth or later year of PhD, second year or later of MSc), I typically provide additional RAship to cover this difference.
+
+### Length of funding
+
+The departmental minimums apply to MSc (Thesis) students for 2 years, MSc (Essay) students for 20 months, and PhDs for 5 years.
+I typically fund students beyond the department guaranteed period, as long as (1) there is continued strong progress on the student’s part, and (2) sufficient research funding (grant money) on my part.
+
+
+### TA positions
+
+TA positions can be used either as a part of the minimum funding level, or "on top" of the usual funding for extra money.
+I typically ask MSc students who anticipate working with me, as part of their funding, to TA in their first two terms, and once in their second year.
+For PhD students' usual stipends, I usually request my students to TA once per year.
+
+In terms where students are not TAing for funding purposes:
+I prefer my students have as much time to work on research as possible, and so I prefer not to use more TA positions than necessary.
+However, do let me know if you are concerned about funding and we can discuss options.
+
+Note that, per TA union rules, it is generally not possible to TA more than a standard 12 hour contract.
+
+### Awards
+
+I encourage you to apply for awards for which you are eligible; receiving this are good for both you and me.
+To make it explicit, here's what happens if you get one of these awards:
+
+#### Tri-Agency Fellowships (CGRS D, CGRS M)
+
+Departmental policy is that you receieve at least $5,000 over the departmental annual minimum funding, and also at least the full award amount. If necessary, the department covers the gap between the award amount and $5,000 over the departmental annual minimum; you will also not be required to TA as part of your funding while receiving this award.
+
+#### Other fellowships/scholarships at least $15,000 (e.g. UBC 4YF)
+
+Departmental policy is that you receieve at least $2,000 over the departmental annual minimum funding, and also at least the full award amount.
+You will also not be required to TA as part of your funding while receiving this award.
+For an award that includes specific funding for travel, equipment, etc., this is not included in "the full award amount" above.
+
+#### Smaller one-off (under $10,000) or admissions awards
+
+Departmental expectation is that you receieve this amount in full, in addition to the usual stipend, without affecting any expectation to TA or similar.
+You may optionally use such an award to "buy out" of a time you would otherwise be expected  to TA, reducing the additional amount you receive by **the TA salary**.
+
+### Internships, course instruction, etc
+
+I encourage students to seek out internships which will be relevant to their career progress. Discuss potential plans about this with me in advance.
+Students should consider the [co-op program](https://www.cs.ubc.ca/students/undergrad/careers/computer-science-co-op-program) for any possible internships.
+Students who are interested can apply to be sessional lecturers for a course.
+Discuss this possibility with me.
+
+When a student is on an internship or a sessional lecturer,
+that pay (assuming it is at least the amount of the relevant minimum) constitutes your funding for that term.
+This has no bearing on other terms, and so will likely result in an increase in your annual take-home income.
+I count these positions towards times when you would otherwise TA for funding.
+
+For part-time internships and consulting:
+A 50%-time internship means I will still fund you at 50% of the rate I would have otherwise (first going towards "buying out" any expected TAship).
+Working part-time or consulting during your degree is normally not effective; we should talk about this explicitly before embarking on this kind of path.
