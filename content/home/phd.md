@@ -102,16 +102,15 @@ have an interest and the capacity to conduct research.
 
 ## What to address in your statement of intent?
 
-* Check the guidelines on the [department website](https://www.cs.ubc.ca/statement-of-intent)
-* An SoI must address the three following points: 1) show you know what is research, 2) describe the research you have done, and 3) discuss what research you would like to do.
-* The SoI is **not** about your life story.
-* The relationship between a student and their advisor is an extremely important one and it will hopefully last for years.
-* The commonality of interest should be clear from your statement.
-* Listing half a dozen potential advisors from very different areas is most probably detrimental to your application.
-* On the other hand, co-supervision is common and can be very positive.
-* Therefore, link clearly potential advisors to your experience and your aspirations.
-* Everything else being equal, an applicant that understands and shows **why** they should be working with a specific advisor are more likely to be successful.
-* This is my personal opinion and may not be universally true.
+* **Start with the official guidance.** Review the [department website](https://www.cs.ubc.ca/statement-of-intent) for any required information, length limits, or formatting.
+* **Cover three essentials.** Demonstrate you understand research; describe the research **you** have done; outline the research you want to pursue.
+* **Mention funding.** Briefly note scholarships you hold or plan to apply for.
+* **Stay focused.** The SoI is not your life story; prioritize intellectual trajectory, evidence of research ability, and where the degree fits in your career plans.
+* **Emphasize advisor fit.** The advisor–student relationship is crucial and often lasts for years. Your SoI should make the commonality of interests obvious.
+* **Be selective about potential advisors.** Listing many names across unrelated areas usually weakens your case. If you are considering co-supervision explain the intellectual thread that links advisors.
+* **Make the match explicit.** Clearly connect specific faculty to your past experience and future aims: why this lab, why now, and what you would contribute.
+* **All else equal, specificity wins.** Applicants who can articulate **why** a particular advisor is the right fit are more likely to be successful.
+* These points reflect my personal perspective and may not be universally true.
 
 ## If you get an offer letter
 
