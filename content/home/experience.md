@@ -47,7 +47,7 @@ experience:
     location: United Kingdom
     date_start: '2017-12-01'
     date_end: '2018-08-01'
-    description: Member of the [Digital Technology Group](https://www.cl.cam.ac.uk/research/dtg/www/) and Junior Fellow at [St Edmund's College](https://www.st-edmunds.cam.ac.uk/).
+    description: Member of the [Digital Technology Group](https://www.cl.cam.ac.uk/research/dtg/www/) and Junior Fellow at [St Edmund's College](https://www.st-edmunds.cam.ac.uk/). Advisor [Sir Andy Hoper](https://en.wikipedia.org/wiki/Andy_Hopper).
 
   - title: Postdoctoral Fellow
     company: Harvard University
@@ -56,7 +56,7 @@ experience:
     location: United States of America
     date_start: '2016-07-01'
     date_end: '2017-12-01'
-    description: Fellow of the [Center for Research on Computation and Society](https://crcs.seas.harvard.edu/) and member of the [System Research at Harvard Group](https://syrah.eecs.harvard.edu/).
+    description: Fellow of the [Center for Research on Computation and Society](https://crcs.seas.harvard.edu/) and member of the [System Research at Harvard Group](https://syrah.eecs.harvard.edu/). Advisor [Prof. Margo Seltzer](https://www.seltzer.com/margo/)
 
   - title: Research Assistant
     company: University of Cambridge
@@ -65,7 +65,7 @@ experience:
     location: United Kingdom
     date_start: '2013-01-01'
     date_end: '2016-07-01'
-    description: Member of the [Opera Research Group](https://www.cl.cam.ac.uk/research/srg/opera/) and the [Networks and Operating Systems group](https://www.cl.cam.ac.uk/research/srg/netos/).
+    description: Member of the [Opera Research Group](https://www.cl.cam.ac.uk/research/srg/opera/) and the [Networks and Operating Systems group](https://www.cl.cam.ac.uk/research/srg/netos/). Advisor [Prof. Jean Bacon](https://www.cl.cam.ac.uk/~jmb25/)
 
   - title: Apprentice Software Engineer
     company: Gemalto
