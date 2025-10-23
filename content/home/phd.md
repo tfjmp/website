@@ -109,7 +109,7 @@ have an interest and the capacity to conduct research.
 * **Emphasize advisor fit.** The advisor–student relationship is crucial and often lasts for years. Your SoI should make the commonality of interests obvious.
 * **Be selective about potential advisors.** Listing many names across unrelated areas usually weakens your case. If you are considering co-supervision explain the intellectual thread that links advisors.
 * **Make the match explicit.** Clearly connect specific faculty to your past experience and future aims: why this lab, why now, and what you would contribute.
-* **All else equal, specificity wins.** Applicants who can articulate **why** a particular advisor is the right fit are more likely to be successful.
+* **All else equal, specificity wins.** Applicants who can articulate **why** a particular advisor and research direction are the right fit are more likely to be successful.
 * These points reflect my personal perspective and may not be universally true.
 
 ## If you get an offer letter
