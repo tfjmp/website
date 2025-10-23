@@ -96,6 +96,11 @@ highlight_name: true
 <style>body {text-align: justify}</style>
 
 Thomas Pasquier is an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
-He is affiliated with the [UBC Security & Privacy Group]((https://spg.cs.ubc.ca/)) and the [Systopia Lab]((https://systopia.cs.ubc.ca/)), UBC's systems research group.
+He is affiliated with the [UBC Security & Privacy Group]((https://spg.cs.ubc.ca/) and the [Systopia Lab]((https://systopia.cs.ubc.ca/)), UBC's systems research group.
 His work focuses on the design and implementation of computer systems that are inherently observable and transparent.
 His research interests include digital provenance, system auditing and accountability, intrusion detection, and performance optimization.
+
+Thomas Pasquier est professeur adjoint au [Département d’informatique](https://www.cs.ubc.ca/) de l’[Université de la Colombie-Britannique (UBC)](https://www.ubc.ca/).
+Il est affilié au [Security & Privacy Group](https://spg.cs.ubc.ca/) de l’UBC  et au [Systopia Lab](https://systopia.cs.ubc.ca/), le groupe de recherche en systèmes de l’UBC.
+Ses travaux portent sur la conception et la mise en oeuvre de systèmes informatiques intrinsèquement observables et transparents.
+Ses intérêts de recherche incluent la provenance numérique, l’audit et la responsabilité des systèmes, la détection d’intrusion et l’optimisation des performances.
