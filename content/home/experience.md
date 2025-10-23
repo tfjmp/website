@@ -29,7 +29,7 @@ experience:
     location: Canada
     date_start: '2021-07-01'
     date_end: ''
-    description: Member of the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/) and member of the [Systopia Lab](https://systopia.cs.ubc.ca/).
+    description: Member of the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/), member of the [Security & Privacy Group](https://spg.cs.ubc.ca/), and member of the [Systopia Lab](https://systopia.cs.ubc.ca/).
 
   - title: Assistant Professor
     company: University of Bristol
@@ -38,7 +38,7 @@ experience:
     location: United Kingdom
     date_start: '2018-08-01'
     date_end: '2021-06-30'
-    description: Member of the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/).
+    description: Member of the [School of Computer Science](https://www.bristol.ac.uk/science-engineering/schools/computer-science/).
 
   - title: Research Associate
     company: University of Cambridge
@@ -74,7 +74,7 @@ experience:
     location: France
     date_start: '2008-09-01'
     date_end: '2011-08-01'
-    description: R&D Team member.
+    description: R&D Team member ([Gemalto](https://en.wikipedia.org/wiki/Gemalto) is now [Thales Digital Identity and Security](https://www.thalesgroup.com/en)).
 
   - title: Apprentice Electronic Engineer
     company: SRETT
@@ -83,7 +83,7 @@ experience:
     location: France
     date_start: '2006-09-01'
     date_end: '2008-09-01'
-    description: R&D Team member.
+    description: R&D Team member ([SRETT](https://www.srett.com/en/about-us/) specialize in industrial and health IoT solutions)
 
 design:
   columns: '1'
