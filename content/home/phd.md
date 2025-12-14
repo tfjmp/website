@@ -94,6 +94,7 @@ have an interest and the capacity to conduct research.
 ## Before applying
 
 * Have a look at my [publications](https://tfjmp.org/publication/).
+* Understand the [many roles of a PhD advisor](https://arxiv.org/pdf/2510.08885).
 * Identify matching interests.
 * Understand that I will not supervise students outside of my area of expertise.
 * Find a set of papers which aligns with your interests.
