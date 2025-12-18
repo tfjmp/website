@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 75
 
-title: Graduate & Thesis Students
+title: Students & Postdocs
 subtitle:
 
 design:
@@ -27,7 +27,7 @@ design:
 ## Visiting Students
 -->
 
-## Past students (position held after graduation)
+## Past students and position held after graduation
 
 - [Tanya Prasad](https://www.tanya-prasad.com/) (MSc student, UBC), 2025, Software Engineer, Amazon AWS.
 - Baoxiang Jiang (Visiting PhD Student, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/)), 2025.
