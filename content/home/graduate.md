@@ -33,7 +33,7 @@ design:
 - [Tristan Bilot](https://tristanbilot.github.io/) (Visiting PhD Student, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), 2024.
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC), 2024, Software Developer, Oracle Labs.
 - [Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en) (MSc student, UBC), 2024, Security Analyst, WeBank.
-- [Haley Li](https://www.linkedin.com/in/haleyli12/) (MSc student, UBC), 2024, co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/), Research Engineer, Huawei Canada.
+- [Haley Li](https://hlyli.github.io/) (MSc student, UBC), 2024, co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/), Research Engineer, Huawei Canada.
 - [Wellison Raul Mariz Santos](https://www.linkedin.com/in/wellison-santos-476592131/?locale=en_US), (Visiting PhD Student, [UFPE](https://www.ufpe.br/)) 2024, Researcher and Professor, [CISSA/CESAR](https://www.cesar.org.br/web/english/cissa).
 - [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en) (MSc student, UBC), 2023, co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/), Senior Member of Technical Staff, Salesforce.
 - [Bogdan Stelea](https://www.linkedin.com/in/bogdan-stelea/) (MEng, Bristol), 2021, Software Engineer, Amazon.
