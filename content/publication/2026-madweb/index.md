@@ -11,7 +11,7 @@ publication_short = "*MADWeb'26*"
 featured = false
 title = "RegTrack: Uncovering Global Disparities in Third-party Advertising and Tracking"
 url_pdf = "publications/2026-madweb.pdf"
-url_project = "https://github.com/ubc-provenance"
+url_project = "https://github.com/ubc-spg/RegTrack"
 
 # Digital Object Identifier (DOI)
 doi = ""
