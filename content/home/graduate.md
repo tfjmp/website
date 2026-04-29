@@ -21,7 +21,7 @@ design:
 - [Tristan Bilot](https://tristanbilot.github.io/) (Postdoc, UBC)
 - [Soo Yee Lim](https://s00y33.github.io/) (PhD student, UBC)
 - [Xuechun Cao](https://joycecao11.github.io/) (PhD student, UBC)
-- Cathy Liu, (MSc Student, UBC)
+- Cathy Liu (MSc Student, UBC)
 
 <!---
 ## Visiting Students
@@ -30,7 +30,7 @@ design:
 ## Past students and position held after graduation
 
 - [Tanya Prasad](https://www.tanya-prasad.com/) (MSc student, UBC), 2025, Software Engineer, Amazon AWS.
-- Baoxiang Jiang (Visiting PhD Student, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/)), 2025.
+- [Baoxiang Jiang](https://dblp.org/pid/280/1210.html) (Visiting PhD Student, [Xi’an Jiaotong University](http://en.xjtu.edu.cn/)), 2025.
 - [Tristan Bilot](https://tristanbilot.github.io/) (Visiting PhD Student, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)), 2024.
 - [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/) (MSc student, UBC), 2024, Software Developer, Oracle Labs.
 - [Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en) (MSc student, UBC), 2024, Security Analyst, WeBank.
