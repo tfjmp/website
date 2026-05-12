@@ -19,11 +19,12 @@ weight = 75
 
 ## Program Committee
 
+- IEEE S&P [2026](https://sp2026.ieee-security.org/)
 - ACM ASPLOS [2021 (ERC)](https://asplos-conference.org/asplos2021/index.html), [2025](https://www.asplos-conference.org/asplos-2025-call-for-papers/), [2026](https://www.asplos-conference.org/asplos2026/)
-- ACM EuroSys [2020](https://2020.eurosys.org/), [2023](https://2023.eurosys.org/), [2025](https://2025.eurosys.org/), [2026](https://2026.eurosys.org/)
-- USENIX Security [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25)
+- ACM EuroSys [2020](https://2020.eurosys.org/), [2023](https://2023.eurosys.org/), [2025](https://2025.eurosys.org/), [2026](https://2026.eurosys.org/), [2027](https://2027.eurosys.org/)
+- USENIX Security [2024](https://www.usenix.org/conference/usenixsecurity24), [2025](https://www.usenix.org/conference/usenixsecurity25), [2026](https://www.usenix.org/conference/usenixsecurity26)
+- ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/), [2026](https://www.sigsac.org/ccs/CCS2026/)
 - ACM REP [2023](https://acm-rep.github.io/2023/), [2024](https://acm-rep.github.io/2024/)
-- ACM CCS [2022](https://www.sigsac.org/ccs/CCS2022/), [2023](https://www.sigsac.org/ccs/CCS2023/)
 - ACM SOSP [2023](https://sosp2023.mpi-sws.org/)
 - ACM SoCC [2023](https://acmsocc.org/2023/)
 - IEEE EuroS&P [2023](https://eurosp2023.ieee-security.org/)
