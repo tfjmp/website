@@ -47,7 +47,7 @@ experience:
     location: United Kingdom
     date_start: '2017-12-01'
     date_end: '2018-08-01'
-    description: Member of the [Digital Technology Group](https://www.cl.cam.ac.uk/research/dtg/www/) and Junior Fellow at [St Edmund's College](https://www.st-edmunds.cam.ac.uk/). Advisor [Sir Andy Hoper](https://en.wikipedia.org/wiki/Andy_Hopper).
+    description: Member of the [Digital Technology Group](https://www.cl.cam.ac.uk/research/dtg/www/) and Junior Research Fellow at [St Edmund's College](https://www.st-edmunds.cam.ac.uk/). Advisor [Sir Andy Hoper](https://en.wikipedia.org/wiki/Andy_Hopper).
 
   - title: Postdoctoral Fellow
     company: Harvard University
