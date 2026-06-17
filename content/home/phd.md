@@ -50,71 +50,42 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-If you are a PhD student interested by my work and a collaboration, I am always happy to welcome **Visiting International Research Student** in my lab.
-Please, review carefully the information provided on [UBC website](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/classification-students/visiting-graduate-student) before contacting me.
-You may want to explore the MITACS' [Globalink Research Award](https://www.mitacs.ca/our-programs/globalink-research-award/) program as a potential source of funding.
-Ensure you have discussed with your home institution and supervisor first.
+{{% callout info %}}
+I am actively recruiting graduate students to join my lab at the University of Oxford in autumn 2027.
 {{% /callout %}}
 
 {{% callout warning %}}
 **Contacting me**
 
-If you are planning to apply, please, do so through the UBC system, if you select me as a potential supervisor in the online form, I will review your application.
-**I cannot process applications sent via e-mail** and I will not review application packages sent by e-mail.
-I do not process applications before the closing deadline (December 15th).
-The department receive around 2,000 applications every year and it takes a non-trivial amount of time to review them carefully.
-We aim (but cannot guarantee) for all applicants to hear back from us by mid-April.
-**I will not discuss admission outside of the departmental admission process.**
+If you are planning to apply, please, do so through the [Oxford application system](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science#completing-your-application).
+**I cannot process** and will not review application packages sent by e-mail.
+I am happy to comment on your research proposal and its alignment with my research. However, **I will not discuss your chances of admission.**
 
-Please feel free to contact me if you have **specific** research questions.
+Please feel free to contact me, but be **specific and concise** when doing so.
 {{% /callout %}}
 
-I am looking to work with students from all background (first generation students, and students from underrepresented and marginalized groups are encouraged to apply).
-Please, visit the prospective applicant page on [UBC website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science) and on [the CS website](https://www.cs.ubc.ca/students/grad/prospective).
-You can also find information about: [financial support](https://www.cs.ubc.ca/students/grad/prospective/funding/financial), [application fee waivers](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee), [minimum requirements for admission into graduate studies](https://www.cs.ubc.ca/students/grad/admissions/eligibility), and [minimum English proficiency requirements](https://www.cs.ubc.ca/students/grad/admissions/application-components-required-documents/english-proficiency-requirement).
-You may also look at [this page](https://tfjmp.org/post/working-with-me/) which describes my expectations when working with graduate students.
-Finally, you should have a look at [UBC cost calculator](https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/cost-living#calctable).
-
-{{% callout note %}}
-The Master of Science in Computer Science at UBC is a research degree. Students are expected to conduct research, submit papers for publication,
-and eventually write a thesis. You can find more information on the university [website](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science). While applications are not reviewed with the same expectations as those of PhD applicants, you should clearly demonstrate you
-have an interest and the capacity to conduct research.
-{{% /callout %}}
+I welcome students from all backgrounds. First-generation students and students from underrepresented or marginalized groups are especially encouraged to apply.
+Please visit the prospective applicants pages on the [Oxford website](https://www.ox.ac.uk/admissions/graduate/courses/research-courses) and the [Computer Science website](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science).
+You can also find information about the [cost of living in Oxford](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/living-costs).
 
 ## A few facts
 
-* You must apply [online](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science).
-* Do check the [application deadline](https://www.cs.ubc.ca/students/grad/admissions) on UBC’s website.
-* The department starts processing applications in January for the next academic year.
-* Students are admitted by the department, not by individual faculty members.
-* Master and PhD applications are reviewed by the same committee. The [PhD track](https://www.cs.ubc.ca/students/grad/prospective-grads/grad-programs/phd-track-msc-program) is ideal for candidates who ultimately want to do a PhD, but do not feel ready yet.
-* Even if you are well fitted for my group, I cannot guarantee admission.
+* A [DPhil](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) at Oxford is equivalent to a PhD.
+* You must apply [online](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science).
+* Your choice of college does not affect your ability to work with me.
+* Departmental admission and studentship/scholarship decisions are made in two separate phases.
+* You may be eligible for [EPSRC funding through the department](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html).
+* You should also apply separately for scholarships; see the [British Council scholarship page](https://study-uk.britishcouncil.org/scholarships-funding) and [Oxford's fees and funding page](https://www.ox.ac.uk/students/fees-funding).
+* Be proactive in applying for scholarships.
+* You should **apply for scholarships as early as possible**.
+
 
 ## Before applying
 
-* Have a look at my [publications](https://tfjmp.org/publication/).
 * Understand the [many roles of a PhD advisor](https://arxiv.org/pdf/2510.08885).
-* Identify matching interests.
-* Understand that I will not supervise students outside of my area of expertise.
-* Find a set of papers which aligns with your interests.
-* Read the abstracts.
-* Read at least one paper in full.
-
-## What to address in your statement of intent?
-
-* **Start with the official guidance.** Review the [department website](https://www.cs.ubc.ca/statement-of-intent) for any required information, length limits, or formatting.
-* **Cover three essentials.** Demonstrate you understand research; describe the research **you** have done; outline the research you want to pursue.
-* **Mention funding.** Briefly note scholarships you hold or plan to apply for.
-* **Stay focused.** The SoI is not your life story; prioritize intellectual trajectory, evidence of research ability, and where the degree fits in your career plans.
-* **Emphasize advisor fit.** The advisor–student relationship is crucial and often lasts for years. Your SoI should make the commonality of interests obvious.
-* **Be selective about potential advisors.** Listing many names across unrelated areas usually weakens your case. If you are considering co-supervision explain the intellectual thread that links advisors.
-* **Make the match explicit.** Clearly connect specific faculty to your past experience and future aims: why this lab, why now, and what you would contribute.
-* **All else equal, specificity wins.** Applicants who can articulate **why** a particular advisor and research direction are the right fit are more likely to be successful.
-* These points reflect my personal perspective and may not be universally true.
-
-## If you get an offer letter
-
-* Do not hesistate to get in touch to discuss specific details.
-* Funding amounts on the offer letter is a **guaranteed minimum**, do contact me to discuss the actual amount.
-* Apply for graduate accomodation as early as possible. Check the [information online](https://vancouver.housing.ubc.ca/getting-started/graduate-students/).
+* Review my [publications](https://tfjmp.org/publication/).
+* Identify areas where our research interests align.
+* Note that I will not supervise students outside my areas of expertise.
+* Find a set of papers that align with your interests.
+* Read their abstracts.
+* Read at least a few of them in full.
