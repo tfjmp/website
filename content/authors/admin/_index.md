@@ -95,14 +95,14 @@ highlight_name: true
 ---
 <style>body {text-align: justify}</style>
 
-In September 2026, **I will join the University of Oxford as an Associate Professor**.
+In September 2026, **I will join the [University of Oxford](https://www.cs.ox.ac.uk/) as an Associate Professor**.
 I am an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
 I am affiliated with the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/) and the [Systopia Lab](https://systopia.cs.ubc.ca/), UBC's systems research group.
 My work focuses on the design and implementation of computer systems that are inherently secure, observable, and transparent.
 My research interests include system auditing and accountability, intrusion detection, and performance optimization.
 
-En septembre 2026, **je rejoindrai l’Université d’Oxford en tant que professeur associé**.
-Je suis professeur adjoint dans le [Département d’informatique](https://www.cs.ubc.ca/) de l’[Université de la Colombie-Britannique (UBC)](https://www.ubc.ca/).
-Je suis affilié au [Security & Privacy Group](https://spg.cs.ubc.ca/) de l’UBC et au [Systopia Lab](https://systopia.cs.ubc.ca/), le groupe de recherche en systèmes de l’UBC.
+En septembre 2026, **je rejoindrai l'[Université d'Oxford](https://www.cs.ox.ac.uk/) en tant que professeur associé**.
+Je suis professeur adjoint dans le [Département d'informatique](https://www.cs.ubc.ca/) de l'[Université de la Colombie-Britannique (UBC)](https://www.ubc.ca/).
+Je suis affilié au [Security & Privacy Group](https://spg.cs.ubc.ca/) de l'UBC et au [Systopia Lab](https://systopia.cs.ubc.ca/), le groupe de recherche en systèmes de l'UBC.
 Mes travaux portent sur la conception et la mise en œuvre de systèmes informatiques intrinsèquement observables et transparents.
-Mes intérêts de recherche incluent l’audit et la responsabilité des systèmes, la détection d’intrusion et l’optimisation des performances.
+Mes intérêts de recherche incluent l'audit et la responsabilité des systèmes, la détection d'intrusion et l'optimisation des performances.
