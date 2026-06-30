@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 {{% callout info %}}
-I will join the University of Oxford in September 2026. I am actively recruiting DPhil students to join my lab, with expected start dates in 2027.
+I will join the University of Oxford in September 2026. I am actively recruiting DPhil students to join my lab, with expected start dates in 2027. I also welcome supervision enquiries from Oxford undergraduate and master’s students.
 {{% /callout %}}
 
 {{% callout info %}}
