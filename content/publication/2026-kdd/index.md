@@ -11,7 +11,7 @@ publication_short = "*ACM KDD'26*"
 featured = true
 title = "PIDSMaker: Building and Evaluating Provenance-based Intrusion Detection Systems"
 url_pdf = "publications/2026-kdd.pdf"
-url_project = ""
+url_project = "https://github.com/ubc-provenance/PIDSMaker"
 
 # Digital Object Identifier (DOI)
 doi = ""
