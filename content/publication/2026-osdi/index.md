@@ -11,7 +11,7 @@ publication_short = "*USENIX OSDI'26*"
 featured = true
 title = "Inside Out: A Paradigm Shift In VM Introspection"
 url_pdf = "publications/2026-osdi.pdf"
-url_project = ""
+url_project = "https://github.com/Orange-OpenSource/Goodkit"
 
 # Digital Object Identifier (DOI)
 doi = ""
