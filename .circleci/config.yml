@@ -10,7 +10,7 @@ jobs:
             - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.166.0/hugo_extended_withdeploy_0.166.0_linux-amd64.deb'
             - run: 'sudo apt -y install ./hugo_extended_withdeploy_0.166.0_linux-amd64.deb'
             - run: 'sudo apt -y install golang-go'
-            - run: 'hugo --verbose'
+            - run: 'hugo --logLevel info'
             - persist_to_workspace:
                 root: .
                 paths:
