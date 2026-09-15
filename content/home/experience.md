@@ -22,6 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate Professor
+    company: University of Oxford
+    company_url: 'https://www.cs.ox.ac.uk/'
+    company_logo: 'oxford'
+    location: United Kingdom
+    date_start: '2026-09-01'
+    date_end: ''
+    description: Member of the [Department of Computer Science](https://www.cs.ox.ac.uk/), member of the [Security Theme](https://www.cs.ox.ac.uk/research/security/people.html), and the [Systems Theme](https://www.cs.ox.ac.uk/research/cyberphysical/people.html).
+    
+  - title: Tutorial Fellow
+    company: Brasenose College
+    company_url: 'https://www.bnc.ox.ac.uk/'
+    company_logo: 'brasenose'
+    location: United Kingdom
+    date_start: '2026-09-01'
+    date_end: ''
+    description: Tutorial Fellow in Computer Science and member of the Governing Body.
+    
   - title: Assistant Professor
     company: University of British Columbia
     company_url: 'https://www.cs.ubc.ca/'
@@ -29,7 +47,7 @@ experience:
     location: Canada
     date_start: '2021-07-01'
     date_end: ''
-    description: Member of the [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/), member of the [Security & Privacy Group](https://spg.cs.ubc.ca/), and member of the [Systopia Lab](https://systopia.cs.ubc.ca/).
+    description: Member of the [Department of Computer Science](https://www.cs.ubc.ca/), member of the [Security & Privacy Group](https://spg.cs.ubc.ca/), and member of the [Systopia Lab](https://systopia.cs.ubc.ca/).
 
   - title: Assistant Professor
     company: University of Bristol
