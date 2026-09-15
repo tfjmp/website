@@ -16,24 +16,23 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: tfjmp@cs.ubc.ca
+  email: thomas.pasquier@cs.ox.ac.uk
   phone:
   address:
-    street: 'Office 301, 2366 Main Mall'
-    city: 'Vancouver'
-    region: 'British Columbia'
-    postcode: 'V6T 1Z4'
-    country: 'Canada'
-    country_code: 'CA'
+    street: 'Office 408, Wolfson Building, Department of Computer Science, University of Oxford'
+    city: 'Oxford'
+    postcode: 'OX1 3QD'
+    country: 'United Kingdom'
+    country_code: 'UK'
   coordinates:
-    latitude: '49.26098120002967'
-    longitude: '-123.24877550368758'
+    latitude: '51.75983367643323'
+    longitude: '-1.2586077446820862'
   directions: ''
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/tfjmp'
+      name: Contact me on LinkedIn
+      link: 'https://www.linkedin.com/in/thomaspasquier/'
 
 design:
   columns: '1'
