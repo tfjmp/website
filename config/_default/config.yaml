@@ -48,8 +48,13 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
   anchor: smart
+  jpeg:
+    quality: 75
+  webp:
+    quality: 75
+  avif:
+    quality: 60
 timeout: 600000
 taxonomies:
   tag: tags

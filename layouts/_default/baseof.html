@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-{{- $language_code := site.LanguageCode | default "en-us" -}}
-<html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
+{{- $language_code := site.Language.Locale | default "en-us" -}}
+<html lang="{{$language_code}}" {{ if in hugo.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
 
 {{ partial "site_head" . }}
 
@@ -9,7 +9,7 @@
 <body id="top" data-spy="scroll" {{ if $show_navbar }}data-offset="70"{{end}} data-target="{{ if or .IsHome (eq .Type "widget_page") | and $highlight_active_link }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{with .Params.design.css_class}}{{.}}{{end}} {{ if not (.Scratch.Get "light") }}dark{{end}} {{ if not $show_navbar }}no-navbar{{end}}" {{with .File}}data-wc-page-id="{{.UniqueID}}"{{end}} {{with .Params.design.css_style}}style="{{. | safeCSS}}"{{end}}>
 
   {{/* Initialise Wowchemy. */}}
-  {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
+  {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" hugo.Data.wowchemy.version }}
   {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
   {{ $js_license := $js_license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */\n" }}
   {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
