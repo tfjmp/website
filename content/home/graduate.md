@@ -21,7 +21,8 @@ design:
 - [Tristan Bilot](https://tristanbilot.github.io/) (Postdoc, UBC)
 - [Soo Yee Lim](https://s00y33.github.io/) (PhD student, UBC)
 - [Xuechun Cao](https://joycecao11.github.io/) (PhD student, UBC)
-- Cathy Liu (MSc Student, UBC)
+- [Cathy Liu](https://www.linkedin.com/in/cathy-liu-aa1b59250/) (MSc Student, UBC)
+- [Robin Matheson](https://www.linkedin.com/in/robinmatheson/) (MSc student, UBC)
 
 <!---
 ## Visiting Students
