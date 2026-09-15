@@ -6,12 +6,12 @@ title: Thomas Pasquier
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of British Columbia
-  url: https://www.cs.ubc.ca/
+- name: University of Oxford
+  url: https://www.cs.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include provenance, operating systems, distributed systems and intrusion detection.
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:tfjmp@cs.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:thomas.pasquier@cs.ox.ac.uk"  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: https://tfjmp.org/files/vitae.pdf  # For a direct email link, use "mailto:test@example.org".
@@ -88,21 +88,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tfjmp@cs.ubc.ca"
+email: "thomas.pasquier@cs.ox.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 <style>body {text-align: justify}</style>
 
-In September 2026, **I will join the [University of Oxford](https://www.cs.ox.ac.uk/) as an Associate Professor**.
-I am an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
-I am affiliated with the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/) and the [Systopia Lab](https://systopia.cs.ubc.ca/), UBC's systems research group.
+I am an Associate Professor at the [University of Oxford](https://www.cs.ox.ac.uk/).
+Previously, I was an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/) and remain affiliated with the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/) and the [Systopia Lab](https://systopia.cs.ubc.ca/), UBC's systems research group.
 My work focuses on the design and implementation of computer systems that are inherently secure, observable, and transparent.
 My research interests include system auditing and accountability, intrusion detection, and performance optimization.
-
-En septembre 2026, **je rejoindrai l'[Université d'Oxford](https://www.cs.ox.ac.uk/) en tant que professeur associé**.
-Je suis professeur adjoint dans le [Département d'informatique](https://www.cs.ubc.ca/) de l'[Université de la Colombie-Britannique (UBC)](https://www.ubc.ca/).
-Je suis affilié au [Security & Privacy Group](https://spg.cs.ubc.ca/) de l'UBC et au [Systopia Lab](https://systopia.cs.ubc.ca/), le groupe de recherche en systèmes de l'UBC.
-Mes travaux portent sur la conception et la mise en œuvre de systèmes informatiques intrinsèquement observables et transparents.
-Mes intérêts de recherche incluent l'audit et la responsabilité des systèmes, la détection d'intrusion et l'optimisation des performances.
