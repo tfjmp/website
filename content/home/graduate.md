@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 75
+weight: 40
 
 title: Students & Postdocs
 subtitle:

@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 15
 
 title: Experience
 subtitle:
@@ -30,7 +30,7 @@ experience:
     date_start: '2026-09-01'
     date_end: ''
     description: Member of the [Department of Computer Science](https://www.cs.ox.ac.uk/), member of the [Security Theme](https://www.cs.ox.ac.uk/research/security/people.html), and the [Systems Theme](https://www.cs.ox.ac.uk/research/cyberphysical/people.html).
-    
+
   - title: Tutorial Fellow
     company: Brasenose College
     company_url: 'https://www.bnc.ox.ac.uk/'
@@ -39,7 +39,7 @@ experience:
     date_start: '2026-09-01'
     date_end: ''
     description: Tutorial Fellow in Computer Science and member of the Governing Body.
-    
+
   - title: Assistant Professor
     company: University of British Columbia
     company_url: 'https://www.cs.ubc.ca/'
