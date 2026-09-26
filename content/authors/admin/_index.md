@@ -96,5 +96,5 @@ highlight_name: true
 <style>body {text-align: justify}</style>
 
 I am an Associate Professor at the [University of Oxford](https://www.cs.ox.ac.uk/), where I am a member of the [Security](https://www.cs.ox.ac.uk/research/security/) and [Systems](https://www.cs.ox.ac.uk/research/cyberphysical/index.html) research themes.
-Previously, I was an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/) and remain affiliated with the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/) and the [Systopia Lab](https://systopia.cs.ubc.ca/), UBC's systems research group.
-My work focuses on the design and implementation of computer systems that are inherently secure, observable, and transparent. My research interests include system auditing and accountability, intrusion detection, and performance optimization.
+Previously, I was an Assistant Professor in the [Department of Computer Science](https://www.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/) and remain affiliated with the [UBC Security & Privacy Group](https://spg.cs.ubc.ca/) and the [Systopia Lab](https://systopia.cs.ubc.ca/).
+My research asks a fundamental question: **How do we make complex systems observable enough to secure, understand, and safely modify them?** I explore this question through work on system auditing and accountability, intrusion detection, and mechanisms for safely extending and optimizing complex systems.
