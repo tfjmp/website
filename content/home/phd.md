@@ -69,7 +69,9 @@ If you are planning to apply, please, do so through the [Oxford application syst
 **I cannot process** and will not review application packages sent by e-mail.
 I am happy to comment on your research proposal and its alignment with my research. However, **I will not discuss your chances of admission.**
 
-Please feel free to contact me, but be **specific and concise** when doing so.
+Please feel free to contact me, but be specific and concise. Please include **[Prospective Student]** in the subject line and briefly explain your research interests and why they align with my work.
+I receive many enquiries about research opportunities, and these guidelines help me keep track of them. Generic enquiries may not receive a response.
+Please direct questions about entry requirements (e.g., IELTS or TOEFL scores, grade/GPA requirements, etc.) to [graduate.admissions@cs.ox.ac.uk](mailto:graduate.admissions@cs.ox.ac.uk).
 {{% /callout %}}
 
 I welcome students from all backgrounds. First-generation students and students from underrepresented or marginalized groups are especially encouraged to apply.
