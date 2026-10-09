@@ -27,12 +27,12 @@ jobs:
             - run: 'git config --global user.name $GH_NAME'
             - run: 'git clone https://github.com/tfjmp/tfjmp.github.io'
             - run: 'ls'
-            - run: 'rsync -av public/ tfjmp.github.io'
+            - run: "rsync -av --delete --exclude='.git/' public/ tfjmp.github.io/"
             - run:
                 name: 'Publish on Github.'
                 command: |
                     cd tfjmp.github.io
-                    git add .
+                    git add -A
                     git status
                     if ! git diff-index --exit-code --quiet HEAD; then
                         echo 'Committing...'
