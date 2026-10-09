@@ -32,7 +32,7 @@ jobs:
                 name: 'Publish on Github.'
                 command: |
                     cd tfjmp.github.io
-                    git add -A
+                    git add .
                     git status
                     if ! git diff-index --exit-code --quiet HEAD; then
                         echo 'Committing...'
