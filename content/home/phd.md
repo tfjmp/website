@@ -51,28 +51,63 @@ subtitle = ""
 +++
 
 {{% callout info %}}
-I joined the University of Oxford in September 2026. I am actively recruiting DPhil students to join my lab, with expected start dates in 2027. I also welcome supervision enquiries from Oxford undergraduate and master’s students.
+**DPhil (PhD) opportunities for 2027**
+
+I am recruiting DPhil students to join my research group in the Department of Computer Science at the University of Oxford in 2027.
+Our research explores how to make complex computer systems observable enough to understand their behavior, detect attacks, and safely extend their functionality.
+If you are interested in research at the intersection of systems and security, I would be happy to hear from you.
 {{% /callout %}}
 
-{{% callout info %}}
-**Visiting Students and Collaborations**
+**Intrusion detection and investigation**
 
-I have had excellent experiences hosting visiting students and am always happy to consider new visits to my lab.
-Before reaching out, please review our current research and identify a clear alignment with your interests.
-Your message should include a concrete and feasible plan for the visit: the research question you would like to pursue, the expected timeline, any relevant funding arrangements, and how the collaboration would fit with our group's work.
-{{% /callout %}}
+How can we detect attacks from the traces they leave in computer systems and understand what happened?
+My research combines system provenance and machine learning to identify malicious behavior and reconstruct attacks.
+I am interested in making these approaches reliable in practice and producing evidence that helps security analysts investigate incidents.
 
-{{% callout warning %}}
+**System observability**
+
+How can we obtain a detailed, trustworthy view of what a system is doing without imposing excessive overhead?
+My research explores mechanisms for observing operating systems and cloud infrastructure, and ways to organize the resulting information so that we can understand system behavior, investigate problems, and establish accountability.
+
+**Who should apply**
+
+I welcome applicants who are curious about how computer systems work and want to investigate problems in security and observability.
+I particularly encourage applications from students with prior research experience, whether through a thesis, a research internship, or an independent research project.
+I would be interested to hear about the questions you explored, your contribution, and what you learned.
+Experience with operating systems, security, or machine learning is useful, but you do not need experience in every area.
+
+**Funding**
+
+I currently have one fully funded DPhil place for 2027 entry, available to applicants with Home fee status.
+Other applicants will need to secure [scholarship funding](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/scholarships).
+
+Most Oxford scholarships consider eligible applicants automatically when they apply by the [course's scholarship deadline](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science).
+Some awards require a separate application; use [Oxford's scholarship search](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search) to check eligibility and application requirements.
+I also encourage you to seek [external funding](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/scholarships), including scholarships from your home country that support study abroad.
+Start looking early, as each scheme has its own eligibility criteria and application deadlines.
+Admission and funding are separate decisions.
+
+**How to apply**
+
+For 2027 entry, submit your application by **12 noon UK time on December 2, 2026** to be considered for Oxford scholarships.
+The expected final application deadline is **12 noon UK time on March 2, 2027**.
+Apply through the [DPhil in Computer Science course page](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science) and name me as a prospective supervisor.
+
+Your application should include a [research proposal or statement of research interests](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science#completing-your-application) of up to **1,000 words**, excluding the bibliography.
+Describe the questions that interest you, the relevant research you have read, and how your interests connect with my group's work.
+A statement of research interests does not commit you to a fixed project; your plans can evolve during the DPhil.
+
 **Contacting me**
 
-If you are planning to apply, please, do so through the [Oxford application system](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science#completing-your-application).
-**I cannot process** and will not review application packages sent by e-mail.
-I am happy to comment on your research proposal and its alignment with my research. However, **I will not discuss your chances of admission.**
+You are welcome to [email me](mailto:thomas.pasquier@cs.ox.ac.uk) with **[Prospective Student]** in the subject line.
+Briefly describe your research interests and experience, and explain how they connect with my group's work.
 
-Please feel free to contact me, but be specific and concise. Please include **[Prospective Student]** in the subject line and briefly explain your research interests and why they align with my work.
-I receive many enquiries about research opportunities, and these guidelines help me keep track of them. Generic enquiries may not receive a response.
-Please direct questions about entry requirements (e.g., IELTS or TOEFL scores, grade/GPA requirements, etc.) to [graduate.admissions@cs.ox.ac.uk](mailto:graduate.admissions@cs.ox.ac.uk).
-{{% /callout %}}
+I am happy to comment on how your proposal or research interests fit with my group's work.
+I do not review full application packages by email or discuss your chances of admission.
+All applications must go through [Oxford's application system](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science#completing-your-application).
+Generic inquiries may not receive a response.
+
+For questions about entry requirements or other administrative matters, contact [graduate.admissions@cs.ox.ac.uk](mailto:graduate.admissions@cs.ox.ac.uk).
 
 I welcome students from all backgrounds. First-generation students and students from underrepresented or marginalized groups are especially encouraged to apply.
 Please visit the prospective applicants pages on the [Oxford website](https://www.ox.ac.uk/admissions/graduate/courses/research-courses) and the [Computer Science website](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science).
@@ -83,19 +118,21 @@ You can also find information about the [cost of living in Oxford](https://www.o
 * A [DPhil](https://en.wikipedia.org/wiki/Doctor_of_Philosophy) at Oxford is equivalent to a PhD.
 * You must apply [online](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science).
 * Your choice of college does not affect your ability to work with me.
-* Departmental admission and studentship/scholarship decisions are made in two separate phases.
-* You may be eligible for [EPSRC funding through the department](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html).
-* You should also apply separately for scholarships; see the [British Council scholarship page](https://study-uk.britishcouncil.org/scholarships-funding) and [Oxford's fees and funding page](https://www.ox.ac.uk/students/fees-funding).
-* Be proactive in applying for scholarships.
-* You should **apply for scholarships as early as possible**.
 
 
 ## Before applying
 
-* Understand the [many roles of a PhD advisor](https://arxiv.org/pdf/2510.08885).
-* Review my [publications](https://tfjmp.org/publication/).
-* Identify areas where our research interests align.
-* Note that I will not supervise students outside my areas of expertise.
-* Find a set of papers that align with your interests.
-* Read their abstracts.
-* Read at least a few of them in full.
+Before applying, identify and read recent papers relevant to your research interests.
+Useful starting points include the proceedings of leading conferences in:
+
+* **Security:** [USENIX Security](https://www.usenix.org/conferences/byname/108), [IEEE S&P](https://www.ieee-security.org/TC/SP-Index.html), [ACM CCS](https://www.sigsac.org/ccs.html), and [NDSS](https://www.ndss-symposium.org/).
+* **Systems:** [SOSP](https://sosp.org/) and [OSDI](https://www.usenix.org/conferences/byname/179).
+* **Machine learning and data mining:** [NeurIPS](https://proceedings.neurips.cc/), [ICML](https://icml.cc/Downloads), and [KDD](https://www.kdd.org/conferences).
+
+{{% callout info %}}
+**Visiting Students and Collaborations**
+
+I have had excellent experiences hosting visiting students and am always happy to consider new visits to my lab.
+Before reaching out, please review our current research and identify a clear alignment with your interests.
+Your message should include a concrete and feasible plan for the visit: the research question you would like to pursue, the expected timeline, any relevant funding arrangements, and how the collaboration would fit with our group's work.
+{{% /callout %}}
