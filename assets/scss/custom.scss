@@ -1,0 +1,45 @@
+#teaching {
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  th,
+  td {
+    padding: 0.5rem 0.6rem;
+    text-align: left;
+    vertical-align: top;
+    overflow-wrap: break-word;
+  }
+
+  th:first-child {
+    width: 55%;
+  }
+
+  th:nth-child(2) {
+    width: 17%;
+  }
+
+  th:nth-child(3) {
+    width: 28%;
+  }
+
+  @media (max-width: 575.98px) {
+    th,
+    td {
+      padding: 0.4rem;
+    }
+
+    th:first-child {
+      width: 46%;
+    }
+
+    th:nth-child(2) {
+      width: 23%;
+    }
+
+    th:nth-child(3) {
+      width: 31%;
+    }
+  }
+}
