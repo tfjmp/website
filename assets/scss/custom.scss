@@ -43,3 +43,116 @@
     }
   }
 }
+
+#graduate {
+  table {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    margin: 0 0 2rem;
+    font-size: 0.9rem;
+    border-collapse: collapse;
+  }
+
+  th,
+  td {
+    padding: 0.75rem 0.6rem;
+    text-align: left;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+  }
+
+  th {
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-bottom-width: 2px;
+  }
+
+  tbody tr:nth-child(odd) {
+    background: transparent;
+  }
+
+  td:first-child {
+    font-weight: 600;
+  }
+
+  th:first-child { width: 34%; }
+  th:nth-child(2) { width: 20%; }
+  th:nth-child(3) { width: 10%; }
+  th:nth-child(4) { width: 36%; }
+
+  table:first-of-type {
+    th:first-child { width: 34%; }
+    th:nth-child(2) { width: 20%; }
+    th:nth-child(3) { width: 46%; }
+  }
+
+  .people-detail {
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 0.8rem;
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: 0.85;
+  }
+
+  @media (max-width: 767.98px) {
+    table,
+    tbody,
+    tr,
+    td {
+      display: block;
+      width: 100%;
+    }
+
+    thead {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+    }
+
+    tbody tr {
+      padding: 0.8rem 0;
+      border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+    }
+
+    td {
+      padding: 0.2rem 0;
+      border: 0;
+    }
+
+    td:first-child {
+      margin-bottom: 0.3rem;
+      font-size: 1rem;
+    }
+
+    td:not(:first-child):not(:empty) {
+      display: grid;
+      grid-template-columns: 8rem minmax(0, 1fr);
+      gap: 0.5rem;
+    }
+
+    td::before {
+      font-weight: 600;
+      font-size: 0.8rem;
+    }
+
+    td:nth-child(2)::before { content: "Role"; }
+    td:nth-child(3)::before { content: "Year"; }
+    td:nth-child(4):not(:empty)::before { content: "Subsequent position"; }
+
+    table:first-of-type {
+      td:nth-child(2)::before { content: "Role"; }
+      td:nth-child(3)::before { content: "Start year"; }
+    }
+
+    td:empty {
+      display: none;
+    }
+  }
+}
