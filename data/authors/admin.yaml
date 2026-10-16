@@ -57,15 +57,24 @@ interests:
 education:
 - degree: PhD in Computer Science
   institution: University of Cambridge
+  institution_url: https://www.cam.ac.uk/
+  logo: icons/brands/cambridge.svg
   year: '2016'
 - degree: MPhil in Advanced Computer Science
   institution: University of Cambridge
+  institution_url: https://www.cam.ac.uk/
+  logo: icons/brands/cambridge.svg
   year: '2012'
 - degree: Diplôme d'Ingénieur
   institution: Institut Supérieur d'Electronique de Paris
+  institution_url: https://www.isep.fr/
+  logo: icons/brands/isep.svg
+  logo_dark: icons/brands/isep-white.svg
   year: '2011'
 - degree: Diplôme Universitaire de Technologie
   institution: Conservatoire National des Arts et Métiers
+  institution_url: https://www.cnam.fr/
+  logo: icons/brands/cnam.svg
   year: '2008'
 experience:
 - role: Associate Professor

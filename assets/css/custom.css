@@ -47,6 +47,14 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 #site-header .nav-link.active { text-decoration: underline; text-underline-offset: 0.3em; }
 footer a { color: var(--site-link); }
 .resume-biography .rounded-xl { background: var(--site-panel); border-color: var(--site-border); }
+.education-logo { flex: 0 0 3rem; }
+.education-logo img { display: block; width: 3rem; height: 3rem; object-fit: contain; color-scheme: light; }
+.education-logo img.education-logo-dark { display: none; }
+.dark .education-logo img { color-scheme: dark; }
+.dark .education-logo-themed img.education-logo-light { display: none; }
+.dark .education-logo-themed img.education-logo-dark { display: block; }
+.education-institution { color: var(--site-link); text-decoration: underline; text-underline-offset: 0.15em; }
+.education-institution:hover { text-decoration-thickness: 2px; }
 .resume-biography a.rounded-full, .resume-biography span.rounded-full {
   background: var(--site-panel);
   color: var(--site-link);
