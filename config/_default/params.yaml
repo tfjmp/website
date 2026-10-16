@@ -1,115 +1,149 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
-
-appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
-
-# SEO
-
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Thomas Pasquier is an Assistant Professor in Computer Science at the University of British Columbia.'
-    twitter: 'tfjmp'
-  analytics:
-    google_analytics: ''
-    google_tag_manager: 'GTM-W7M7XP3'
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
-
-# Site header
-
-header:
-  navbar:
+hugoblox:
+  schema: '2.0'
+  identity:
+    name: Thomas Pasquier
+    organization: ''
+    type: person
+    tagline: ''
+    description: My research interests include provenance, operating systems, distributed systems and intrusion detection.
+    social:
+      twitter: tfjmp
+  theme:
+    mode: system
+    pack: oxford
+    colors:
+      primary: ''
+      secondary: ''
+      neutral: ''
+    colors_light: {}
+    colors_dark: {}
+    surfaces:
+      background: ''
+      foreground: ''
+      header:
+        background: ''
+        foreground: ''
+      footer:
+        background: ''
+        foreground: ''
+  typography:
+    pack: academic
+  layout:
+    radius: md
+    spacing: spacious
+    avatar_shape: circle
+  header:
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
-
-# Site footer
-
-footer:
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
+    cta:
+      enable: false
+      text: ''
+      url: ''
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ''
   copyright:
-    notice: '&copy; 2017-{year} Thomas Pasquier'
+    notice: © 2017-{year} Thomas Pasquier. This work is licensed under {license}
     license:
-      enable: true
+      type: cc
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
-# Localization
-
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
-  math:
+  seo:
+    title: ''
+    location:
+      address:
+        street: ''
+        city: ''
+        region: ''
+        postal_code: ''
+        country: ''
+      coordinates:
+        latitude: null
+        longitude: null
+      phone: ''
+    ai:
+      allow:
+      - /
+      disallow: []
+      note: Guidance for AI crawlers - customize to match your public content.
+      contact: ''
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: false
+    citations:
+      style: apa
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
+  comments:
     enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/tfjmp/website'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
     provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
     giscus:
       repo: ''
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 0
-
-# Extensions
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+    disqus:
+      shortname: ''
+  analytics:
+    google:
+      measurement_id: ''
+    google_tag_manager:
+      container_id: ''
+    plausible:
+      domain: ''
+    fathom:
+      site_id: ''
+    pirsch:
+      site_id: ''
+    clarity:
+      project_id: ''
+    baidu:
+      site_id: ''
+  verification:
+    google: ''
+    bing: ''
+    baidu: ''
+    yandex: ''
+    pinterest: ''
+    naver: ''
+  repository:
+    enable: false
+    url: ''
+    branch: master
+    content_dir: content
+  locale:
+    date_format: Jan 2, 2006
+    time_format: 3:04 PM
+    address_format: en-us
+  security:
+    csp:
+      policy: ''
+      report_only: false
+    frame_options: allow
+    permissions_policy: ''
+  privacy:
+    enable: false
+    anonymize_analytics: true
+  debug:
+    enable: false
+    hud:
+      position: bottom-left
+      opacity: 1.0
+    export_logs: true
+  pro:
+    hide_attribution: false
+    affiliate_code: ''

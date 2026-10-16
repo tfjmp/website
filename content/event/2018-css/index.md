@@ -16,7 +16,7 @@ location = "Toronto, Canada"
 selected = false
 math = true
 
-url_pdf = "http://tfjmp.org/files/publications/ccs-2018.pdf"
+url_pdf = "/files/publications/2018-ccs.pdf"
 url_slides = ""
 url_video = ""
 

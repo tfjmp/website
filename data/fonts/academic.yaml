@@ -1,0 +1,28 @@
+hugoblox:
+  meta:
+    format: "hugoblox-font@1"
+    name: "Academic"
+    vendor: "hugoblox"
+    version: "1.0.0"
+    license: "MIT"
+    style: "serif"
+    description: "Traditional serif pairing for academic, research, and institutional sites"
+  families:
+    heading: "Lora"
+    body: "Source Serif 4"
+    code: "Source Code Pro"
+  weights:
+    heading: [400, 500, 600, 700]
+    body: [400, 600, 700]
+    code: [400]
+  leading:
+    heading: 1.2
+    body: 1.7
+    code: 1.5
+  tracking:
+    heading: "0"
+    body: "0"
+  variable:
+    heading: false
+    body: false
+    code: false

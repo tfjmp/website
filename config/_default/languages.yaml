@@ -1,16 +1,16 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
 en:
-  locale: en-GB
+  locale: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
-#  languageCode: zh-Hans
+#  locale: zh-Hans
 #  contentDir: content/zh
 #  title: Chinese website title...
 #  params:

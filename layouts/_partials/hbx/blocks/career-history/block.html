@@ -1,0 +1,32 @@
+<div class="site-section mx-auto px-6" data-pagefind-body>
+  <h2 class="section-title text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{{ .wcBlock.content.title }}</h2>
+  <div class="experience-list">
+    {{ range .wcBlock.content.items }}
+    <article class="experience-entry">
+      <div class="experience-date text-sm text-gray-500 dark:text-gray-400">
+        {{ time.Format "Jan 2006" .date_start }} – {{ if .date_end }}{{ time.Format "Jan 2006" .date_end }}{{ else }}Present{{ end }}
+      </div>
+      <div>
+        <div class="experience-heading">
+          <div>
+            <h3 class="text-xl font-semibold text-gray-900 dark:text-white">{{ .title }}</h3>
+            <div class="experience-org"><a href="{{ .company_url }}">{{ .company }}</a> · {{ .location }}</div>
+          </div>
+          {{ with .company_logo }}
+            {{ $logo := index site.Data.experience_logos . | default dict }}
+            {{ $light := $logo.light | default (printf "%s.svg" .) }}
+            {{ $dark := resources.Get (printf "media/icons/brands/%s" ($logo.dark | default $light)) }}
+            {{ with resources.Get (printf "media/icons/brands/%s" $light) }}
+              <div class="experience-logo{{ if $logo.dark }} experience-logo-themed{{ end }}" aria-hidden="true">
+                <img class="experience-logo-light" src="{{ .RelPermalink }}" alt="" width="72" height="72" loading="lazy">
+                {{ if $logo.dark }}<img class="experience-logo-dark" src="{{ $dark.RelPermalink }}" alt="" width="72" height="72" loading="lazy">{{ end }}
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
+        <div class="prose prose-slate dark:prose-invert max-w-none">{{ .description | markdownify }}</div>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,7 @@
+{{ $page := site.GetPage .wcBlock.content.page }}
+<div class="site-section mx-auto px-6" data-pagefind-body>
+  <h2 class="section-title text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{{ .wcBlock.content.title }}</h2>
+  {{ with $page }}
+    <div class="section-content prose prose-slate lg:prose-lg dark:prose-invert max-w-none">{{ .Content }}</div>
+  {{ end }}
+</div>

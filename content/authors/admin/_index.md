@@ -34,10 +34,10 @@ education:
   - course: MPhil in Advanced Computer Science
     institution: University of Cambridge
     year: 2012
-  - course: Diplôme d'Ingénieur (apprenticeship)
+  - course: Diplôme d'Ingénieur
     institution: Institut Supérieur d'Electronique de Paris
     year: 2011
-  - course: Diplôme Universitaire de Technologie (apprenticeship)
+  - course: Diplôme Universitaire de Technologie
     institution: Conservatoire National des Arts et Métiers
     year: 2008
 

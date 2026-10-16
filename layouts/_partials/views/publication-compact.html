@@ -1,0 +1,16 @@
+{{ $item := .item }}
+{{ $publication := partial "functions/resolve_publication.html" $item }}
+<article class="featured-publication" data-pagefind-body>
+  <div class="featured-publication-text">
+    <h3 class="text-xl font-bold text-gray-900 dark:text-white"><a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a></h3>
+    <div class="publication-authors">{{ partial "page_metadata_authors" $item }}</div>
+    <div class="publication-venue">{{ $publication.display_short | markdownify }} · {{ $item.Date.Format "2006" }}</div>
+    <p class="publication-summary">{{ $item.Summary | plainify }}</p>
+    <div class="flex flex-wrap gap-3">{{ partial "page_links" (dict "page" $item "is_list" 1) }}</div>
+  </div>
+  {{ with $item.Resources.GetMatch "featured*" }}
+    <a class="publication-image" href="{{ $item.RelPermalink }}" aria-label="{{ $item.Title }}">
+      <img src="{{ .RelPermalink }}" alt="{{ $item.Title }}" loading="lazy">
+    </a>
+  {{ end }}
+</article>

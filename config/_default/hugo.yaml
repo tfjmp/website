@@ -1,0 +1,75 @@
+title: Thomas Pasquier
+baseURL: https://tfjmp.org/
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+cascade:
+- target:
+    path: /slides/**
+    kind: page
+  outputs:
+  - HTML
+  - present
+build:
+  writeStats: true
+enableGitInfo: false
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles:
+- .ipynb_checkpoints$
+- \.Rmd$
+- \.Rmarkdown$
+- _cache$
+disableAliases: true
+outputs:
+  home:
+  - HTML
+  - RSS
+  - headers
+  - redirects
+  - backlinks
+  section:
+  - HTML
+  - RSS
+imaging:
+  resampleFilter: lanczos
+  anchor: smart
+  jpeg:
+    quality: 90
+  webp:
+    quality: 90
+    hint: picture
+  avif:
+    quality: 90
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+security:
+  _merge: deep
+  exec:
+    allow:
+    - ^(dart-)?sass$
+    - ^go$
+    - ^git$
+    - ^node$
+    - ^postcss$
+    - ^tailwindcss$
+sitemap:
+  _merge: deep
+permalinks:
+  event: /talk/:slug/
+  tags: /tag/:slug/
+  categories: /category/:slug/
+  publication_types: /publication-type/:slug/

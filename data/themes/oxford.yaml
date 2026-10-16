@@ -1,0 +1,34 @@
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "Oxford"
+    version: "1.0.0"
+  type: dual
+  light:
+    colors:
+      primary: "#002147"
+      secondary: "#B9D6F2"
+      neutral: "#002147"
+    surfaces:
+      background: "#F2F0F0"
+      foreground: "#002147"
+      header:
+        background: "#002147"
+        foreground: "#FFFFFF"
+      footer:
+        background: "#002147"
+        foreground: "#F2F0F0"
+  dark:
+    colors:
+      primary: "#002147"
+      secondary: "#B9D6F2"
+      neutral: "#002147"
+    surfaces:
+      background: "#002147"
+      foreground: "#F2F0F0"
+      header:
+        background: "#001A39"
+        foreground: "#FFFFFF"
+      footer:
+        background: "#001A39"
+        foreground: "#F2F0F0"

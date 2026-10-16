@@ -7,10 +7,21 @@ jobs:
         steps:
             - checkout
             - run: 'sudo apt update'
-            - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.166.0/hugo_extended_withdeploy_0.166.0_linux-amd64.deb'
-            - run: 'sudo apt -y install ./hugo_extended_withdeploy_0.166.0_linux-amd64.deb'
+            - run: 'wget https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_linux-amd64.deb'
+            - run: 'sudo apt -y install ./hugo_extended_withdeploy_0.168.0_linux-amd64.deb'
             - run: 'sudo apt -y install golang-go'
-            - run: 'hugo --logLevel info'
+            - run:
+                name: Install Node.js and pnpm
+                command: |
+                    curl --fail --location --output /tmp/node.tar.xz https://nodejs.org/dist/v24.19.0/node-v24.19.0-linux-x64.tar.xz
+                    echo '14b342e71204f811bde6153be8e04b62aef63c236fef92b55f9c83154b409647  /tmp/node.tar.xz' | sha256sum --check
+                    mkdir -p "$HOME/.local/node"
+                    tar -xJf /tmp/node.tar.xz --strip-components=1 -C "$HOME/.local/node"
+                    export PATH="$HOME/.local/node/bin:$PATH"
+                    echo 'export PATH="$HOME/.local/node/bin:$PATH"' >> "$BASH_ENV"
+                    npm install --global "$(node -p 'require("./package.json").packageManager')"
+            - run: 'pnpm install --frozen-lockfile --ignore-scripts'
+            - run: 'pnpm run build'
             - persist_to_workspace:
                 root: .
                 paths:
