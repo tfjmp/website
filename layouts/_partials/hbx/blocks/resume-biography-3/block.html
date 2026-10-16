@@ -82,9 +82,9 @@
   {{ end }}
 {{ end }}
 
-<div class="resume-biography py-8 px-4 sm:py-12 md:py-16 lg:py-24 xl:py-32 relative overflow-hidden">
+<div class="resume-biography py-8 sm:py-12 md:py-16 lg:py-24 xl:py-32 relative overflow-hidden">
   {{/* Add subtle top gradient for navbar transition */}}
-  <div class="max-w-7xl mx-auto">
+  <div class="site-section mx-auto px-6">
     <div class="grid grid-cols-1 md:grid-cols-12 gap-6 md:gap-8 items-start">
 
       {{/* Left Column: Flexible span */}}
@@ -427,7 +427,7 @@
             {{ end }}
             <h3 class="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white tracking-tight">{{ $education_heading | markdownify }}</h3>
           </div>
-          <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+          <div class="education-grid">
             {{ range $education }}
             {{ if reflect.IsMap . }}
             {{ $degree := "" }}
@@ -468,7 +468,7 @@
                   {{ end }}
                 </div>
                 {{ end }}
-                <div class="flex-1 flex-grow">
+                <div class="min-w-0 flex-1 flex-grow">
                   {{ if $degree }}
                   <p class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
                     {{ $degree }}

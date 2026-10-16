@@ -1,0 +1,47 @@
+{{ if .IsHome }}
+{{ $sections := slice
+  (dict "id" "publications" "title" "Publications" "url" "/research/")
+  (dict "id" "phd" "title" "Joining my lab" "url" "/lab/" "page" "sections/phd")
+  (dict "id" "graduate" "title" "Students & Postdocs" "url" "/lab/" "page" "sections/graduate")
+  (dict "id" "service" "title" "Service" "url" "/research/" "page" "sections/service")
+  (dict "id" "teaching" "title" "Teaching" "url" "/teaching/" "page" "sections/teaching")
+}}
+{{ $routes := dict }}
+<noscript>
+  <nav class="site-section page-links mx-auto px-6" aria-label="Moved sections">
+  {{ range $sections }}
+    {{ $url := .url | relURL }}
+    {{ $ids := slice .id }}
+    {{ with .page }}
+      {{ with site.GetPage . }}
+        {{ $ids = $ids | append .Fragments.Identifiers }}
+      {{ end }}
+    {{ end }}
+    {{ range $ids }}
+      {{ $routes = merge $routes (dict . (printf "%s#%s" $url .)) }}
+      <span id="{{ . }}"></span>
+    {{ end }}
+    <a href="{{ $url }}#{{ .id }}">{{ .title }}</a>
+  {{ end }}
+  </nav>
+</noscript>
+<script>
+(() => {
+  const destinations = {{ $routes | jsonify | safeJS }};
+  const followMovedSection = () => {
+    let fragment;
+    try {
+      fragment = decodeURIComponent(window.location.hash.slice(1));
+    } catch {
+      return;
+    }
+    if (!Object.prototype.hasOwnProperty.call(destinations, fragment)) return;
+    const destination = new URL(destinations[fragment], window.location.href);
+    destination.search = window.location.search;
+    window.location.replace(destination.href);
+  };
+  followMovedSection();
+  window.addEventListener('hashchange', followMovedSection);
+})();
+</script>
+{{ end }}

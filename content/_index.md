@@ -17,6 +17,23 @@ sections:
     avatar:
       size: medium
       shape: circle
+- block: content-collection
+  id: featured
+  content:
+    title: Representative Research
+    count: 0
+    filters:
+      folders:
+      - publication
+      featured_only: true
+    order: desc
+    archive:
+      enable: true
+      text: See all publications
+      link: /research/#publications
+  design:
+    view: publication-compact
+    columns: 2
 - block: career-history
   id: experience
   content:
@@ -99,56 +116,6 @@ sections:
       date_start: '2006-09-01'
       date_end: '2008-09-01'
       description: R&D Team member ([SRETT](https://www.srett.com/en/about-us/) specialize in industrial and health IoT solutions)
-- block: content-collection
-  id: featured
-  content:
-    title: Representative Research
-    count: 0
-    filters:
-      folders:
-      - publication
-      featured_only: true
-    order: desc
-  design:
-    view: publication-compact
-    columns: 2
-- block: content-collection
-  id: publications
-  content:
-    title: Recent Publications
-    count: 10
-    filters:
-      folders:
-      - publication
-      featured_only: false
-    order: desc
-    archive:
-      enable: true
-      text: See all publications
-      link: /publication/
-  design:
-    view: citation
-    columns: 2
-- block: section-content
-  id: phd
-  content:
-    title: Joining my lab
-    page: sections/phd
-- block: section-content
-  id: graduate
-  content:
-    title: Students & Postdocs
-    page: sections/graduate
-- block: section-content
-  id: service
-  content:
-    title: Service
-    page: sections/service
-- block: section-content
-  id: teaching
-  content:
-    title: Teaching
-    page: sections/teaching
 - block: section-content
   id: contact
   content:

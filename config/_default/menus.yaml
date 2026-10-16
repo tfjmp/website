@@ -1,22 +1,13 @@
 main:
 - name: Home
-  url: /#about
+  url: /
   weight: 10
-- name: Publications
-  url: /#featured
+- name: Research
+  url: /research/
+  weight: 20
+- name: Lab
+  url: /lab/
   weight: 30
-- name: Joining my lab
-  url: /#phd
-  weight: 40
-- name: Students
-  url: /#graduate
-  weight: 50
-- name: Service
-  url: /#service
-  weight: 60
 - name: Teaching
-  url: /#teaching
-  weight: 70
-- name: Contact
-  url: /#contact
-  weight: 80
+  url: /teaching/
+  weight: 40
