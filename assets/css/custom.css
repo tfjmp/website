@@ -46,6 +46,8 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 }
 #site-header .nav-link.active { text-decoration: underline; text-underline-offset: 0.3em; }
 footer a { color: var(--site-link); }
+#about { padding-top: clamp(2rem, 4vw, 3rem); }
+#about .resume-biography { padding-top: 0; }
 .resume-biography .rounded-xl { background: var(--site-panel); border-color: var(--site-border); }
 .resume-biography .prose, .resume-biography .bio-text { max-width: none; }
 .education-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 1.5rem; }

@@ -6,8 +6,6 @@ sections:
   id: about
   content:
     username: admin
-    headings:
-      about: Biography
   design:
     background:
       gradient_mesh:

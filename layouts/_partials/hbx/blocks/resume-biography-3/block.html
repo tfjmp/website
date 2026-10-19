@@ -350,22 +350,6 @@
         {{ end }}
         {{ with $bio_content }}
         <div class="mb-12">
-          <div class="flex items-center gap-4 mb-8">
-            <div class="flex-shrink-0 w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center">
-              {{ partial "functions/get_icon" (dict "name" "identification" "attributes" "class='w-6 h-6 text-primary-600 dark:text-primary-400'") }}
-            </div>
-            {{ $i18n_about := i18n "about_me" }}
-            {{ $about_default := cond (eq $i18n_about "about_me") "Professional Summary" $i18n_about }}
-            {{ $about_heading := $about_default }}
-            {{ $about_heading_raw := index $headings "about" }}
-            {{ if eq (printf "%T" $about_heading_raw) "string" }}
-              {{ $about_heading_raw = strings.TrimSpace $about_heading_raw }}
-              {{ if ne $about_heading_raw "" }}
-                {{ $about_heading = $about_heading_raw }}
-              {{ end }}
-            {{ end }}
-            <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white tracking-tight">{{ $about_heading }}</h2>
-          </div>
           <div class="prose prose-lg dark:prose-invert text-gray-800 dark:text-gray-200 text-base sm:text-lg leading-relaxed">
             <div class="bio-text" {{ if $bio_style }}{{ (printf "style=\"%s\"" $bio_style) | safeHTMLAttr }}{{ end }}>
               {{ . }}
@@ -425,7 +409,7 @@
                 {{ $education_heading = $education_heading_raw }}
               {{ end }}
             {{ end }}
-            <h3 class="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white tracking-tight">{{ $education_heading | markdownify }}</h3>
+            <h2 class="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 dark:text-white tracking-tight">{{ $education_heading | markdownify }}</h2>
           </div>
           <div class="education-grid">
             {{ range $education }}
@@ -522,7 +506,7 @@
                 {{ $interests_heading = $interests_heading_raw }}
               {{ end }}
             {{ end }}
-            <h3 class="text-xl font-bold text-gray-900 dark:text-white tracking-tight">{{ $interests_heading | markdownify }}</h3>
+            <h2 class="text-xl font-bold text-gray-900 dark:text-white tracking-tight">{{ $interests_heading | markdownify }}</h2>
           </div>
           <div class="flex flex-wrap gap-3">
             {{ range $interests }}
