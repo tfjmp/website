@@ -355,6 +355,13 @@
               {{ . }}
             </div>
           </div>
+          {{ with index $content "actions" }}
+          <div class="biography-actions">
+            {{ range . }}
+            <a class="biography-action{{ if .primary }} biography-action-primary{{ end }}" href="{{ .url | relLangURL }}">{{ .text }}</a>
+            {{ end }}
+          </div>
+          {{ end }}
         </div>
         {{ end }}
 

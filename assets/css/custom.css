@@ -50,6 +50,23 @@ footer a { color: var(--site-link); }
 #about .resume-biography { padding-top: 0; }
 .resume-biography .rounded-xl { background: var(--site-panel); border-color: var(--site-border); }
 .resume-biography .prose, .resume-biography .bio-text { max-width: none; }
+.biography-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.5rem; }
+.biography-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.75rem;
+  padding: 0.65rem 1.2rem;
+  border: 1px solid var(--site-link);
+  border-radius: 0.5rem;
+  color: var(--site-link);
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+.biography-action-primary { background: #002147; color: #FFFFFF; }
+.dark .biography-action-primary { background: #B9D6F2; color: #002147; }
+.biography-action:hover { text-decoration: underline; text-underline-offset: 0.2em; }
 .education-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 1.5rem; }
 .education-logo { flex: 0 0 3rem; }
 .education-logo img { display: block; width: 3rem; height: 3rem; object-fit: contain; color-scheme: light; }

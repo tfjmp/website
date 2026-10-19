@@ -6,6 +6,12 @@ sections:
   id: about
   content:
     username: admin
+    actions:
+    - text: Opportunities
+      url: /lab/#phd
+      primary: true
+    - text: Contact
+      url: /#contact
   design:
     background:
       gradient_mesh:
