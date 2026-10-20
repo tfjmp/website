@@ -8,7 +8,7 @@ sections:
     username: admin
     actions:
     - text: Opportunities
-      url: /lab/#phd
+      url: /lab/#opportunities
       primary: true
     - text: Contact
       url: /#contact
