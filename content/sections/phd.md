@@ -6,8 +6,6 @@ build:
 ---
 
 {{% callout info %}}
-**2027 entry**
-
 I am recruiting DPhil students to join my research group in the Department of Computer Science at the University of Oxford in 2027.
 Our research explores how to make complex computer systems observable enough to understand their behavior, detect attacks, and safely extend their functionality.
 If you are interested in research at the intersection of systems and security, I would be happy to hear from you.
