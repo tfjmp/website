@@ -9,11 +9,11 @@ build:
 
 | Name | Role | Start year |
 | --- | --- | --- |
-| [Tristan Bilot](https://tristanbilot.github.io/)<small class="people-detail">UBC</small> | Postdoc | 2026 |
-| [Soo Yee Lim](https://s00y33.github.io/)<small class="people-detail">UBC</small> | PhD student | 2021 |
-| [Xuechun Cao](https://joycecao11.github.io/)<small class="people-detail">UBC</small> | PhD student | 2022 |
-| [Cathy Liu](https://www.linkedin.com/in/cathy-liu-aa1b59250/)<small class="people-detail">UBC</small> | MSc student | 2026 |
-| [Robin Matheson](https://www.linkedin.com/in/robinmatheson/)<small class="people-detail">UBC</small> | MSc student | 2026 |
+| {{< person portrait="tristan-bilot" >}}[Tristan Bilot](https://tristanbilot.github.io/)<small class="people-detail">UBC</small>{{< /person >}} | Postdoc | 2026 |
+| {{< person portrait="soo-yee-lim" >}}[Soo Yee Lim](https://s00y33.github.io/)<small class="people-detail">UBC</small>{{< /person >}} | PhD student | 2021 |
+| {{< person portrait="xuechun-cao" >}}[Xuechun Cao](https://joycecao11.github.io/)<small class="people-detail">UBC</small>{{< /person >}} | PhD student | 2022 |
+| {{< person portrait="cathy-liu" >}}[Cathy Liu](https://www.linkedin.com/in/cathy-liu-aa1b59250/)<small class="people-detail">UBC</small>{{< /person >}} | MSc student | 2026 |
+| {{< person portrait="robin-matheson" >}}[Robin Matheson](https://www.linkedin.com/in/robinmatheson/)<small class="people-detail">UBC</small>{{< /person >}} | MSc student | 2026 |
 
 <!---
 ## Visiting Students
@@ -25,17 +25,17 @@ build:
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
-| [Baoxiang Jiang](https://dblp.org/pid/280/1210.html)<small class="people-detail">[Xi’an Jiaotong University](http://en.xjtu.edu.cn/)</small> | Visiting PhD | 2025 | |
-| [Tristan Bilot](https://tristanbilot.github.io/)<small class="people-detail">[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)</small> | Visiting PhD | 2024 | Postdoctoral Fellow, UBC |
+| {{< person portrait="baoxiang-jiang" >}}[Baoxiang Jiang](https://dblp.org/pid/280/1210.html)<small class="people-detail">[Xi’an Jiaotong University](http://en.xjtu.edu.cn/)</small>{{< /person >}} | Visiting PhD | 2025 | |
+| {{< person portrait="tristan-bilot" >}}[Tristan Bilot](https://tristanbilot.github.io/)<small class="people-detail">[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)</small>{{< /person >}} | Visiting PhD | 2024 | Postdoctoral Fellow, UBC |
 | [Wellison Raul Mariz Santos](https://www.linkedin.com/in/wellison-santos-476592131/?locale=en_US)<small class="people-detail">[UFPE](https://www.ufpe.br/)</small> | Visiting PhD | 2024 | Researcher and Professor, [CISSA/CESAR](https://www.cesar.org.br/web/english/cissa) |
 
 ### Master's students
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
-| [Tanya Prasad](https://www.tanya-prasad.com/)<small class="people-detail">UBC</small> | MSc | 2025 | Software Engineer, Amazon AWS |
-| [Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/)<small class="people-detail">UBC</small> | MSc | 2024 | Software Developer, Oracle Labs |
-| [Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en)<small class="people-detail">UBC</small> | MSc | 2024 | Security Analyst, WeBank |
+| {{< person portrait="tanya-prasad" >}}[Tanya Prasad](https://www.tanya-prasad.com/)<small class="people-detail">UBC</small>{{< /person >}} | MSc | 2025 | Software Engineer, Amazon AWS |
+| {{< person portrait="nichole-boufford" >}}[Nichole Boufford](https://www.linkedin.com/in/nichole-boufford/)<small class="people-detail">UBC</small>{{< /person >}} | MSc | 2024 | Software Developer, Oracle Labs |
+| {{< person portrait="jinyuan-liang" >}}[Jinyuan Liang](https://scholar.google.com/citations?user=A7VgVC8AAAAJ&hl=en)<small class="people-detail">UBC</small>{{< /person >}} | MSc | 2024 | Security Analyst, WeBank |
 | [Haley Li](https://hlyli.github.io/)<small class="people-detail">UBC<br>Co-supervised with [Mathias Lécuyer](http://mathias.lecuyer.me/)</small> | MSc | 2024 | Research Engineer, Huawei Canada |
 | [Mayank Tiwary](https://scholar.google.com/citations?user=xtMDCsQAAAAJ&hl=en)<small class="people-detail">UBC<br>Co-supervised with [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/)</small> | MSc | 2023 | Senior Member of Technical Staff, Salesforce |
 | [Bogdan Stelea](https://www.linkedin.com/in/bogdan-stelea/)<small class="people-detail">Bristol</small> | MEng | 2021 | Software Engineer, Amazon |
@@ -48,6 +48,8 @@ build:
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
-| [Lavanya Menon](https://www.linkedin.com/in/lavanya-menon-6973a01b2/)<small class="people-detail">UBC</small> | BSc | 2026 | Application Development Analyst, Citi |
-| [Anastasiia Beheni](https://www.linkedin.com/in/anastasiia-beheni/)<small class="people-detail">[Ukrainian Catholic University](https://ucu.edu.ua/en/)</small> | Visiting BSc | 2025 | Security Software Engineer, Samsung |
+| {{< person portrait="lavanya-menon" >}}[Lavanya Menon](https://www.linkedin.com/in/lavanya-menon-6973a01b2/)<small class="people-detail">UBC</small>{{< /person >}} | BSc | 2026 | Application Development Analyst, Citi |
+| {{< person portrait="anastasiia-beheni" >}}[Anastasiia Beheni](https://www.linkedin.com/in/anastasiia-beheni/)<small class="people-detail">[Ukrainian Catholic University](https://ucu.edu.ua/en/)</small>{{< /person >}} | Visiting BSc | 2025 | Security Software Engineer, Samsung |
 | Ziying Shao<small class="people-detail">Bristol</small> | BSc | 2019 | UG Researcher, Beijing Institute of Big Data Research |
+
+<small class="portrait-credit">Portraits courtesy of the <a href="https://spg.cs.ubc.ca/people/">UBC Security &amp; Privacy Group</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>). Nichole Boufford and Anastasiia Beheni portraits courtesy of <a href="https://systopia.cs.ubc.ca/people.html">Systopia</a>.</small>

@@ -1,0 +1,12 @@
+{{- $portrait := .Get "portrait" -}}
+{{- $image := resources.GetMatch (printf "media/people/%s.*" $portrait) -}}
+{{- if not $image -}}
+  {{- errorf "Missing portrait %q in %s" $portrait .Position -}}
+{{- else -}}
+  {{- $small := $image.Resize "96x webp q85" -}}
+  {{- $large := $image.Resize "192x webp q85" -}}
+  <span class="person-entry">
+    <img class="person-portrait" src="{{ $small.RelPermalink }}" srcset="{{ $small.RelPermalink }} 1x, {{ $large.RelPermalink }} 2x" width="{{ $small.Width }}" height="{{ $small.Height }}" alt="" loading="lazy" decoding="async">
+    <span class="person-content">{{ .Page.RenderString .Inner }}</span>
+  </span>
+{{- end -}}
