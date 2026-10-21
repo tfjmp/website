@@ -6,19 +6,13 @@ sections:
   id: teaching-overview
   content:
     title: Teaching
-    links:
-    - name: Oxford
-      url: '#oxford'
-    - name: UBC
-      url: '#ubc'
-    - name: Bristol
-      url: '#bristol'
   design:
     spacing:
-      padding: ['3rem', '0', '1.5rem', '0']
+      padding: ['0', '0', '0', '0']
 - block: section-content
   id: teaching
   content:
+    toc_children: true
     page: sections/teaching
   design:
     spacing:

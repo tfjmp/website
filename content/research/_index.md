@@ -6,18 +6,17 @@ sections:
   id: research
   content:
     title: Research
-    links:
-    - name: Publications
-      url: '#publications'
-    - name: Service
-      url: '#service'
   design:
     spacing:
-      padding: ['3rem', '0', '1.5rem', '0']
-- block: content-collection
+      padding: ['0', '0', '0', '0']
+- block: publication-list
   id: publications
   content:
     title: Publications
+    text: >-
+      My research explores how to make complex systems observable enough to secure,
+      understand, and safely modify them. I work on system auditing and accountability,
+      intrusion detection, and mechanisms for safely extending and optimizing complex systems.
     count: 0
     filters:
       folders:

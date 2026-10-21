@@ -1,0 +1,3 @@
+{{ $folders := .content.filters.folders | default (slice "publication") }}
+{{ $pages := where site.RegularPages "Section" "in" $folders }}
+{{ return ($pages.GroupByDate "2006") }}

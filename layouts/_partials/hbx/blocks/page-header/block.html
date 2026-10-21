@@ -1,5 +1,5 @@
 <div class="site-section page-header mx-auto px-6" data-pagefind-body>
-  <h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white">{{ .wcBlock.content.title }}</h1>
+  <h1 id="{{ $.wcIdentifier }}-heading" class="sr-only">{{ .wcBlock.content.title }}</h1>
   {{ with .wcBlock.content.links }}
   <nav class="page-links" aria-label="On this page">
     {{ range . }}

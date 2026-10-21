@@ -1,0 +1,7 @@
+{{ range . }}
+<li><a href="{{ .url }}">{{ .title }}</a>
+  {{ with .children }}
+  <ul class="contents-children">{{ partial "components/contents-items.html" . }}</ul>
+  {{ end }}
+</li>
+{{ end }}

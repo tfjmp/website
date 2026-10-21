@@ -6,6 +6,8 @@
   --site-panel: #FFFFFF;
   --site-border: #CAD4DE;
   --site-focus: #002147;
+  --site-section-width: 68rem;
+  --site-section-gutter: 1.5rem;
 }
 .dark {
   --site-link: #B9D6F2;
@@ -46,7 +48,10 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 }
 #site-header .nav-link.active { text-decoration: underline; text-underline-offset: 0.3em; }
 footer a { color: var(--site-link); }
-#about { padding-top: clamp(2rem, 4vw, 3rem); }
+#about {
+  margin-top: calc(-1 * var(--site-contents-height, 0px));
+  padding-top: calc(clamp(2rem, 4vw, 3rem) + var(--site-contents-height, 0px));
+}
 #about .resume-biography { padding-top: 0; }
 .resume-biography .rounded-xl { background: var(--site-panel); border-color: var(--site-border); }
 .resume-biography .prose, .resume-biography .bio-text { max-width: none; }
@@ -95,24 +100,21 @@ footer a { color: var(--site-link); }
   color: #002147;
 }
 .search-result:focus-visible { outline-color: var(--site-focus); }
-.site-section { width: 100%; max-width: 68rem; }
+.site-section { width: 100%; max-width: var(--site-section-width); padding-inline: var(--site-section-gutter); }
 .page-header { text-align: center; }
 .page-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem 1.5rem; margin-top: 1.25rem; }
 .page-links a { color: var(--site-link); text-decoration: underline; text-underline-offset: 0.2em; }
 .page-links a:hover { text-decoration-thickness: 2px; }
 .section-title { text-align: center; margin-bottom: 2.5rem; }
-#opportunities .site-section, #phd .site-section, #postdoc .site-section,
-#oxford-projects .site-section, #visiting .site-section, #contact .site-section { max-width: 52rem; }
 #opportunities .section-title { margin-bottom: 1rem; }
-#opportunities .page-links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); text-align: center; }
 .section-content p, .bio-text { text-align: justify; }
 .section-content a, .experience-org a { color: var(--color-primary-600); }
 .dark .section-content a, .dark .experience-org a { color: var(--color-primary-400); }
 .section-content a:hover, .experience-org a:hover { text-decoration: underline; }
 .section-content h2 { font-size: 1.65rem; margin-top: 2.5rem; }
 .section-content h3 { font-size: 1.25rem; }
-#phd .section-content h3, #postdoc .section-content h3 { font-size: 1.65rem; margin-top: 2.5rem; }
-#phd .section-content h4 { font-size: 1.25rem; }
+#phd .section-content h4, #postdoc .section-content h4, #oxford-projects .section-content h4 { font-size: 1.35rem; margin-top: 2.5rem; }
+#phd .section-content h5 { font-size: 1.1rem; }
 .experience-entry { display: grid; grid-template-columns: 11rem 1fr; gap: 2rem; padding: 1.5rem 0; border-bottom: 1px solid color-mix(in srgb, currentColor 15%, transparent); }
 .experience-date { padding-top: 0.25rem; }
 .experience-org { margin: 0.4rem 0 0.65rem; }
@@ -128,10 +130,11 @@ footer a { color: var(--site-link); }
 .contact-map { display: block; width: 100%; border: 1px solid var(--site-border); border-radius: 0.5rem; margin-top: 2rem; }
 .experience-entry .prose { font-size: 1rem; }
 .experience-entry .prose p { margin: 0; }
-.featured-publications { max-width: 64rem; }
+.featured-publications { max-width: calc(var(--site-section-width) - 2 * var(--site-section-gutter)); }
 .featured-publication { display: flex; gap: 2rem; padding: 2rem 0; border-bottom: 1px solid color-mix(in srgb, currentColor 15%, transparent); }
 .featured-publication-text { flex: 1; min-width: 0; }
-.featured-publication h3 { line-height: 1.4; margin-bottom: 0.6rem; }
+.featured-publication h3 { line-height: 1.4; margin-bottom: 0.6rem; text-align: justify; }
+.featured-publication h3 a { display: block; }
 .featured-publication h3 a:hover { color: var(--color-primary-600); }
 .dark .featured-publication h3 a:hover { color: var(--color-primary-400); }
 .publication-authors, .publication-venue { font-size: 0.9rem; opacity: 0.8; margin-bottom: 0.4rem; }
@@ -140,7 +143,6 @@ footer a { color: var(--site-link); }
 .publication-image img { width: 100%; height: auto; border-radius: 0.5rem; }
 section[id], .section-content [id] { scroll-margin-top: 6rem; }
 @media (max-width: 767.98px) {
-  #opportunities .page-links { grid-template-columns: 1fr; }
   .experience-entry { grid-template-columns: 1fr; gap: 0.5rem; }
   .experience-logo { flex-basis: 3.5rem; padding: 0.4rem; }
   .experience-logo img { height: 2.5rem; }
@@ -296,7 +298,6 @@ section[id], .section-content [id] { scroll-margin-top: 6rem; }
     border: 1px solid var(--site-border);
     object-fit: cover;
   }
-  .portrait-credit { display: block; margin-top: 1rem; color: var(--site-muted); font-size: 0.75rem; }
 
   .people-detail {
     display: block;
@@ -362,3 +363,73 @@ section[id], .section-content [id] { scroll-margin-top: 6rem; }
     td:nth-child(3)::before { content: "Term"; }
   }
 }
+#site-menu-toggle {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+#site-header :is(a, button):focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+#site-menu-toggle[aria-expanded="true"] #show-button { display: none; }
+#site-menu-toggle[aria-expanded="true"] #hide-button { display: block; }
+@media (max-width: 1023.98px) {
+  #site-menu-toggle[aria-expanded="true"] ~ #nav-menu { display: block; }
+}
+
+.research-introduction { max-width: none; margin: 0 0 1.75rem; }
+.publication-year { margin: 0 0 2.5rem; }
+.publication-year > h3 { margin-bottom: 1.25rem; }
+.publication-year-link { color: inherit; text-decoration: none; }
+.publication-year-link span { margin-left: 0.4em; color: var(--site-muted); font-size: 0.75em; opacity: 0; }
+.publication-year-link:hover span, .publication-year-link:focus-visible span { opacity: 1; }
+.publication-entry { margin-bottom: 1.5rem; }
+.publication-list [id], .hbb-section > div > [id] { scroll-margin-top: 6rem; }
+.landing-sections { min-width: 0; }
+.local-contents {
+  --site-panel: var(--hb-color-header-bg);
+  --site-link: var(--hb-color-header-fg);
+  --site-focus: var(--hb-color-header-fg);
+  width: 100%;
+  padding: 0;
+  text-align: left;
+  color: var(--site-link);
+  font-size: 0.85rem;
+  pointer-events: none;
+}
+.local-contents details { position: relative; width: fit-content; max-width: 100%; pointer-events: auto; }
+.local-contents details > summary { cursor: pointer; width: fit-content; min-height: 2.75rem; padding: 0.6rem 0.8rem; font-weight: 700; color: var(--site-link); background: var(--site-panel); border: 0; border-radius: 0 0 0.3rem 0; }
+.local-contents details[open] > summary { border-radius: 0; }
+.local-contents nav { position: absolute; top: 100%; left: 0; width: min(22rem, calc(100vw - 1.5rem)); padding: 0.5rem; max-height: min(65vh, var(--contents-available-height, 65vh)); overflow: auto; overscroll-behavior: contain; background: var(--site-panel); border: 0; border-radius: 0 0.3rem 0.3rem 0; box-shadow: 0 0.5rem 1.5rem #0002; }
+.local-contents li { margin: 0; }
+.local-contents a { display: block; padding: 0.65rem 0.5rem; color: var(--site-link); text-decoration: none; }
+.local-contents a:hover, .local-contents a:focus-visible { text-decoration: underline; }
+.local-contents .contents-children { margin-left: 0.75rem; padding-left: 0.5rem; }
+.local-contents .contents-children a { padding-top: 0.35rem; padding-bottom: 0.35rem; }
+.page-body :is(section[id], [id$="-heading"], .section-content [id], .publication-year > h3) { scroll-margin-top: 1rem; }
+.publication-groups { margin-top: 2rem; }
+.publication-filters { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 1.5fr) auto; gap: 1rem; align-items: end; margin: 2rem 0 1rem; }
+.publication-filters label { min-width: 0; font-size: 0.85rem; font-weight: 700; }
+.publication-filters :is(input, select, button) { width: 100%; min-height: 2.75rem; margin-top: 0.4rem; padding: 0.5rem 0.65rem; border: 1px solid var(--site-border); border-radius: 0.3rem; color: var(--site-link); background: var(--site-panel); font: inherit; font-weight: 400; }
+.publication-filters button { width: auto; cursor: pointer; font-size: 0.85rem; }
+.publication-count { grid-column: 1 / -1; margin: 0; color: var(--site-muted); font-size: 0.8rem; }
+.publication-empty { margin: 2rem 0; }
+.publication-list [hidden], .local-contents [hidden] { display: none !important; }
+.publication-filters :is(input, select, button):focus-visible, .local-contents :is(a, summary):focus-visible { outline: 2px solid var(--site-focus); outline-offset: 3px; }
+.local-contents summary:focus-visible { outline-offset: -3px; }
+@media (max-width: 767.98px) {
+  .publication-filters { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .publication-filters label:first-child { grid-column: 1 / -1; }
+  .publication-filters button { justify-self: start; }
+}
+.publication-return { margin: 0.75rem 0 1.5rem; font-size: 0.9rem; }
+.publication-return a { color: var(--site-link); text-decoration: underline; text-underline-offset: 0.2em; }
+.publication-page :is(.publication-feature, .publication-details, .publication-content, .publication-footer),
+.publication-footer > div { width: 100%; max-width: none; }
+.publication-details > div { min-width: 0; }
+.publication-abstract { text-align: justify; }
+
+/* Opportunity headings sit beneath Joining my lab in the page outline. */
+:is(#phd, #postdoc, #oxford-projects, #visiting) h3.section-title { text-align: left; font-size: 1.65rem; margin-bottom: 2rem; }
+#graduate .section-content h3 { font-size: 1.65rem; margin-top: 2.5rem; }
+#graduate .section-content h4 { font-size: 1.25rem; }

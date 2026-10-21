@@ -6,29 +6,13 @@ sections:
   id: lab
   content:
     title: Lab
-    links:
-    - name: Joining my lab
-      url: '#opportunities'
-    - name: Current members
-      url: '#current-members'
-    - name: Past students and visitors
-      url: '#past-students-and-visitors'
   design:
     spacing:
-      padding: ['3rem', '0', '1.5rem', '0']
+      padding: ['0', '0', '0', '0']
 - block: section-content
   id: opportunities
   content:
     title: Joining my lab
-    links:
-    - name: DPhil opportunities
-      url: '#phd'
-    - name: Postdoctoral fellowships
-      url: '#postdoc'
-    - name: Oxford student projects
-      url: '#oxford-projects'
-    - name: Visits and collaborations
-      url: '#visiting'
   design:
     spacing:
       padding: ['1.5rem', '0', '1.5rem', '0']
@@ -36,6 +20,7 @@ sections:
   id: phd
   content:
     title: DPhil opportunities
+    heading_level: 3
     page: sections/phd
   design:
     spacing:
@@ -44,6 +29,7 @@ sections:
   id: postdoc
   content:
     title: Postdoctoral fellowships
+    heading_level: 3
     page: sections/postdoc
   design:
     spacing:
@@ -52,6 +38,7 @@ sections:
   id: oxford-projects
   content:
     title: Oxford student projects
+    heading_level: 3
     page: sections/oxford-projects
   design:
     spacing:
@@ -60,6 +47,7 @@ sections:
   id: visiting
   content:
     title: Visits and collaborations
+    heading_level: 3
     page: sections/visiting
   design:
     spacing:
@@ -68,6 +56,7 @@ sections:
   id: graduate
   content:
     title: Students & Postdocs
+    toc_children: true
     page: sections/graduate
   design:
     spacing:

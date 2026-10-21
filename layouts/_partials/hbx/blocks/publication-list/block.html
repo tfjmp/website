@@ -1,0 +1,47 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $groups := partial "functions/publication-groups.html" $block }}
+{{ $types := slice }}
+{{ range $groups }}{{ range .Pages }}{{ range .Params.publication_types }}{{ $types = $types | append . }}{{ end }}{{ end }}{{ end }}
+<div class="site-section publication-list mx-auto px-6">
+  <div data-pagefind-body>
+    <h2 id="{{ .wcIdentifier }}-heading" class="section-title text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{{ $block.content.title }}</h2>
+    {{ with $block.content.text }}<div class="research-introduction prose dark:prose-invert max-w-none">{{ . | $page.RenderString }}</div>{{ end }}
+  </div>
+  <form class="publication-filters" aria-label="Filter publications" hidden data-pagefind-ignore>
+    <label for="{{ .wcIdentifier }}-query">Search publications
+      <input id="{{ .wcIdentifier }}-query" name="q" type="search" placeholder="Title, author, topic, or venue" autocomplete="off" aria-controls="publication-results">
+    </label>
+    <label for="{{ .wcIdentifier }}-year">Year
+      <select id="{{ .wcIdentifier }}-year" name="year" aria-controls="publication-results">
+        <option value="">All years</option>
+        {{ range $groups }}<option value="{{ .Key }}">{{ .Key }}</option>{{ end }}
+      </select>
+    </label>
+    <label for="{{ .wcIdentifier }}-type">Type
+      <select id="{{ .wcIdentifier }}-type" name="type" aria-controls="publication-results">
+        <option value="">All types</option>
+        {{ range sort (uniq $types) }}<option value="{{ . }}">{{ i18n (printf "pub_%s" (replace . "-" "_")) | default (humanize .) }}</option>{{ end }}
+      </select>
+    </label>
+    <button type="reset">Clear filters</button>
+    <p class="publication-count" role="status" aria-live="polite" aria-atomic="true"></p>
+  </form>
+  <p class="publication-empty" hidden>No publications match these filters.</p>
+  <div id="publication-results" class="publication-groups" data-pagefind-ignore>
+    {{ range $groups }}
+    {{ $year := .Key }}
+    <section class="publication-year" data-year="{{ $year }}" aria-labelledby="publications-{{ .Key }}">
+      <h3 id="publications-{{ .Key }}" class="text-2xl font-bold"><a class="publication-year-link" href="#publications-{{ .Key }}" title="Link to publications from {{ .Key }}">{{ .Key }}<span aria-hidden="true">#</span></a></h3>
+      {{ range $index, $item := .Pages }}
+        <div class="publication-entry" data-year="{{ $year }}" data-types="{{ $item.Params.publication_types | jsonify }}" data-search="{{ $item.Params.abstract | plainify }}">
+          {{ partial "functions/render_view" (dict "page" $page "item" $item "view" "citation" "index" $index) }}
+        </div>
+      {{ end }}
+    </section>
+    {{ end }}
+  </div>
+</div>
+{{ with resources.Get "js/publication-filters.js" | minify | fingerprint }}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+{{ end }}

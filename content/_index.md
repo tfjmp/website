@@ -5,6 +5,7 @@ sections:
 - block: resume-biography-3
   id: about
   content:
+    toc_title: Profile
     username: admin
     actions:
     - text: Opportunities
@@ -24,7 +25,7 @@ sections:
 - block: content-collection
   id: featured
   content:
-    title: Representative Research
+    title: Selected papers
     count: 0
     filters:
       folders:

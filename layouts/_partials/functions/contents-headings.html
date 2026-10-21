@@ -1,0 +1,10 @@
+{{ $items := slice }}
+{{ range . }}
+  {{ $children := partial "functions/contents-headings.html" .Headings }}
+  {{ if .Title }}
+    {{ $items = $items | append (dict "title" (.Title | plainify | htmlUnescape) "url" (printf "#%s" .ID) "children" $children) }}
+  {{ else }}
+    {{ range $children }}{{ $items = $items | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ return $items }}

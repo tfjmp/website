@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+{{ $is_publication := or (eq .Section "publication") (eq .Type "publications") }}
 {{ $pub_type_csl := "" }}
 {{ $pub_type_display := "" }}
 {{ if .Params.publication_types }}
@@ -13,10 +14,18 @@
 {{ partial "components/cover.html" . }}
 
 <div class="mx-auto flex max-w-screen-xl">
+  {{ if not $is_publication }}
   {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
-  {{ partial "components/toc.html" . }}
+  {{ end }}
   <article data-pagefind-body class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+    <main class="{{ if $is_publication }}publication-page site-section{{ else }}w-full max-w-6xl px-6 md:px-12{{ end }} min-w-0 pt-4">
+      {{ if .Params.publication_types }}
+        {{ with site.GetPage "/research" }}
+        <nav class="publication-return" aria-label="Publication navigation" data-pagefind-ignore>
+          <a href="{{ .RelPermalink }}#publications">All publications</a>
+        </nav>
+        {{ end }}
+      {{ end }}
 
       {{ if .Params.show_breadcrumb }}
       <div class="mb-4">
@@ -168,7 +177,11 @@
       {{ $image_container := "" }}
       {{ $responsive_sizes := slice }}
       {{ $sizes_attr := "" }}
-      {{ if eq $placement 2}}
+      {{ if $is_publication }}
+        {{ $image_container = "publication-feature" }}
+        {{ $responsive_sizes = slice 320 480 640 960 1040 1600 2080 }}
+        {{ $sizes_attr = "(max-width: 68rem) calc(100vw - 3rem), 65rem" }}
+      {{else if eq $placement 2}}
         {{ $image_container = "container" }}
         {{ $responsive_sizes = slice 480 768 1024 1200 1600 }}
         {{ $sizes_attr = "(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1200px) 80vw, 1200px" }}
@@ -203,7 +216,9 @@
       {{ else }}
         {{/* Pre-fit image to placement constraints, then apply responsive processing */}}
         {{ $fitted_image := $featured }}
-        {{ if eq $placement 2}}
+        {{ if $is_publication }}
+          {{ $fitted_image = $featured.Fit "2080x5000" }}
+        {{else if eq $placement 2}}
           {{ $fitted_image = $featured.Fit "1200x2500" }}
         {{else if eq $placement 3}}
           {{ $fitted_image = $featured.Fit "2560x2560" }}
@@ -218,7 +233,7 @@
         ) }}
         
         {{/* Featured image - use fitted image dimensions for container, responsive for srcset */}}
-        <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-16" style="max-width: {{$fitted_image.Width}}px; max-height: {{$fitted_image.Height}}px;">
+        <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-16"{{ if not $is_publication }} style="max-width: {{$fitted_image.Width}}px; max-height: {{$fitted_image.Height}}px;"{{ end }}>
           <div style="position: relative">
             <img srcset="{{ $responsive.srcset }}"
                  sizes="{{ $sizes_attr }}"
@@ -238,11 +253,11 @@
       {{/* EVENT / PUBLICATION METADATA */}}
       {{ $pub := partial "functions/resolve_publication.html" . }}
       {{ if .Params.abstract | or (eq .Type "publications") | or (eq .Type "events") }}
-        <div class="max-w-prose grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6">
+        <div class="{{ if $is_publication }}publication-details{{ else }}max-w-prose{{ end }} grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6">
 
         {{ if .Params.abstract }}
           <div class="font-bold text-2xl">{{ i18n "abstract" }}</div>
-          <div>{{ .Params.abstract | markdownify }}</div>
+          <div{{ if $is_publication }} class="publication-abstract"{{ end }}>{{ .Params.abstract | markdownify }}</div>
         {{ end }}
 
         {{/* If the type is Uncategorized, hide the type. */}}
@@ -329,7 +344,7 @@
       </div>
       {{ end }}
 
-      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+      <div class="{{ if $is_publication }}publication-content {{ end }}prose prose-slate lg:prose-xl dark:prose-invert">
         {{ with .Section }}
           <span data-pagefind-filter="type" style="display:none;">{{ . }}</span>
         {{ end }}
@@ -341,7 +356,7 @@
 
       {{ partial "components/last-edited.html" . }}
 
-      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+      <div class="{{ if $is_publication }}publication-footer{{ else }}container mx-auto{{ end }} prose prose-slate lg:prose-xl dark:prose-invert mt-5">
         {{ .Scratch.Set "invert_pager" true }}
         {{ partial "page_footer" . }}
       </div>

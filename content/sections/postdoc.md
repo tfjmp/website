@@ -10,13 +10,13 @@ I welcome inquiries from prospective postdoctoral researchers interested in appl
 If your interests align with [my research](/research/), I would be happy to discuss developing a fellowship proposal together.
 {{% /callout %}}
 
-### Developing a proposal
+#### Developing a proposal
 
 A fellowship is an opportunity to develop your own research ideas in collaboration with the group.
 Before getting in touch, please read some of my [recent publications](/research/#publications) and consider how your proposed work connects with them.
 I would be interested to hear about the questions you want to investigate, the experience you would bring, and the directions you would like to explore during the fellowship.
 
-### Getting in touch
+#### Getting in touch
 
 Please [email me](mailto:thomas.pasquier@cs.ox.ac.uk) with:
 
@@ -27,7 +27,7 @@ Please [email me](mailto:thomas.pasquier@cs.ox.ac.uk) with:
 Please get in touch several months before the application deadline.
 This gives us time to discuss the project, develop the proposal, and check any departmental requirements before submission.
 
-### Fellowship schemes
+#### Fellowship schemes
 
 Depending on your career stage and circumstances, schemes to consider include:
 
@@ -38,7 +38,7 @@ Depending on your career stage and circumstances, schemes to consider include:
 Please check the scheme's current eligibility rules and deadlines before contacting me.
 I am also happy to discuss other suitable fellowships you have identified.
 
-### College research fellowships
+#### College research fellowships
 
 Oxford colleges offer **Junior Research Fellowships (JRFs)** and equivalent early-career research opportunities under other titles, such as [Post-Doctoral Research Fellowships at All Souls](https://www.asc.ox.ac.uk/join-the-college/post-doctoral-research-fellowships).
 Eligible subjects, selection criteria, and application dates vary by college and competition.

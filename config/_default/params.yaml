@@ -86,8 +86,20 @@ hugoblox:
       style: apa
   search:
     enable: true
-    suggestions: []
-    quick_actions: []
+    suggestions:
+    - DPhil opportunities
+    - Postdoctoral fellowships
+    - Oxford student projects
+    - Visits and collaborations
+    quick_actions:
+    - title: Joining my lab
+      url: /lab/#opportunities
+      icon: academic-cap
+      description: Research opportunities and student projects
+    - title: Publications
+      url: /research/#publications
+      icon: document-text
+      description: Browse research papers
   comments:
     enable: false
     provider: ''

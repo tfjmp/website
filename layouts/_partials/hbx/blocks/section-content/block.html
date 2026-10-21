@@ -1,6 +1,7 @@
 <div class="site-section mx-auto px-6" data-pagefind-body>
   {{ with .wcBlock.content.title }}
-  <h2 class="section-title text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{{ . }}</h2>
+  {{ $level := cond (eq (int ($.wcBlock.content.heading_level | default 2)) 3) 3 2 }}
+  {{ printf "<h%d" $level | safeHTML }} id="{{ $.wcIdentifier }}-heading" class="section-title text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{{ . }}{{ printf "</h%d>" $level | safeHTML }}
   {{ end }}
   {{ with .wcBlock.content.links }}
   <nav class="page-links" aria-label="{{ $.wcBlock.content.title }}">

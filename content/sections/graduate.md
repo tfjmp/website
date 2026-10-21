@@ -5,7 +5,7 @@ build:
   list: never
 ---
 
-## Current members
+### Current members
 
 | Name | Role | Start year |
 | --- | --- | --- |
@@ -16,12 +16,12 @@ build:
 | {{< person portrait="robin-matheson" >}}[Robin Matheson](https://www.linkedin.com/in/robinmatheson/)<small class="people-detail">UBC</small>{{< /person >}} | MSc student | 2026 |
 
 <!---
-## Visiting Students
+### Visiting Students
 -->
 
-## Past students and visitors
+### Past members {#past-students-and-visitors}
 
-### Doctoral students
+#### Doctoral students
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ build:
 | {{< person portrait="tristan-bilot" >}}[Tristan Bilot](https://tristanbilot.github.io/)<small class="people-detail">[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)</small>{{< /person >}} | Visiting PhD | 2024 | Postdoctoral Fellow, UBC |
 | [Wellison Raul Mariz Santos](https://www.linkedin.com/in/wellison-santos-476592131/?locale=en_US)<small class="people-detail">[UFPE](https://www.ufpe.br/)</small> | Visiting PhD | 2024 | Researcher and Professor, [CISSA/CESAR](https://www.cesar.org.br/web/english/cissa) |
 
-### Master's students
+#### Master's students
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
@@ -44,12 +44,10 @@ build:
 | Xiaoxiao Wu<small class="people-detail">Bristol</small> | MSc | 2020 | Consultant, Deloitte |
 | [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/)<small class="people-detail">Bristol</small> | MSc | 2019 | Data Analyst, Bloomberg |
 
-### Undergraduate students
+#### Undergraduate students
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
 | {{< person portrait="lavanya-menon" >}}[Lavanya Menon](https://www.linkedin.com/in/lavanya-menon-6973a01b2/)<small class="people-detail">UBC</small>{{< /person >}} | BSc | 2026 | Application Development Analyst, Citi |
 | {{< person portrait="anastasiia-beheni" >}}[Anastasiia Beheni](https://www.linkedin.com/in/anastasiia-beheni/)<small class="people-detail">[Ukrainian Catholic University](https://ucu.edu.ua/en/)</small>{{< /person >}} | Visiting BSc | 2025 | Security Software Engineer, Samsung |
 | Ziying Shao<small class="people-detail">Bristol</small> | BSc | 2019 | UG Researcher, Beijing Institute of Big Data Research |
-
-<small class="portrait-credit">Portraits courtesy of the <a href="https://spg.cs.ubc.ca/people/">UBC Security &amp; Privacy Group</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>). Nichole Boufford and Anastasiia Beheni portraits courtesy of <a href="https://systopia.cs.ubc.ca/people.html">Systopia</a>.</small>

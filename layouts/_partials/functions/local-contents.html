@@ -1,0 +1,36 @@
+{{ $items := slice }}
+{{ if ne .Params.local_contents false }}
+  {{ if eq .Type "landing" }}
+    {{ range partial "hbx/sections.html" . }}
+      {{ if and .id (ne .block "page-header") (not .demo) }}
+        {{ $title := .content.toc_title | default .content.title }}
+        {{ $children := slice }}
+        {{ if eq .block "publication-list" }}
+          {{ range partial "functions/publication-groups.html" . }}
+            {{ $children = $children | append (dict "title" .Key "url" (printf "#publications-%s" .Key)) }}
+          {{ end }}
+        {{ else if .content.toc_children }}
+          {{ with site.GetPage .content.page }}
+            {{ $children = partial "functions/contents-headings.html" .Fragments.Headings }}
+          {{ end }}
+        {{ end }}
+        {{ if $title }}
+          {{ $item := dict "title" $title "url" (printf "#%s" .id) "children" $children }}
+          {{ if and (eq (int (.content.heading_level | default 2)) 3) (gt (len $items) 0) }}
+            {{ $parent := index $items (sub (len $items) 1) }}
+            {{ $siblings := $parent.children | default slice }}
+            {{ $parent = merge $parent (dict "children" ($siblings | append $item)) }}
+            {{ $items = (first (sub (len $items) 1) $items) | append $parent }}
+          {{ else }}
+            {{ $items = $items | append $item }}
+          {{ end }}
+        {{ else }}
+          {{ range $children }}{{ $items = $items | append . }}{{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ else if ne .Params.toc false }}
+    {{ $items = partial "functions/contents-headings.html" .Fragments.Headings }}
+  {{ end }}
+{{ end }}
+{{ return $items }}
