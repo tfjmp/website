@@ -25,4 +25,12 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/IC2EW.2016.29
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - David Eyers
+  publication_date: '2016'
+  conference_title: 2016 IEEE International Conference on Cloud Engineering Workshop (IC2EW)
+  firstpage: '112'
+  lastpage: '117'
 ---

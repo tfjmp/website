@@ -38,6 +38,18 @@ links:
 hugoblox:
   ids:
     doi: 10.1145/2988336.2988349
+citation:
+  authors:
+  - Jatinder Singh
+  - Thomas Pasquier
+  - Jean Bacon
+  - Julia Powles
+  - Raluca Diaconu
+  - David Eyers
+  publication_date: '2016'
+  conference_title: Proceedings of the 17th International Middleware Conference
+  firstpage: '1'
+  lastpage: '15'
 ---
 
 [University of Cambridge Computer Laboratory Publication of the Year Award](https://www.cl.cam.ac.uk/ring/awards.html)

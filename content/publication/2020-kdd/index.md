@@ -29,4 +29,16 @@ header:
 links:
 - type: pdf
   url: publications/2020-kdd.pdf
+citation:
+  authors:
+  - Ayat Fekry
+  - Lucian Carata
+  - Thomas Pasquier
+  - Andrew Rice
+  - Andy Hopper
+  publication_date: '2020'
+  conference_title: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining
+  doi: 10.1145/3394486.3403299
+  firstpage: '2494'
+  lastpage: '2504'
 ---

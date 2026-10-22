@@ -29,4 +29,17 @@ header:
 links:
 - type: pdf
   url: publications/2014-tr.pdf
+citation:
+  authors:
+  - Jatinder Singh
+  - Jean Bacon
+  - Jon Crowcroft
+  - Anil Madhavapeddy
+  - Thomas Pasquier
+  - W. Kuan Hon
+  - Christopher Millard
+  publication_date: '2014'
+  technical_report_institution: University of Cambridge, Computer Laboratory
+  technical_report_number: UCAM-CL-TR-863
+  issn: 1476-2986
 ---

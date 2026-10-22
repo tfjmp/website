@@ -34,4 +34,16 @@ links:
 hugoblox:
   ids:
     doi: 10.1038/s41597-022-01143-6
+citation:
+  authors:
+  - Ana Trisovic
+  - Matthew K. Lau
+  - Thomas Pasquier
+  - Mercè Crosas
+  publication_date: '2022'
+  journal_title: Scientific Data
+  volume: '9'
+  issue: '1'
+  firstpage: '60'
+  issn: 2052-4463
 ---

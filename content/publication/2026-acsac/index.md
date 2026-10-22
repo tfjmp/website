@@ -14,9 +14,9 @@ abstract: 'Detecting lateral movement (LM) within enterprise networks remains a 
   substantially improves precision over recent state-of-the-art methods, and delivers 10-100x faster inference.'
 authors:
 - T Bilot
+- N El Madhoun
 - A Zouaoui
 - K Al Agha
-- N El Madhoun
 - T Pasquier
 date: '2026-09-10'
 publishDate: '2017-01-01T00:00:00Z'
@@ -37,4 +37,13 @@ links:
   url: publications/2026-acsac.pdf
 - type: project
   url: https://github.com/TristanBilot/lares
+citation:
+  authors:
+  - Tristan Bilot
+  - Nour El Madhoun
+  - Anis Zouaoui
+  - Khaldoun Al Agha
+  - Thomas Pasquier
+  publication_date: '2026'
+  conference_title: Annual Computer Security Applications Conference (ACSAC'26)
 ---

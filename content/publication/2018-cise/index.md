@@ -33,4 +33,22 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/MCSE.2018.042781334
+citation:
+  authors:
+  - Thomas Pasquier
+  - Matthew K. Lau
+  - Xueyuan Han
+  - Elizabeth Fong
+  - Barbara S. Lerner
+  - Emery R. Boose
+  - Mercè Crosas
+  - Aaron M. Ellison
+  - Margo Seltzer
+  publication_date: '2018'
+  journal_title: Computing in Science & Engineering
+  volume: '20'
+  issue: '4'
+  firstpage: '111'
+  lastpage: '124'
+  issn: 1521-9615
 ---

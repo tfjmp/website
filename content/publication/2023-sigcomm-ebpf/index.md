@@ -29,5 +29,14 @@ links:
   url: https://github.com/UBC-BPF
 hugoblox:
   ids:
-    doi: 10.1145/3609021
+    doi: 10.1145/3609021.3609301
+citation:
+  authors:
+  - Soo Yee Lim
+  - Xueyuan Han
+  - Thomas Pasquier
+  publication_date: '2023'
+  conference_title: Proceedings of the 1st Workshop on eBPF and Kernel Extensions
+  firstpage: '42'
+  lastpage: '48'
 ---

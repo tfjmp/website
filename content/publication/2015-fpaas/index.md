@@ -28,4 +28,13 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/IC2E.2015.64
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - Jatinder Singh
+  - Jean Bacon
+  publication_date: '2015'
+  conference_title: 2015 IEEE International Conference on Cloud Engineering
+  firstpage: '279'
+  lastpage: '282'
 ---

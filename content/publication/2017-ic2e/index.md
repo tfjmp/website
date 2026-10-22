@@ -30,4 +30,13 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/IC2E.2017.13
+citation:
+  authors:
+  - Thomas Pasquier
+  - David Eyers
+  - Jean Bacon
+  publication_date: '2017'
+  conference_title: 2017 IEEE International Conference on Cloud Engineering (IC2E)
+  firstpage: '197'
+  lastpage: '203'
 ---

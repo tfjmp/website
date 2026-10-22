@@ -19,7 +19,7 @@ authors:
 - J Rhee
 - J Mickens
 - M Seltzer
-- C Haifeng
+- H Chen
 date: '2021-08-11'
 publishDate: '2017-01-01T00:00:00Z'
 image_preview: ''
@@ -37,6 +37,21 @@ header:
 links:
 - type: pdf
   url: publications/2021-usenixsec.pdf
+citation:
+  authors:
+  - Xueyuan Han
+  - Xiao Yu
+  - Thomas Pasquier
+  - Ding Li
+  - Junghwan Rhee
+  - James Mickens
+  - Margo Seltzer
+  - Haifeng Chen
+  publication_date: '2021'
+  conference_title: 30th USENIX Security Symposium (USENIX Security 2021)
+  firstpage: '2345'
+  lastpage: '2362'
+  isbn: 978-1-939133-24-3
 ---
 
 <div align="center">

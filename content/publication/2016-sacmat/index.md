@@ -31,4 +31,14 @@ links:
 hugoblox:
   ids:
     doi: 10.1145/2914642.2914662
+citation:
+  authors:
+  - Thomas Pasquier
+  - Jean Bacon
+  - Jatinder Singh
+  - David Eyers
+  publication_date: '2016'
+  conference_title: Proceedings of the 21st ACM on Symposium on Access Control Models and Technologies
+  firstpage: '81'
+  lastpage: '88'
 ---

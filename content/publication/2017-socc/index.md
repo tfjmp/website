@@ -41,4 +41,17 @@ links:
 hugoblox:
   ids:
     doi: 10.1145/3127479.3129249
+citation:
+  authors:
+  - Thomas Pasquier
+  - Xueyuan Han
+  - Mark Goldstein
+  - Thomas Moyer
+  - David Eyers
+  - Margo Seltzer
+  - Jean Bacon
+  publication_date: '2017'
+  conference_title: Proceedings of the 2017 Symposium on Cloud Computing
+  firstpage: '405'
+  lastpage: '418'
 ---

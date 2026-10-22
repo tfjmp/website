@@ -30,4 +30,13 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/RIOT.2015.7104903
+citation:
+  authors:
+  - Jatinder Singh
+  - Thomas F. J.-M. Pasquier
+  - Jean Bacon
+  publication_date: '2015'
+  conference_title: 2015 International Conference on Recent Advances in Internet of Things (RIoT)
+  firstpage: '1'
+  lastpage: '6'
 ---

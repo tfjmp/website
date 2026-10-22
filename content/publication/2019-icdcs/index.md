@@ -31,5 +31,16 @@ links:
   url: publications/2019-icdcs.pdf
 hugoblox:
   ids:
-    doi: 10.1109/ICDCS.2019.00188
+    doi: 10.1109/ICDCS.2019.00189
+citation:
+  authors:
+  - Ayat Fekry
+  - Lucian Carata
+  - Thomas Pasquier
+  - Andrew Rice
+  - Andy Hopper
+  publication_date: '2019'
+  conference_title: 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)
+  firstpage: '1912'
+  lastpage: '1919'
 ---

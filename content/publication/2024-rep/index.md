@@ -35,4 +35,17 @@ header:
 links:
 - type: pdf
   url: publications/2024-rep.pdf
+citation:
+  authors:
+  - Nichole Boufford
+  - Joseph Wonsil
+  - Adam Pocock
+  - Jack Sullivan
+  - Margo Seltzer
+  - Thomas Pasquier
+  publication_date: '2024'
+  conference_title: Proceedings of the 2nd ACM Conference on Reproducibility and Replicability
+  doi: 10.1145/3641525.3663617
+  firstpage: '1'
+  lastpage: '19'
 ---

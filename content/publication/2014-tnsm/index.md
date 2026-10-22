@@ -20,7 +20,7 @@ image_preview: ''
 math: true
 publication_types:
 - article-journal
-publication: In *Transactions on Network and System Management, SI Cloud Service Management*, IEEE.
+publication: In *Transactions on Network and Service Management*, IEEE.
 publication_short: In *TNSM*
 featured: false
 title: Information Flow Control for Secure Cloud Computing
@@ -33,4 +33,19 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/TNSM.2013.122313.130423
+citation:
+  authors:
+  - Jean Bacon
+  - David Eyers
+  - Thomas F. J.-M. Pasquier
+  - Jatinder Singh
+  - Ioannis Papagiannis
+  - Peter Pietzuch
+  publication_date: '2014'
+  journal_title: IEEE Transactions on Network and Service Management
+  volume: '11'
+  issue: '1'
+  firstpage: '76'
+  lastpage: '89'
+  issn: 1932-4537
 ---

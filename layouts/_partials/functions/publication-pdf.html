@@ -1,0 +1,22 @@
+{{- $page := . -}}
+{{- $pdf := false -}}
+{{- $links := where .Params.links "type" "pdf" -}}
+{{- with $links -}}
+  {{- $url := (index . 0).url -}}
+  {{- $pdf = or ($page.Resources.Get $url) (resources.Get (strings.TrimPrefix "/" $url)) -}}
+  {{- if not $pdf -}}
+    {{- errorf "Publication %s: PDF resource %q was not found" $page.RelPermalink $url -}}
+  {{- end -}}
+{{- else -}}
+  {{- $pdfs := $page.Resources.Match "*.pdf" -}}
+  {{- if eq (len $pdfs) 1 -}}
+    {{- $pdf = index $pdfs 0 -}}
+  {{- else -}}
+    {{- errorf "Publication %s requires one PDF link or one bundled PDF" $page.RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- with $pdf -}}
+  {{- $directory := strings.TrimPrefix site.Home.RelPermalink $page.RelPermalink -}}
+  {{- $pdf = resources.Copy (path.Join $directory (path.Base .Name)) . -}}
+{{- end -}}
+{{- return $pdf -}}

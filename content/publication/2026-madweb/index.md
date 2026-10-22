@@ -14,7 +14,7 @@ authors:
 - T Prasad
 - R Vora
 - SY Lim
-- NP Phong
+- N P Hoang
 - T Pasquier
 date: '2026-02-02'
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,7 +25,7 @@ publication_types:
 publication: In *Workshop on Measurements, Attacks, and Defenses for the Web* (MADWeb) 2026.
 publication_short: '*MADWeb''26*'
 featured: false
-title: 'RegTrack: Uncovering Global Disparities in Third-party Advertising and Tracking'
+title: 'Work-in-Progress: RegTrack: Uncovering Global Disparities in Third-party Advertising and Tracking'
 doi: ''
 header:
   image: ''
@@ -35,4 +35,14 @@ links:
   url: publications/2026-madweb.pdf
 - type: project
   url: https://github.com/ubc-spg/RegTrack
+citation:
+  authors:
+  - Tanya Prasad
+  - Rut Vora
+  - Soo Yee Lim
+  - Nguyen Phong Hoang
+  - Thomas Pasquier
+  publication_date: '2026'
+  conference_title: Proceedings 2026 Workshop on Measurements, Attacks, and Defenses for the Web
+  doi: 10.14722/madweb.2026.23010
 ---

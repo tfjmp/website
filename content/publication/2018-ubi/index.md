@@ -32,4 +32,19 @@ links:
 hugoblox:
   ids:
     doi: 10.1007/s00779-017-1067-4
+citation:
+  authors:
+  - Thomas Pasquier
+  - Jatinder Singh
+  - Julia Powles
+  - David Eyers
+  - Margo Seltzer
+  - Jean Bacon
+  publication_date: '2018'
+  journal_title: Personal and Ubiquitous Computing
+  volume: '22'
+  issue: '2'
+  firstpage: '333'
+  lastpage: '344'
+  issn: 1617-4909
 ---

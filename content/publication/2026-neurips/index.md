@@ -37,4 +37,11 @@ links:
   url: publications/2026-neurips.pdf
 - type: project
   url: https://github.com/ubc-provenance/PIDSMaker
+citation:
+  authors:
+  - Tristan Bilot
+  - Xueyuan Han
+  - Thomas Pasquier
+  publication_date: '2026'
+  conference_title: 40th Conference on Neural Information Processing Systems (NeurIPS 2026)
 ---

@@ -31,6 +31,17 @@ links:
   url: publications/2024-ccsw.pdf
 - type: project
   url: https://github.com/UBC-BPF
+citation:
+  authors:
+  - Soo Yee Lim
+  - Tanya Prasad
+  - Xueyuan Han
+  - Thomas Pasquier
+  publication_date: '2024'
+  conference_title: Proceedings of the 2024 on Cloud Computing Security Workshop
+  doi: 10.1145/3689938.3694781
+  firstpage: '80'
+  lastpage: '94'
 ---
 
 <div align="center">

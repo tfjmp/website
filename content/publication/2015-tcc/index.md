@@ -39,4 +39,17 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/TCC.2015.2489211
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - Jatinder Singh
+  - David Eyers
+  - Jean Bacon
+  publication_date: '2017'
+  journal_title: IEEE Transactions on Cloud Computing
+  volume: '5'
+  issue: '3'
+  firstpage: '472'
+  lastpage: '484'
+  issn: 2168-7161
 ---

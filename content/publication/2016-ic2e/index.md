@@ -32,4 +32,14 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/IC2E.2016.19
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - Jatinder Singh
+  - Jean Bacon
+  - David Eyers
+  publication_date: '2016'
+  conference_title: 2016 IEEE International Conference on Cloud Engineering (IC2E)
+  firstpage: '42'
+  lastpage: '51'
 ---

@@ -18,7 +18,7 @@ publishDate: '2017-01-01T00:00:00Z'
 image_preview: ''
 math: true
 publication_types:
-- paper-conference
+- article-journal
 publication: In *USENIX ;login:*.
 publication_short: '*USENIX ;login:*'
 featured: false
@@ -32,4 +32,10 @@ links:
   url: publications/2025-usenix-login.pdf
 - type: project
   url: https://github.com/ubc-provenance
+citation:
+  authors:
+  - Tristan Bilot
+  - Thomas Pasquier
+  publication_date: '2025'
+  journal_title: 'USENIX ;login:'
 ---

@@ -30,4 +30,13 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/CloudCom.2014.11
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - Jean Bacon
+  - David Eyers
+  publication_date: '2014'
+  conference_title: 2014 IEEE 6th International Conference on Cloud Computing Technology and Science
+  firstpage: '70'
+  lastpage: '77'
 ---

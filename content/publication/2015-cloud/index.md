@@ -30,4 +30,14 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/CLOUD.2015.76
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - Jatinder Singh
+  - Jean Bacon
+  - Olivier Hermant
+  publication_date: '2015'
+  conference_title: 2015 IEEE 8th International Conference on Cloud Computing
+  firstpage: '524'
+  lastpage: '531'
 ---

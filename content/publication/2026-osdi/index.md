@@ -34,4 +34,19 @@ links:
   url: publications/2026-osdi.pdf
 - type: project
   url: https://github.com/Orange-OpenSource/Goodkit
+citation:
+  authors:
+  - Dufy Teguia
+  - Louis Duval
+  - Teo Pisenti
+  - Kahina Lazri
+  - Daniel Hagimont
+  - Thomas Pasquier
+  - Renaud Lachaize
+  - Alain Tchana
+  publication_date: '2026'
+  conference_title: 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)
+  firstpage: '1749'
+  lastpage: '1767'
+  isbn: 978-1-939133-55-7
 ---

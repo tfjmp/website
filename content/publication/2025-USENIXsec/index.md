@@ -41,6 +41,21 @@ links:
   url: publications/2025-usenixsec.pdf
 - type: project
   url: https://github.com/ubc-provenance
+citation:
+  authors:
+  - Baoxiang Jiang
+  - Tristan Bilot
+  - Nour El Madhoun
+  - Khaldoun Al Agha
+  - Anis Zouaoui
+  - Shahrear Iqbal
+  - Xueyuan Han
+  - Thomas Pasquier
+  publication_date: '2025'
+  conference_title: 34th USENIX Security Symposium (USENIX Security 2025)
+  firstpage: '7173'
+  lastpage: '7192'
+  isbn: 978-1-939133-52-6
 ---
 
 <div align="center">

@@ -30,6 +30,18 @@ header:
 links:
 - type: pdf
   url: files/publications/2020-precs.pdf
+citation:
+  authors:
+  - Xueyuan Han
+  - James Mickens
+  - Ashish Gehani
+  - Margo Seltzer
+  - Thomas Pasquier
+  publication_date: '2020'
+  conference_title: Proceedings of the 3rd International Workshop on Practical Reproducible Evaluation of Computer Systems
+  doi: 10.1145/3391800.3398175
+  firstpage: '27'
+  lastpage: '32'
 ---
 
 <div align="center">

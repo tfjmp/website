@@ -37,4 +37,14 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/CloudCom49646.2020.00001
+citation:
+  authors:
+  - Chetankumar Mistry
+  - Bogdan Stelea
+  - Vijay Kumar
+  - Thomas Pasquier
+  publication_date: '2020'
+  conference_title: 2020 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)
+  firstpage: '25'
+  lastpage: '32'
 ---

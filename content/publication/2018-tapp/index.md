@@ -24,4 +24,11 @@ header:
 links:
 - type: pdf
   url: publications/2018-tapp.pdf
+citation:
+  authors:
+  - Xueyuan Han
+  - Thomas Pasquier
+  - Margo Seltzer
+  publication_date: '2018'
+  conference_title: 10th USENIX Workshop on the Theory and Practice of Provenance (TaPP 2018)
 ---

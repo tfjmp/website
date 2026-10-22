@@ -40,4 +40,18 @@ links:
   url: publications/2024-sp.pdf
 - type: project
   url: https://github.com/ubc-provenance
+citation:
+  authors:
+  - Zijun Cheng
+  - Qiujian Lv
+  - Jinyuan Liang
+  - Yan Wang
+  - Degang Sun
+  - Thomas Pasquier
+  - Xueyuan Han
+  publication_date: '2024'
+  conference_title: 2024 IEEE Symposium on Security and Privacy (SP)
+  doi: 10.1109/sp54263.2024.00005
+  firstpage: '3533'
+  lastpage: '3551'
 ---

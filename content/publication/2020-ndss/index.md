@@ -30,6 +30,16 @@ header:
 links:
 - type: pdf
   url: publications/2020-ndss.pdf
+citation:
+  authors:
+  - Xueyuan Han
+  - Thomas Pasquier
+  - Adam Bates
+  - James Mickens
+  - Margo Seltzer
+  publication_date: '2020'
+  conference_title: Proceedings 2020 Network and Distributed System Security Symposium
+  doi: 10.14722/ndss.2020.24046
 ---
 
 <div align="center">

@@ -26,4 +26,14 @@ links:
   url: publications/2024-sp-supp.pdf
 - type: project
   url: https://github.com/ubc-provenance
+citation:
+  authors:
+  - Zijun Cheng
+  - Qiujian Lv
+  - Jinyuan Liang
+  - Yan Wang
+  - Degang Sun
+  - Thomas Pasquier
+  - Xueyuan Han
+  publication_date: '2024'
 ---

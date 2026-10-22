@@ -29,4 +29,17 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/MCC.2015.69
+citation:
+  authors:
+  - Jatinder Singh
+  - Julia Powles
+  - Thomas Pasquier
+  - Jean Bacon
+  publication_date: '2015'
+  journal_title: IEEE Cloud Computing
+  volume: '2'
+  issue: '4'
+  firstpage: '24'
+  lastpage: '32'
+  issn: 2325-6095
 ---

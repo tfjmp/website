@@ -30,6 +30,17 @@ header:
 links:
 - type: pdf
   url: publications/2021-socc.pdf
+citation:
+  authors:
+  - Soo Yee Lim
+  - Bogdan Stelea
+  - Xueyuan Han
+  - Thomas Pasquier
+  publication_date: '2021'
+  conference_title: Proceedings of the ACM Symposium on Cloud Computing
+  doi: 10.1145/3472883.3486976
+  firstpage: '518'
+  lastpage: '532'
 ---
 
 <div align="center">

@@ -26,4 +26,16 @@ links:
 hugoblox:
   ids:
     doi: 10.1145/3322933
+citation:
+  authors:
+  - Thomas Pasquier
+  - David Eyers
+  - Jean Bacon
+  publication_date: '2019'
+  journal_title: Communications of the ACM
+  volume: '62'
+  issue: '6'
+  firstpage: '32'
+  lastpage: '34'
+  issn: 0001-0782
 ---

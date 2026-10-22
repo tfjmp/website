@@ -32,4 +32,12 @@ links:
   url: publications/2020-bigdata.pdf
 - type: slides
   url: slides/2020-bigdata.pdf
+citation:
+  authors:
+  - Ayat Fekry
+  - Lucian Carata
+  - Thomas Pasquier
+  - Andrew Rice
+  publication_date: '2020'
+  conference_title: International Conference on Big Data (BigData'20)
 ---

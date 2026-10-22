@@ -1,0 +1,23 @@
+{{- if and .IsPage (or (eq .Section "publication") (eq .Type "publications")) -}}
+  {{- $citation := .Params.citation -}}
+  {{- if not (and $citation.authors $citation.publication_date) -}}
+    {{- errorf "Publication %s requires citation.authors and citation.publication_date" .RelPermalink -}}
+  {{- end -}}
+  <meta name="citation_title" content="{{ .Title }}">
+  {{- range $citation.authors }}
+  <meta name="citation_author" content="{{ . }}">
+  {{- end }}
+  <meta name="citation_publication_date" content="{{ $citation.publication_date }}">
+  {{- range $field := slice "journal_title" "conference_title" "volume" "issue" "firstpage" "lastpage" "issn" "isbn" "technical_report_institution" "technical_report_number" -}}
+    {{- with index $citation $field }}
+  <meta name="citation_{{ $field }}" content="{{ . }}">
+    {{- end -}}
+  {{- end -}}
+  {{- $ids := .Params.hugoblox.ids | default dict -}}
+  {{- with $citation.doi | default $ids.doi | default .Params.doi }}
+  <meta name="citation_doi" content="{{ . }}">
+  {{- end -}}
+  {{- with partial "functions/publication-pdf" . }}
+  <meta name="citation_pdf_url" content="{{ .Permalink }}">
+  {{- end -}}
+{{- end -}}

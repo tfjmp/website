@@ -14,7 +14,7 @@ authors:
 - E Boose
 - B Couturier
 - M Crosas
-- A Ellisson
+- A Ellison
 - V Gibson
 - C Jones
 - M Seltzer
@@ -36,4 +36,22 @@ links:
 hugoblox:
   ids:
     doi: 10.1038/sdata.2017.114
+citation:
+  authors:
+  - Thomas Pasquier
+  - Matthew K. Lau
+  - Ana Trisovic
+  - Emery R. Boose
+  - Ben Couturier
+  - Mercè Crosas
+  - Aaron M. Ellison
+  - Valerie Gibson
+  - Chris R. Jones
+  - Margo Seltzer
+  publication_date: '2017'
+  journal_title: Scientific Data
+  volume: '4'
+  issue: '1'
+  firstpage: '170114'
+  issn: 2052-4463
 ---

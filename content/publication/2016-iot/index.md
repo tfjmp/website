@@ -32,4 +32,18 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/JIOT.2015.2460333
+citation:
+  authors:
+  - Jatinder Singh
+  - Thomas Pasquier
+  - Jean Bacon
+  - Hajoon Ko
+  - David Eyers
+  publication_date: '2016'
+  journal_title: IEEE Internet of Things Journal
+  volume: '3'
+  issue: '3'
+  firstpage: '269'
+  lastpage: '284'
+  issn: 2327-4662
 ---

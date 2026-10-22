@@ -11,8 +11,6 @@ authors:
 - T Abrar
 - A Shamail
 - M J Iqbal
-- M Iqbal
-- A Zouaoui
 - A Ahmed
 - M Abdullah
 - M Shayan
@@ -37,4 +35,21 @@ header:
 links:
 - type: pdf
   url: publications/2025-rep.pdf
+citation:
+  authors:
+  - Talha Abrar
+  - Ahmad Shamail
+  - Mohammad Jaffer Iqbal
+  - Amaan Ahmed
+  - Muhammad Abdullah
+  - Muhammad Shayan
+  - Fareed Zaffar
+  - Thomas Pasquier
+  - David Eyers
+  - Ashish Gehani
+  publication_date: '2025'
+  conference_title: Proceedings of the 3rd ACM Conference on Reproducibility and Replicability
+  doi: 10.1145/3736731.3746140
+  firstpage: '14'
+  lastpage: '28'
 ---

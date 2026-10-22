@@ -10,9 +10,9 @@ authors:
 - S C Chan
 - J Cheney
 - P Bhatotia
+- T Pasquier
 - A Gehani
 - H Irshad
-- T Pasquier
 - L Carata
 - M Seltzer
 date: '2019-09-05'
@@ -31,4 +31,19 @@ header:
 links:
 - type: pdf
   url: publications/2019-mw.pdf
+citation:
+  authors:
+  - Sheung Chi Chan
+  - James Cheney
+  - Pramod Bhatotia
+  - Thomas Pasquier
+  - Ashish Gehani
+  - Hassaan Irshad
+  - Lucian Carata
+  - Margo Seltzer
+  publication_date: '2019'
+  conference_title: Proceedings of the 20th International Middleware Conference
+  doi: 10.1145/3361525.3361552
+  firstpage: '268'
+  lastpage: '279'
 ---

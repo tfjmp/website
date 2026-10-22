@@ -27,4 +27,12 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/IC2E.2015.71
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - Julia E. Powles
+  publication_date: '2015'
+  conference_title: 2015 IEEE International Conference on Cloud Engineering
+  firstpage: '410'
+  lastpage: '415'
 ---

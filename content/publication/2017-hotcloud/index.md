@@ -27,4 +27,13 @@ image:
 links:
 - type: pdf
   url: publications/2017-hotcloud.pdf
+citation:
+  authors:
+  - Xueyuan Han
+  - Thomas Pasquier
+  - Tanvi Ranjan
+  - Mark Goldstein
+  - Margo Seltzer
+  publication_date: '2017'
+  conference_title: 9th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 2017)
 ---

@@ -35,4 +35,15 @@ header:
 links:
 - type: pdf
   url: publications/2020-ic2e.pdf
+citation:
+  authors:
+  - Dan O'Keeffe
+  - Asma Vranaki
+  - Thomas Pasquier
+  - David Eyers
+  publication_date: '2020'
+  conference_title: 2020 IEEE International Conference on Cloud Engineering (IC2E)
+  doi: 10.1109/ic2e48712.2020.00013
+  firstpage: '59'
+  lastpage: '65'
 ---

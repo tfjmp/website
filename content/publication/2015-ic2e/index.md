@@ -6,8 +6,8 @@ abstract: Security is an ongoing challenge in cloud computing. Currently, cloud 
   enforce IFC within and across applications, containers, VMs, and hosts. We detail how such middleware can integrate with
   local (kernel) enforcement mechanisms, and highlight the benefits of separating data management policy from application/service-logic.
 authors:
-- T Pasquier
 - J Singh
+- T Pasquier
 - J Bacon
 - D Eyers
 date: '2015-03-09'
@@ -18,7 +18,7 @@ publication_types:
 publication: In *International Conference on Cloud Engineering*, IEEE.
 publication_short: In *IC2E*
 featured: false
-title: Integrating Middleware with Information Flow Control
+title: Integrating Messaging Middleware and Information Flow Control
 header:
   image: ''
   caption: Overview
@@ -28,4 +28,14 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/IC2E.2015.13
+citation:
+  authors:
+  - Jatinder Singh
+  - Thomas F. J.-M. Pasquier
+  - Jean Bacon
+  - David Eyers
+  publication_date: '2015'
+  conference_title: 2015 IEEE International Conference on Cloud Engineering
+  firstpage: '54'
+  lastpage: '59'
 ---

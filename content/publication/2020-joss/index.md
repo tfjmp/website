@@ -27,4 +27,15 @@ links:
 hugoblox:
   ids:
     doi: 10.21105/joss.01312
+citation:
+  authors:
+  - Matthew K. Lau
+  - Thomas F. J.-M. Pasquier
+  - Margo Seltzer
+  publication_date: '2020'
+  journal_title: Journal of Open Source Software
+  volume: '5'
+  issue: '46'
+  firstpage: '1312'
+  issn: 2475-9066
 ---

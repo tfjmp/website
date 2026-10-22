@@ -33,4 +33,14 @@ links:
 hugoblox:
   ids:
     doi: 10.1145/2577080.2577090
+citation:
+  authors:
+  - Thomas Pasquier
+  - Jean Bacon
+  - Brian Shand
+  publication_date: '2014'
+  conference_title: 13th International Conference on Modularity (MODULARITY 2014)
+  firstpage: '37'
+  lastpage: '48'
+  isbn: 978-1-4503-2772-5
 ---

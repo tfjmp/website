@@ -34,6 +34,18 @@ links:
   url: publications/2024-atc.pdf
 - type: project
   url: https://github.com/UBC-BPF
+citation:
+  authors:
+  - Xuechun Cao
+  - Shaurya Patel
+  - Soo Yee Lim
+  - Xueyuan Han
+  - Thomas Pasquier
+  publication_date: '2024'
+  conference_title: 2024 USENIX Annual Technical Conference (USENIX ATC 2024)
+  firstpage: '369'
+  lastpage: '378'
+  isbn: 978-1-939133-41-0
 ---
 
 <div align="center">

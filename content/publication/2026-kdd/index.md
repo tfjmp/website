@@ -33,4 +33,14 @@ links:
   url: publications/2026-kdd.pdf
 - type: project
   url: https://github.com/ubc-provenance/PIDSMaker
+citation:
+  authors:
+  - Tristan Bilot
+  - Baoxiang Jiang
+  - Thomas Pasquier
+  publication_date: '2026'
+  conference_title: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2
+  doi: 10.1145/3770855.3817514
+  firstpage: '8659'
+  lastpage: '8670'
 ---

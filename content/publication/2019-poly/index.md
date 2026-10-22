@@ -26,4 +26,16 @@ header:
 links:
 - type: pdf
   url: publications/2019-poly.pdf
+citation:
+  authors:
+  - Thomas Pasquier
+  - David Eyers
+  - Margo Seltzer
+  publication_date: '2019'
+  conference_title: Heterogeneous Data Management, Polystores, and Analytics for Healthcare (DMAH 2019 / Poly 2019)
+  doi: 10.1007/978-3-030-33752-0_4
+  firstpage: '54'
+  lastpage: '67'
+  issn: 0302-9743
+  isbn: '9783030337513'
 ---

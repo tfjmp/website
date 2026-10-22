@@ -40,6 +40,20 @@ links:
 hugoblox:
   ids:
     doi: 10.1145/3243734.3243776
+citation:
+  authors:
+  - Thomas Pasquier
+  - Xueyuan Han
+  - Thomas Moyer
+  - Adam Bates
+  - Olivier Hermant
+  - David Eyers
+  - Jean Bacon
+  - Margo Seltzer
+  publication_date: '2018'
+  conference_title: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security
+  firstpage: '1601'
+  lastpage: '1616'
 ---
 
 <div align="center">

@@ -27,4 +27,13 @@ links:
 hugoblox:
   ids:
     doi: 10.1109/CloudCom.2015.41
+citation:
+  authors:
+  - Thomas F. J.-M. Pasquier
+  - Jatinder Singh
+  - Jean Bacon
+  publication_date: '2015'
+  conference_title: 2015 IEEE 7th International Conference on Cloud Computing Technology and Science (CloudCom)
+  firstpage: '467'
+  lastpage: '470'
 ---
