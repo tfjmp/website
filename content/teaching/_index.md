@@ -1,5 +1,8 @@
 ---
 title: Teaching
+description: >-
+  Courses and tutorials taught by Thomas Pasquier at Oxford, UBC, and Bristol,
+  including computer networks, operating systems, and systems security.
 type: landing
 sections:
 - block: page-header

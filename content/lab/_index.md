@@ -1,5 +1,8 @@
 ---
 title: Lab
+description: >-
+  Meet Thomas Pasquier's research group and explore DPhil opportunities, postdoctoral
+  fellowships, student projects, and research visits at Oxford.
 type: landing
 sections:
 - block: page-header

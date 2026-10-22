@@ -1,5 +1,10 @@
 ---
 title: ''
+description: >-
+  Thomas Pasquier is an Associate Professor at the University of Oxford researching
+  systems security, intrusion detection, and digital provenance.
+seo:
+  title: Thomas Pasquier | University of Oxford
 type: landing
 sections:
 - block: resume-biography-3

@@ -1,5 +1,8 @@
 ---
 title: Research
+description: >-
+  Research publications and academic service by Thomas Pasquier, covering systems
+  security, intrusion detection, digital provenance, and operating systems.
 type: landing
 sections:
 - block: page-header
