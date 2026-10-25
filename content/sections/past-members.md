@@ -1,27 +1,11 @@
 ---
-title: Students & Postdocs
+title: Past members
 build:
   render: never
   list: never
 ---
 
-### Current members
-
-| Name | Role | Start year |
-| --- | --- | --- |
-| {{< person portrait="tristan-bilot" >}}[Tristan Bilot](https://tristanbilot.github.io/)<small class="people-detail">UBC</small>{{< /person >}} | Postdoc | 2026 |
-| {{< person portrait="soo-yee-lim" >}}[Soo Yee Lim](https://s00y33.github.io/)<small class="people-detail">UBC</small>{{< /person >}} | PhD student | 2021 |
-| {{< person portrait="xuechun-cao" >}}[Xuechun Cao](https://joycecao11.github.io/)<small class="people-detail">UBC</small>{{< /person >}} | PhD student | 2022 |
-| {{< person portrait="cathy-liu" >}}[Cathy Liu](https://www.linkedin.com/in/cathy-liu-aa1b59250/)<small class="people-detail">UBC</small>{{< /person >}} | MSc student | 2026 |
-| {{< person portrait="robin-matheson" >}}[Robin Matheson](https://www.linkedin.com/in/robinmatheson/)<small class="people-detail">UBC</small>{{< /person >}} | MSc student | 2026 |
-
-<!---
-### Visiting Students
--->
-
-### Past members {#past-students-and-visitors}
-
-#### Doctoral students
+### Doctoral students
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
@@ -29,7 +13,7 @@ build:
 | {{< person portrait="tristan-bilot" >}}[Tristan Bilot](https://tristanbilot.github.io/)<small class="people-detail">[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)</small>{{< /person >}} | Visiting PhD | 2024 | Postdoctoral Fellow, UBC |
 | [Wellison Raul Mariz Santos](https://www.linkedin.com/in/wellison-santos-476592131/?locale=en_US)<small class="people-detail">[UFPE](https://www.ufpe.br/)</small> | Visiting PhD | 2024 | Researcher and Professor, [CISSA/CESAR](https://www.cesar.org.br/web/english/cissa) |
 
-#### Master's students
+### Master's students
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |
@@ -44,7 +28,7 @@ build:
 | Xiaoxiao Wu<small class="people-detail">Bristol</small> | MSc | 2020 | Consultant, Deloitte |
 | [Yangyang Teng](https://www.linkedin.com/in/yangyangteng/)<small class="people-detail">Bristol</small> | MSc | 2019 | Data Analyst, Bloomberg |
 
-#### Undergraduate students
+### Undergraduate students
 
 | Name | Role | Year | Subsequent position |
 | --- | --- | --- | --- |

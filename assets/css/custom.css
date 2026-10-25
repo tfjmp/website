@@ -150,7 +150,8 @@ section[id], .section-content [id] { scroll-margin-top: 6rem; }
   .publication-image { flex: auto; width: 100%; max-width: 18rem; }
 }
 
-#graduate,
+#current-members,
+#past-students-and-visitors,
 #service,
 #teaching {
   --table-border: var(--site-border);
@@ -275,15 +276,13 @@ section[id], .section-content [id] { scroll-margin-top: 6rem; }
   }
 }
 
-#graduate {
+:is(#current-members, #past-students-and-visitors) {
   --table-label-width: 8.5rem;
 
   th:first-child { width: 34%; }
   th:nth-child(2) { width: 20%; }
   th:nth-child(3) { width: 10%; }
   th:nth-child(4) { width: 36%; }
-
-  table:first-of-type th:nth-child(3) { width: 46%; }
 
   .person-entry { display: flex; align-items: center; gap: 0.75rem; }
   .person-content { min-width: 0; }
@@ -316,7 +315,6 @@ section[id], .section-content [id] { scroll-margin-top: 6rem; }
     td:nth-child(2)::before { content: "Role"; }
     td:nth-child(3)::before { content: "Year"; }
     td:nth-child(4):not(:empty)::before { content: "Subsequent position"; }
-    table:first-of-type td:nth-child(3)::before { content: "Start year"; }
   }
 
   @media (min-width: 480px) and (max-width: 767.98px) {
@@ -337,6 +335,13 @@ section[id], .section-content [id] { scroll-margin-top: 6rem; }
       width: 5rem;
       height: 5rem;
     }
+  }
+}
+
+#current-members {
+  th:nth-child(3) { width: 46%; }
+  @media (max-width: 767.98px) {
+    td:nth-child(3)::before { content: "Start year"; }
   }
 }
 
@@ -431,5 +436,3 @@ section[id], .section-content [id] { scroll-margin-top: 6rem; }
 
 /* Opportunity headings sit beneath Joining my lab in the page outline. */
 :is(#phd, #postdoc, #oxford-projects, #visiting) h3.section-title { text-align: left; font-size: 1.65rem; margin-bottom: 2rem; }
-#graduate .section-content h3 { font-size: 1.65rem; margin-top: 2.5rem; }
-#graduate .section-content h4 { font-size: 1.25rem; }

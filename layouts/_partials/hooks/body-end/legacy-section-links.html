@@ -2,7 +2,8 @@
 {{ $sections := slice
   (dict "id" "publications" "title" "Publications" "url" "/research/")
   (dict "id" "phd" "title" "DPhil opportunities" "url" "/lab/" "page" "sections/phd")
-  (dict "id" "graduate" "title" "Students & Postdocs" "url" "/lab/" "page" "sections/graduate")
+  (dict "id" "current-members" "aliases" (slice "graduate") "title" "Current members" "url" "/lab/" "page" "sections/current-members")
+  (dict "id" "past-students-and-visitors" "title" "Past members" "url" "/lab/" "page" "sections/past-members")
   (dict "id" "service" "title" "Service" "url" "/research/" "page" "sections/service")
   (dict "id" "teaching" "title" "Teaching" "url" "/teaching/" "page" "sections/teaching")
 }}
@@ -12,6 +13,7 @@
   {{ range $sections }}
     {{ $url := .url | relURL }}
     {{ $ids := slice .id }}
+    {{ range .aliases }}{{ $ids = $ids | append . }}{{ end }}
     {{ with .page }}
       {{ with site.GetPage . }}
         {{ $ids = $ids | append .Fragments.Identifiers }}

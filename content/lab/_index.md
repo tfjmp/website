@@ -13,6 +13,15 @@ sections:
     spacing:
       padding: ['0', '0', '0', '0']
 - block: section-content
+  id: current-members
+  content:
+    title: Current members
+    aliases: [graduate]
+    page: sections/current-members
+  design:
+    spacing:
+      padding: ['3rem', '0', '1.5rem', '0']
+- block: section-content
   id: opportunities
   content:
     title: Joining my lab
@@ -56,11 +65,11 @@ sections:
     spacing:
       padding: ['3rem', '0', '3rem', '0']
 - block: section-content
-  id: graduate
+  id: past-students-and-visitors
   content:
-    title: Students & Postdocs
+    title: Past members
     toc_children: true
-    page: sections/graduate
+    page: sections/past-members
   design:
     spacing:
       padding: ['3rem', '0', '3rem', '0']
