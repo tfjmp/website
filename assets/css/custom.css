@@ -8,6 +8,10 @@
   --site-focus: #002147;
   --site-section-width: 68rem;
   --site-section-gutter: 1.5rem;
+  --site-body-font-size: 1rem;
+}
+@media (min-width: 640px) {
+  :root { --site-body-font-size: 1.125rem; }
 }
 .dark {
   --site-link: #B9D6F2;
@@ -37,6 +41,17 @@
   --tw-prose-invert-td-borders: var(--site-border);
 }
 .prose a { color: var(--site-link); text-underline-offset: 0.15em; }
+.bio-text,
+.section-content,
+.research-introduction,
+.experience-entry .prose,
+.publication-summary,
+.publication-entry,
+.publication-abstract,
+.page-body article main > .prose {
+  font-size: var(--site-body-font-size);
+  line-height: 1.7;
+}
 a:focus-visible, button:focus-visible, input:focus-visible {
   outline: 2px solid var(--site-focus);
   outline-offset: 4px;
@@ -128,7 +143,6 @@ footer a { color: var(--site-link); }
 .dark .experience-logo img[src$="/gemalto.svg"],
 .dark .experience-logo img[src$="/bristol-current.png"] { filter: brightness(0) invert(1); }
 .contact-map { display: block; width: 100%; border: 1px solid var(--site-border); border-radius: 0.5rem; margin-top: 2rem; }
-.experience-entry .prose { font-size: 1rem; }
 .experience-entry .prose p { margin: 0; }
 .featured-publications { max-width: calc(var(--site-section-width) - 2 * var(--site-section-gutter)); }
 .featured-publication { display: flex; gap: 2rem; padding: 2rem 0; border-bottom: 1px solid color-mix(in srgb, currentColor 15%, transparent); }
@@ -138,7 +152,7 @@ footer a { color: var(--site-link); }
 .featured-publication h3 a:hover { color: var(--color-primary-600); }
 .dark .featured-publication h3 a:hover { color: var(--color-primary-400); }
 .publication-authors, .publication-venue { font-size: 0.9rem; opacity: 0.8; margin-bottom: 0.4rem; }
-.publication-summary { font-size: 1rem; line-height: 1.65; margin: 0.8rem 0; }
+.publication-summary { margin: 0.8rem 0; }
 .publication-image { flex: 0 0 11rem; align-self: center; }
 .publication-image img { width: 100%; height: auto; border-radius: 0.5rem; }
 section[id], .section-content [id] { scroll-margin-top: 6rem; }
