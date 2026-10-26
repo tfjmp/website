@@ -11,6 +11,12 @@ cascade:
   outputs:
   - HTML
   - present
+- target:
+    path: '{/publication_types,/categories,/categories/course,/tags}'
+    kind: '{taxonomy,term}'
+  build:
+    render: never
+    list: never
 build:
   writeStats: true
 enableGitInfo: false

@@ -337,6 +337,13 @@
             }
           }
         });
+
+        const initialQuery = new URLSearchParams(window.location.search).get('q')?.trim();
+        if (initialQuery) {
+          this.query = initialQuery;
+          this.$store.search.open = true;
+          await this.search();
+        }
       },
 
       trapFocus(event) {
