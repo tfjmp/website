@@ -11,12 +11,6 @@ build:
 |------------------------------------------------------------------------------------------------|-----------|--------------------|
 | [Computer Networks](https://www.cs.ox.ac.uk/teaching/courses/2026-2027/networks/) | 2026-2027 | Hilary (January) |
 
-| Tutorial | Year | Term |
-|------------------------------------------------------------------------------------------------|-----------|--------------------|
-| [Digital Systems](https://www.cs.ox.ac.uk/teaching/courses/2026-2027/digitalsystems/) | 2026-2027 | Hilary/Trinity (January/April) |
-| [Compilers](https://www.cs.ox.ac.uk/teaching/courses/2026-2027/com/) | 2026-2027 | Hilary (January) |
-| [Concurrent Programming](https://www.cs.ox.ac.uk/teaching/courses/2026-2027/concurrentprogramming/) | 2026-2027 | Michaelmas (October) |
-
 ## UBC
 
 | Course | Year | Term |
