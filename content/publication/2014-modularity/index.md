@@ -20,7 +20,7 @@ image_preview: ''
 math: true
 publication_types:
 - paper-conference
-publication: In *International Conference on Modularity*, IEEE.
+publication: In *International Conference on Modularity*, ACM.
 publication_short: In *Modularity*
 featured: false
 title: 'FlowR: Aspect Oriented Programming for Information Flow Control in Ruby'

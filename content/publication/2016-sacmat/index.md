@@ -18,7 +18,7 @@ image_preview: ''
 math: true
 publication_types:
 - paper-conference
-publication: In *Symposium on Access Control Models and Technologiese*, ACM.
+publication: In *Symposium on Access Control Models and Technologies*, ACM.
 publication_short: In *SACMAT*
 featured: false
 title: Data-Centric Access Control for Cloud Computing
