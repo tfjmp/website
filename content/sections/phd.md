@@ -52,7 +52,7 @@ For budgeting, see Oxford's guidance on the [cost of living](https://www.ox.ac.u
 #### Before applying
 
 Before applying, search the research literature and read recent papers relevant to your interests.
-Use this reading to develop and motivate the research questions you describe in your application.
+Focus on the research questions and main contributions of these papers, and use this reading to explain what you would like to investigate.
 Useful starting points include the proceedings of leading conferences in:
 
 * **Security:** [USENIX Security](https://www.usenix.org/conferences/byname/108), [IEEE S&P](https://www.ieee-security.org/TC/SP-Index.html), [ACM CCS](https://dl.acm.org/conference/ccs/proceedings), and [NDSS](https://www.ndss-symposium.org/).
@@ -84,7 +84,8 @@ During your DPhil, we will refine your ideas and agree on your research topic to
 You do not need to contact me or receive a reply before applying and naming me as a prospective supervisor.
 
 You are welcome to [email me](mailto:thomas.pasquier@cs.ox.ac.uk) with **[Prospective Student]** in the subject line.
-Briefly describe your research interests and experience, and explain how they connect with my group's work.
+Briefly describe your research interests and experience in your own words, and explain what interests you about my group's work.
+Using AI to polish the wording is fine, but the message should reflect your own understanding and motivation.
 
 I am happy to comment on how your proposal or research interests fit with my group's work.
 I do not review full application packages by email or discuss your chances of admission.
